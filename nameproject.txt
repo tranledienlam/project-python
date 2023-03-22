@@ -1,0 +1,31 @@
+python project for beginner
+    - alarm clock
+    - timer clock
+    - count down clock
+    - auto click
+    - sort algorithm (bubble sort, heap sort, sort)
+    - search algorithm (search, binary search)
+    - contact book
+    - cow and bull game
+    - snake game
+    - sudoku game
+    - rubik resolved
+    - directory and file tree visualize
+    - keylogger
+    - music player
+    - password Generator
+    - QR code encode and decode
+    - rock paper scissor
+    - simple calculator
+    - telegram bot
+    - tic tac toe
+    - weather program
+    - web crawler
+    - youtube downloader
+    - instagram downloader
+    - dice rolling 
+    - face detection
+    - face recognization
+    - car recognization
+    - QR detection
+    - QR scanner
