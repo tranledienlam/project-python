@@ -17,10 +17,10 @@ python project for beginner
     - QR code encode and decode
     - rock paper scissor
     - simple calculator
-    - telegram bot
+    - telegram bot -> pending
     - tic tac toe
     - weather program
-    - web crawler
+    - web crawler -> pending
     - youtube downloader
     - instagram downloader
     - dice rolling 
