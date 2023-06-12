@@ -12,7 +12,7 @@ python project for beginner
     - rubik resolved
     - directory and file tree visualize
     - keylogger
-    - music player
+    - music player -> pending
     - password Generator
     - QR code encode and decode
     - rock paper scissor

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Phát radio 91.0FM từ Radio Garden</title>
+	<style>
+		#player {
+			background-color: #f1f1f1;
+			padding: 20px;
+			border: 1px solid #ddd;
+			border-radius: 5px;
+			width: 400px;
+			margin: 50px auto;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		
+		#play-button {
+			background-color: #ff9900;
+			color: white;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			font-size: 1.2rem;
+			cursor: pointer;
+			margin-left: 20px;
+		}
+	</style>
+</head>
+<body>
+  <div class="player_mask">
+
+    <div id="home_player" style="margin-bottom: 10px; margin-left: 10px; margin-right: 10px;">
+       <audio controls="" style="width: 100%">
+          <source src="http://113.164.229.226:7001/stream" type="audio/mpeg">
+       </audio>
+    </div>
+ </div>
+	<div id="player">
+		<audio id="radio" src="http://113.164.229.226:7001/stream"></audio>
+		<div>
+			<label for="radio">Phát radio 91.0FM từ Radio Garden</label>
+			<button id="play-button">Phát</button>
+		</div>
+	</div>
+  <button onclick="window.open('https://stream.vovmedia.vn/vovgthn?listening-from-radio-garden=1680855274', '_blank')">Play Radio</button>
+
+	<script>
+		const radio = document.getElementById('radio');
+		const playButton = document.getElementById('play-button');
+
+		playButton.addEventListener('click', function() {
+			if (radio.paused) {
+				radio.play();
+				playButton.textContent = "Dừng";
+			} else {
+				radio.pause();
+				playButton.textContent = "Phát";
+			}
+		});
+	</script>
+</body>
+</html>
