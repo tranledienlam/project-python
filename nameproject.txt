@@ -3,7 +3,7 @@ python project for beginner
     - timer clock
     - count down clock
     - auto click
-    - sort algorithm (bubble sort, heap sort, sort)
+    - sort algorithm (bubble sort, heap sort, sort) DONE
     - search algorithm (search, binary search)
     - contact book
     - cow and bull game
@@ -17,10 +17,10 @@ python project for beginner
     - QR code encode and decode
     - rock paper scissor
     - simple calculator
-    - telegram bot -> pending
+    - telegram bot -> DONE (basic)
     - tic tac toe
     - weather program
-    - web crawler -> pending
+    - web crawler -> DONE (more learning)
     - youtube downloader
     - instagram downloader
     - dice rolling 
