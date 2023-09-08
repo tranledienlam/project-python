@@ -1,38 +1,35 @@
-ob = {
-    "itemid": 21662518531,
-    "shopid": 506013738,
-    "name": "M47 - BỘ ARSENAL - QUẦN ÁO THỂ THAO LONG THANH",
-    "sold": 3841,
-    "historical_sold": 33882, //số lượng đã bán
-    "liked_count": 4303, // like sản phẩm
-    "price": 31000.00000, // bỏ 5 con số bên phải
-    "price_min": 3100000000,
-    "price_max": 5700000000,
-    "price_min_before_discount": 3300000000,
-    "price_max_before_discount": 5900000000,
-    "price_before_discount": 3300000000,
-    "discount": "6%",
-    "item_rating": {
-      "rating_star": 4.773039392844236,
-      "rating_count": [
-        11071, // tong
-        161, // 1 sao
-        111, // 2 sao
-        300, // 3 sao
-        935, // 4 sao
-        9564 // 5 sao
-      ],
-      "rcount_with_image": 2506,
-      "rcount_with_context": 4176
-    },
-    "shopee_verified": true,
-    "shop_location": "TP. Hồ Chí Minh",
-    "voucher_info": {
-      "promotion_id": 702514068619264,
-      "voucher_code": "CCSE1327",
-      "label": "15% Giảm"
-    },
-    "shop_name": "Xuong may Long Thanh",
-    "shop_rating": 4.827125,
-    "flash_sale_stock": 347,
-  }
+item_daily_discover = {
+  "itemid": 3891290785,
+  "shopid": 460257458,
+  "name": "Áo Khoác Gió Nam Nữ, ÁO KHOÁC Gió 2 Lớp Nam Nữ (Ảnh Thật/như hình) D30",
+  "ctime": 1623080468,
+  "sold": 724,
+  "historical_sold": 12261,
+  "liked_count": 12953, // số người like sản phẩm
+  "catid": 100011,
+  "price": 8900000000,
+  "price_min": 8900000000,
+  "price_max": 9900000000,
+  "price_min_before_discount": 12900000000,
+  "price_max_before_discount": 12900000000,
+  "discount": "31%",
+  "item_rating": {
+    "rating_star": 4.723315774882174,
+    "rating_count": [
+      3608, //tổng bình luận
+      37, // 1 sao
+      38,
+      183,
+      373,
+      2977 // 5 sao
+    ],
+    "rcount_with_image": 717, // có hình
+    "rcount_with_context": 1462 // có text
+  },
+  "shopee_verified": true,
+  "shop_location": "TP. Hồ Chí Minh",
+  "shop_rating": 4.701711,
+}
+
+
+console.log(item)
