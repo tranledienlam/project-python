@@ -41,16 +41,11 @@ import time
     
 def detail_cat(path: str,page = 0):
     cat_subid = path.split('.')[-1]
+    print(f"-- crawling sub: {path} - page: {page} --")
     
     options = webdriver.FirefoxOptions()
     options.headless = True
-    # options = {
-    #             'proxy': {
-    #                 'http': 'http://78.47.11.34:20009',
-    #                 'https': 'http://78.47.11.34:20009',
-    #                 'custom_authorization': 'elite proxy'
-    #             }
-    #         }
+
     driver = webdriver.Firefox(options=options)
     # driver.proxy = {
     #     'https': 'https://144.49.99.169:8080',
@@ -62,7 +57,7 @@ def detail_cat(path: str,page = 0):
     time.sleep(3)
     
     for request in driver.requests:
-        # print(str(request.url))
+        
         if (str(request.url)).startswith('https://shopee.vn/api/v4/recommend/recommend?bundle'):
 
             response = request.response
@@ -101,10 +96,10 @@ def detail_cat(path: str,page = 0):
                     } for i in items_data]
             df = pd.DataFrame(items)
             
-            return df
-
     time.sleep(10)
     driver.quit()
+    return df
+
 if __name__ == '__main__':
     
     path = 'Áo-Khoác-cat.11035567.11035568'

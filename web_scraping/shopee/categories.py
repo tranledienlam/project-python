@@ -21,7 +21,7 @@ def get():
         url = 'https://shopee.vn'
 
         driver.get(url)
-        time.sleep(3)
+        time.sleep(5)
         
         for request in driver.requests:
             # print(str(request.url))
@@ -61,8 +61,9 @@ def get():
                                 # 'path': f"{x['display_name'].replace(' ','-')}-cat.{x['catid']}"
                             } for x in category_list]
 
-                return categories
         driver.quit()
+        return categories
+    
     except:
         print("xử lý bị lỗi")
         get()
@@ -72,11 +73,11 @@ def get_parent():
     cats_all = get()
     
     cats_parent = [{
-        'catid':x['catid'],
-        'cat_name': x['cat_name']
-         } for x in cats_all]
-    print('-- end crawl --')
+                    'catid':x['catid'],
+                    'cat_name': x['cat_name']
+                    } for x in cats_all]
     
+    print('-- end crawl --')
     return cats_parent
 
 def get_children():
