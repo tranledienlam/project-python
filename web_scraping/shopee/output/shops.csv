@@ -1,293 +1,561 @@
 shopid,shop_name,shop_location,shop_rating,shopee_verified
-460257458,PTZ.STORE,TP. Hồ Chí Minh,4.702254,True
-294032085,XưởngÁo_34,Hà Nội,4.583621,True
-784310271,"เสื้อกันลม, เสื้อโค้ท",Nước ngoài,4.631884,False
-807276554,GUNNO,Hà Nội,4.758464,True
-187103490,LARLEY STORE,Hà Nội,4.733427,True
-293910447,xiaoxiao_hd,Hà Nội,4.745498,True
-530723148,Gen Z boutique ,Nam Định,4.720299,False
-203097551,Trùm buôn hàng hót,Thái Nguyên,4.413866,False
-547245811,ENZO ,Lâm Đồng,4.683854,False
-797949148,ATMAN,Hà Nội,4.7638,True
-792027893,DOMEN STORE,Lâm Đồng,4.685877,True
-276574891,ODIN CLUB,Hà Nội,4.8297,True
-495082115,LATIZIA STUDIO,Đắk Nông,4.745612,True
-30142553,NASU MAY -XƯỞNG MAY THỜI TRANG,Hà Nội,4.559716,True
-753695314,COOL STORE - FASHION,Đắk Nông,4.706381,False
-362902030,BASIC DREAM - CLOTHES,Hà Nội,4.840241,True
-17475845,shopminh1998ql,TP. Hồ Chí Minh,4.671554,True
-308542026,Teelab Official,TP. Hồ Chí Minh,4.897972,False
-373659258,ptkorder,Hà Nội,4.953755,True
-26918633,MT Shop Hàng Quảng Châu,Hà Nội,4.790037,False
-445450015,StyleMarven - Quần áo Unisex,Hà Nội,3.900417,False
-18825659,shondlesandal,TP. Hồ Chí Minh,4.876843,True
-574357775,LUVICK1207,Hà Nội,4.74768,True
-400003849,Nice Clothes.,Hà Nội,4.829854,True
-58673037,Kho Sỉ Quần Áo Giá Xưởng,Hà Nam,4.634058,True
-77256939,Be Mine,Hà Nội,3.161075,False
-294029838,dep_unisex_hn,Hải Dương,4.453029,False
-849446102,Bomber_Zone34,Hà Nội,4.46137,True
-43164597,Bamboo Streewear,Hà Nội,4.90233,True
-294420623,Ao_Thun_Unisex_Official,Hải Dương,4.884999,True
-127217331,5S FASHION OFFICIAL,Hà Nội,4.928042,False
-17227968,BAO DANG FASHION1,TP. Hồ Chí Minh,4.656462,True
-281309308,DOMINION - THỜI TRANG UNISEX,TP. Hồ Chí Minh,4.744087,True
-48322160,ttshopgiare,TP. Hồ Chí Minh,4.792052,True
-254790168,HHP FASHION,TP. Hồ Chí Minh,4.398971,True
-160417625,zukabeo_shop,TP. Hồ Chí Minh,4.488559,True
-472704004,Tm81Store,Gia Lai,4.683609,True
-805909778,ZONEF OFFICIAL,Hà Nội,4.771397,True
-530911071,Tổng Kho Thời Trang Q9,Nam Định,4.299133,False
-52682650,KARLEY STORE,Hà Nội,4.715881,True
-57975387,Men Art Store,Hà Nội,4.863184,True
-70677296,BAO DANG fashion,TP. Hồ Chí Minh,4.708701,False
-90033870,shop gia khang,TP. Hồ Chí Minh,4.66003,True
-311126195,Xưởng Chuyên Sỉ Áo Chống Nắng,TP. Hồ Chí Minh,4.842624,True
-715077913,Thời Trang Vinh Mai,Hà Nội,4.754971,True
-408171663,Wind_Fashion,TP. Hồ Chí Minh,4.722135,True
-703090265,GODMOTHER,Hà Nội,4.917957,False
-37144829,Nocturnal,TP. Hồ Chí Minh,4.885405,True
-322123022,Sevenzia Official,TP. Hồ Chí Minh,4.910801,True
-96065719,DAVIES,Đà Nẵng,4.940099,False
+711707322,Chew Berry,Hà Nội,4.519897,True
+33435563,Q5_JULIDO,Hà Nội,4.799129,True
+195271254,FFStore,TP. Hồ Chí Minh,4.905314,False
+549747975,Boydegia_timgaituoiteen,Hải Dương,4.363415,False
+217119036,MT - FASHION,Hà Nội,4.683978,True
+342057833,MINA.HOUSE,Hà Nội,4.879369,True
+391501205,8YO STUDIO,TP. Hồ Chí Minh,4.921156,True
+16771696,AESHOP0707,Hà Nội,4.896669,True
+781218579,Huyền Clothing 99,Hà Nội,4.828854,True
+90033870,shop gia khang,TP. Hồ Chí Minh,4.660051,True
+187103490,LARLEY STORE,Hà Nội,4.732931,True
+495082115,LATIZIA STUDIO,Đắk Nông,4.744705,True
+419358980,CherryStore999,TP. Hồ Chí Minh,4.834406,False
+448787450,Cardina Fashion,Hà Nội,4.874259,False
+358123846,ROWAY official,Hà Nội,4.909849,False
+58673037,Kho Sỉ Quần Áo Giá Xưởng,Hà Nam,4.634156,True
+410846282,WEDO FASHION,TP. Hồ Chí Minh,4.634038,True
+389747365,ADOSHOP.MENSWEAR,TP. Hồ Chí Minh,4.812861,True
+17475845,shopminh1998ql,TP. Hồ Chí Minh,4.671299,True
+305127454,Shop_Phan,Hà Nội,4.570438,False
+220347392,thinhthunhiquy,Hà Nam,4.197395,True
+77520556,Xưởng may thời trang siêu rẻ,TP. Hồ Chí Minh,4.695685,False
+130025328,T91 STORE,Hà Nội,4.764865,True
+16580423,zenkonam,Hà Nội,3.449567,False
+252680224,XOXO Unisex69,Hà Nội,4.6857,True
 171238193,ÁO CHỐNG NẮNG _KAKI,TP. Hồ Chí Minh,4.777041,True
+740664224,JEJUL.store,TP. Hồ Chí Minh,4.799724,True
+51813198,MAYLAN STORE,TP. Hồ Chí Minh,4.885653,True
+52158625,XƯỞNG MAY GIA CÔNG THEO MẪU,TP. Hồ Chí Minh,4.821314,True
+70677296,BAO DANG fashion,TP. Hồ Chí Minh,4.708705,False
+782549849,PTZ.sg,TP. Hồ Chí Minh,4.729503,True
+56086378,DOLCE XOM - Long Hoàng,Hà Nội,4.672381,False
+410557043,Contica,Hà Nội,4.834568,True
+152085882,Đồ thể thao nam nữ giá rẻ SP,TP. Hồ Chí Minh,4.645064,False
+167989440,TITI FASHION,TP. Hồ Chí Minh,4.761371,True
+477196600,Manxury Official,Hà Nội,4.855437,True
+746278578,BIGO MALL,Nam Định,4.296576,True
+739771122,Shop96_2023,TP. Hồ Chí Minh,4.486647,False
+547245811,ENZO ,Lâm Đồng,4.683058,False
+747298045,HTM FASHION,TP. Hồ Chí Minh,4.410106,False
+67864923,ZATA (Bull Sport),Hà Nội,4.804768,True
+273483468,Bảo Bảo_BB,Thái Bình,4.567535,False
+66198898,ShopMap - Thời trang tuổi Teen,TP. Hồ Chí Minh,4.702506,True
+19414441,Dacos,TP. Hồ Chí Minh,4.858217,False
+780765070,Unisex Avenue,Hà Nội,4.382754,False
+460257458,PTZ.STORE,TP. Hồ Chí Minh,4.701865,True
+563494552,TH Shop - Thời Trang Trẻ,TP. Hồ Chí Minh,4.753438,True
+466691142,Baby Teeth,TP. Hồ Chí Minh,4.833511,False
+296183036,doubleh.storee,Hà Nội,4.720401,False
+321258581,MR BEAN FASHION - VNXK 93,Đắk Lắk,4.743851,False
+294032085,XưởngÁo_34,Hà Nội,4.583434,True
+784310271,"เสื้อกันลม, เสื้อโค้ท",Nước ngoài,4.632948,False
+807276554,GUNNO,Hà Nội,4.758206,True
+293910447,xiaoxiao_hd,Hà Nội,4.745172,True
+530723148,Gen Z boutique ,Nam Định,4.720299,False
+203097551,Trùm buôn hàng hót,Thái Nguyên,4.414173,False
+365676802,shopunisex9,Nam Định,4.328512,False
+797949148,ATMAN,Hà Nội,4.763814,True
+792027893,DOMEN STORE,Lâm Đồng,4.686325,True
+30142553,NASU MAY -XƯỞNG MAY THỜI TRANG,Hà Nội,4.559736,True
+753695314,COOL STORE - FASHION,Đắk Nông,4.706115,False
+276574891,ODIN CLUB,Hà Nội,4.82971,True
+308542026,Teelab Official,TP. Hồ Chí Minh,4.897988,False
+362902030,BASIC DREAM - CLOTHES,Hà Nội,4.840352,True
+373659258,ptkorder,Hà Nội,4.953715,True
+445450015,StyleMarven - Quần áo Unisex,Hà Nội,3.900115,False
+18825659,shondlesandal,TP. Hồ Chí Minh,4.876816,True
+26918633,MT Shop Hàng Quảng Châu,Hà Nội,4.789973,False
+574357775,LUVICK1207,Hà Nội,4.74768,True
+400003849,Nice Clothes.,Hà Nội,4.829831,True
+77256939,Be Mine,Hà Nội,3.160693,False
+849446102,Bomber_Zone34,Hà Nội,4.459978,True
+43164597,Bamboo Streewear,Hà Nội,4.902345,True
+294029838,dep_unisex_hn,Hải Dương,4.452725,False
+294420623,Ao_Thun_Unisex_Official,Hải Dương,4.884832,True
+17227968,BAO DANG FASHION1,TP. Hồ Chí Minh,4.656481,True
+281309308,DOMINION - THỜI TRANG UNISEX,TP. Hồ Chí Minh,4.744126,True
+127217331,5S FASHION OFFICIAL,Hà Nội,4.928021,False
+48322160,ttshopgiare,TP. Hồ Chí Minh,4.79175,True
+160417625,zukabeo_shop,TP. Hồ Chí Minh,4.488622,True
+805909778,ZONEF OFFICIAL,Hà Nội,4.771438,True
+472704004,Tm81Store,Gia Lai,4.684411,True
+530911071,Tổng Kho Thời Trang Q9,Nam Định,4.299133,False
+57975387,Men Art Store,Hà Nội,4.863269,True
+52682650,KARLEY STORE,Hà Nội,4.715633,True
+254790168,HHP FASHION,TP. Hồ Chí Minh,4.39836,True
+311126195,Xưởng Chuyên Sỉ Áo Chống Nắng,TP. Hồ Chí Minh,4.842866,True
+294323599,4_Teen_ShopHQ,Hải Dương,4.917016,True
+883788875,AnhKhanhshop87,Phú Thọ,4.85149,True
+98124463,HK Store - Hàng VNXK,Phú Thọ,4.7343,False
+341149427,MIXMAX Streetwear,Hà Nội,4.874088,False
+253601948,MIANT STORE 3,TP. Hồ Chí Minh,4.767323,True
+234503065,ao_thun8892,Hải Dương,4.920602,False
+198196010,Z01 Town,Hà Nội,4.888209,False
+275899480,Helloyou Official,Hà Nội,4.838084,True
+58685527,2000.com.vn,Hà Nội,4.732103,True
+957266814,kaystoreonline,TP. Hồ Chí Minh,4.43029,True
+814983649,JEGO.UNISEX,Hà Nội,4.715567,False
+294412280,Jeans_Basic_HQ,Hải Dương,4.946909,True
+519706283,FASHION PTZ.Store,TP. Hồ Chí Minh,4.723217,True
+130154555,thoitrangtre.com,Hà Nội,4.623701,True
+724617386,KAY-STORE,TP. Hồ Chí Minh,4.589721,True
+43488350,FAKING,TP. Hồ Chí Minh,4.77552,False
+148407410,HAVADO Menswear,TP. Hồ Chí Minh,4.828921,True
+703955472,DINO 20,Thái Nguyên,4.694501,False
+56031075,Chuyên sỉ lẽ quần nam,Đà Nẵng,4.709466,False
+535360476,Xưởng Quần Bò Giá Rẻ🔱,Thái Nguyên,4.590852,True
+40021101,HEMS FASHION,Thái Bình,4.733438,True
+127115231,jeandep_thoitrang,TP. Hồ Chí Minh,4.623894,True
+230993635,X-men Shop 37,Nghệ An,4.339695,True
+312461697,Shop chuyên thời trang nam,Bình Dương,4.738306,False
+362579679,LAVADO Menswear,TP. Hồ Chí Minh,4.826917,True
+682198966,KING77_FASHION,TP. Hồ Chí Minh,4.72286,True
+294394193,ThoitrangHQ.Store,Hải Dương,4.933859,True
+730628223,Auroro.vn,Nước ngoài,4.793136,True
+479443956,Trend Clothing_Store,Hà Nội,4.761405,False
+294162420,NC - November Clothing,Hà Nội,4.645617,False
+280556005,FAZA_SHOP,TP. Hồ Chí Minh,4.834094,False
+439648449,Gió Store 68,Hà Nội,4.751416,True
+397949373,Gin_D,Hà Nội,4.720537,False
+3596871,Xưởng May Quần Jean Nam - Nữ,Đà Nẵng,4.64338,True
+236144271,Unicorns Store,TP. Hồ Chí Minh,4.720609,True
+115308834,shopphale99,TP. Hồ Chí Minh,4.678803,True
+294643448,quan_bo_dep_gia_sinh_vien,Hải Dương,4.919746,True
+369369020,ALLEN STORE,TP. Hồ Chí Minh,4.76162,True
+590010013,Elmen Official,Hà Nội,4.806323,True
+836877673,TMSHOP68QJ,TP. Hồ Chí Minh,4.496084,False
+119017165,20We Style$Clothing,Hà Nội,4.819993,True
+63168762,SuperStorm Store,TP. Hồ Chí Minh,4.810099,False
+41726939,SuzaSport - Quần Áo Xuất Dư,Hà Nội,4.633026,True
+649887452,Hungocb Studio,TP. Hồ Chí Minh,4.863696,True
+368338360,Will Shop_01,TP. Hồ Chí Minh,4.683293,False
+89210712,Unisex.shop3,Nam Định,4.46528,True
+476326833,GinsengStore,TP. Hồ Chí Minh,4.713004,False
+684068473,NamHoaiFashion19,Hà Nội,3.978022,False
+510307075,Yelan cửa tiệm,Nước ngoài,4.799297,False
+236416978,DCSG ,TP. Hồ Chí Minh,4.942341,False
+485660328,Athanor Streetwear,Hà Nội,4.788045,False
+147861227,VSTYLE,TP. Hồ Chí Minh,4.802448,True
+228476792,RATEL STORE,TP. Hồ Chí Minh,4.820439,True
+606962043,THỜI TRANG HOTTREN 365,Hà Nội,4.116909,True
+704317817,KHOUSE-한국 여성 패션,Nước ngoài,4.364119,False
+294139394,LocalBrand_official,Hà Nội,4.633709,False
+30764411,ShopKT99,TP. Hồ Chí Minh,4.675239,True
+82095709,shineess.vn,Nước ngoài,4.424963,False
+261459456,tinastore.hn,Nam Định,4.27254,False
+332319413,Y-C Men's Fashion.VN,Nước ngoài,4.61934,True
+807733258,Royal Dragon Fashion Clothing,Nước ngoài,4.502538,False
+238685657,myn.storee,Nam Định,4.801662,False
+149210564,Tianyi Bird Clothing,Nước ngoài,4.760105,True
+37144829,Nocturnal,TP. Hồ Chí Minh,4.885373,True
+21287071,2T STORE | HOODIE UNISEX,TP. Hồ Chí Minh,4.852713,False
+570592825,fashion1111111.vn,Nước ngoài,4.629463,True
+881309585,Magee,Nước ngoài,4.585235,True
+263073233,XƯỞNG IN SỈ LẺ,Hà Nội,4.091971,False
+141740203,TARBO.CLUB,TP. Hồ Chí Minh,4.851896,True
+548514657,SoChi.Fashion,Hà Nội,4.835375,False
+81415163,dothienb7632,TP. Hồ Chí Minh,4.656246,True
+333116310,bb_hoodie,TP. Hồ Chí Minh,4.747195,True
+319710653,TÚI XÁCH UNISEX,TP. Hồ Chí Minh,4.693791,True
+150442729,TXR.THOXRI,TP. Hồ Chí Minh,4.880379,True
+14883477,Kachuch,TP. Hồ Chí Minh,4.685203,True
+18358096,giare01,Nam Định,4.569239,False
+478787649,Xưởng buôn sỉ lẻ,Hà Nội,4.413035,False
+742557003,MC Châu ngọc,Hà Nội,4.847791,False
+37101020,Vender _Store,Hà Nội,4.770903,True
+268361292,KEMGIO SHOP,Hà Nội,4.593826,False
+132356461,ree.vn,TP. Hồ Chí Minh,4.927355,True
+862378262,Beren,Nam Định,4.961318,False
+456166238,Soayoou.vn,Nước ngoài,4.742981,True
+644252338,The Good,Hà Nội,4.920449,False
+461923258,By UniSpace ,TP. Hồ Chí Minh,4.910166,True
+88972759,DUBATI FASHION,TP. Hồ Chí Minh,4.205312,True
+525813362,Hustle All Day,Hà Nội,4.859337,False
+317477677,Levents .vn,TP. Hồ Chí Minh,4.926332,False
+77674415,Oversized Fashion T-shirt,Nước ngoài,4.472044,False
+423720113,Sozo Store,Hà Nội,4.025071,False
+127116885,K9 Unisex,Hà Nội,4.917006,False
+47553988,VIRGO MEN'S FASHION,Hà Nội,4.494605,True
+440192456,Super Fashion P,TP. Hồ Chí Minh,4.81287,False
+619008111,AOKANG,Nước ngoài,4.477838,False
+154100193,xuongchuyensi9x,TP. Hồ Chí Minh,4.646142,True
+195984971,KT Clothing Studio,Nước ngoài,4.622445,True
+133187620,TLS - The Light Studio,Hà Nội,4.933469,True
+446209337,Bảo Bảo  Clothes,Thái Bình,4.54299,False
+313347123,KingMan_official,Tây Ninh,4.684164,True
+860106406,hpyiowa168.vn,Nước ngoài,4.760373,True
+10086143,HATA 24H,TP. Hồ Chí Minh,4.710338,True
+852355912,BEEYANBUY,Thái Nguyên,4.849568,False
+419394380,T-YOO,Nước ngoài,4.789244,False
+452430389,BONELI,Hà Nội,4.793908,False
+98286976,Tharo Clothing,TP. Hồ Chí Minh,4.9145,True
+11348336,Áo thun William Store,TP. Hồ Chí Minh,4.792688,True
+14567432,Wonna - Unisex & Street Style,TP. Hồ Chí Minh,4.848926,True
+899057460,Shop Thời Trang 18,Nam Định,4.587744,False
+154548458,atys.vn,TP. Hồ Chí Minh,4.813731,True
+619007054,Faruiline Official Store,Nước ngoài,4.511517,True
+96725439,Moda.Style,Nam Định,4.827593,True
+38038824,SUKIYA OFFICIAL STORE,Hà Nội,4.828328,False
+116666299,Thế giới_Bigsize,TP. Hồ Chí Minh,4.838131,True
+28623751,Jogger Pants Cực Chất - Unisex,TP. Hồ Chí Minh,4.847395,True
+192988971,Gman : Thời trangnam,Hà Nội,4.812344,True
+10916771,Mixxstore Clothes,Hà Nội,4.191788,False
+202189835,JFD Shop,Nước ngoài,4.575515,False
+16859837,Shopnhatban247.com,Hà Nội,4.900792,False
+65969157,Aither Studio,TP. Hồ Chí Minh,4.896638,True
+378225783,Cc.clothing.VN,Hà Nội,4.786392,True
+99942179,Minh Anh Unisex,Nam Định,4.043084,False
+458595283,Tide brand Unisex Clothing,Nước ngoài,4.774319,False
+801477403,dafeng.vn,Nước ngoài,4.580989,True
+314050421,sentinials,TP. Hồ Chí Minh,4.779302,True
+80102701,MISSOUT,TP. Hồ Chí Minh,4.871446,True
+448790585,MayLinh shop,Hà Nội,4.836363,True
+28922289,Thời Trang ERIK,TP. Hồ Chí Minh,4.611033,False
+343707724,1KENZ_SHOP,TP. Hồ Chí Minh,4.467581,True
+467438940,minghong02.vn,Nước ngoài,4.624187,True
+624263846,Mabel_storevn,TP. Hồ Chí Minh,4.636943,True
+494757116,MODA.style2,Nam Định,4.834766,True
+439665340,IDouDou.vn,Nước ngoài,4.51733,False
+451021973,Dynamite Clothing,Nước ngoài,4.604643,True
+105306980,UNISEX.SHOP1,Nam Định,4.602861,True
+407774554,AFFLIGA,Nước ngoài,4.605835,False
+390979412,Unisex.shop2,Nam Định,4.563342,True
+413387915,Aida shop,Nước ngoài,4.652023,False
+452480749,SQ Men's Fashion Store,Nước ngoài,4.597461,True
+479202443,courtyardflower06.vn,Nước ngoài,4.43266,True
+68208764,Trung shop99,Thanh Hóa,4.478966,False
+181877747,Tingoan Store,Hà Nội,4.948597,False
+425718947,Multi Haus,Hà Nội,4.872366,True
+601039096,Quần Áo Trong Mơ Của Nam Giới,Nước ngoài,4.659704,True
+293869517,dep_au_34,Hà Nội,4.616908,False
+727454403,Shop Thời Trang Thubio,Thanh Hóa,4.580702,True
+56661870,UNISEX SHOP 5,Nam Định,4.834148,False
+581120724,shangque01.vn,Nước ngoài,4.528017,False
+284583606, CUNA,Hà Nội,4.777308,True
+760033200,Man UP.vn,Nước ngoài,4.087282,False
+219530572,high2.vn,Nước ngoài,4.667921,True
+807592281,Gâu Unisex 1999,Hải Dương,4.737583,True
+264983305,GT_FOURTRY .vn,Nước ngoài,4.601094,False
+463716463,arzery.vn,Nước ngoài,4.768317,False
+364598436,vesca_officalstore,Hà Nội,4.675205,False
+20228099,1988-Shop thời trang nam nữ,Hải Dương,4.507636,True
+38003654,Thời Trang FAVITI,Hà Nội,4.847312,True
+51970334,Shop Bảo Trang (chuyên sỉ),Thái Bình,4.699413,True
+399391573,W COOL&TREND M .vn,Nước ngoài,4.5625,False
+845590897,nanafashions.vn,Nước ngoài,4.700252,False
+498881374,Trendy Clothes Hall,Nước ngoài,4.357623,True
+790030547,binguo.vn,Nước ngoài,4.466667,False
+100685648,osmvoi123.vn,Nước ngoài,4.722133,False
+638683611,TUNOMA,Hà Nội,4.712251,False
+738777425,COB.vintage,Hà Nội,4.840829,False
+153274154,khanvintage,Hà Nội,4.867008,True
+821612303,Men's shirts）/*,Nước ngoài,4.536585,False
+202884957,xman.vn,Nước ngoài,4.676841,False
+802115234,quần áo nam lúa mạch,Nước ngoài,4.410131,True
+443326039,Vanheo_Fashion,Quảng Ninh,4.735784,False
+27228264,jaystoree,TP. Hồ Chí Minh,4.877032,True
+450960621,huangxb.vn,Nước ngoài,4.713297,True
+768381058,Baolaiwu.vn,Nước ngoài,4.5,False
+15206925,Kho sỉ thời trang nam giá gốc,Hà Nội,4.648733,False
+28692628,Xưởng may sỉ thời trang nam ,Hà Nội,4.723916,True
+446727259,Thời Trang Cao Cấp Akistore88,Hà Nội,4.785225,False
+15137681,thinluong,TP. Hồ Chí Minh,4.920683,True
+117774125,LANA FASHION,TP. Hồ Chí Minh,4.340301,True
+391238970,GIDI - QUẦN ÁO UNISEX,TP. Hồ Chí Minh,4.89378,True
+301143667,Gốm Sứ Hoài Niệm,TP. Hồ Chí Minh,4.765021,False
+232434430,KING Sỉ Cà Vạt-Nơ-Gile-Áo Quần,TP. Hồ Chí Minh,4.848477,True
+19448747,shoptuanngoc,TP. Hồ Chí Minh,4.715894,False
+68926569,carpediem.2k,Hà Nội,4.791667,False
+14956160,TỔNG KHO SỈ THỜI TRANG VNXK,Hà Nội,4.734843,True
+122309662,S89 STORE,Hà Nội,4.644869,False
+696791967,Men's EOEO,Nước ngoài,4.539337,True
+734609755,Cửa hàng đồ nam RR.vn,Nước ngoài,4.311986,False
+928207729,CỌP.vintage,Hà Nội,4.899449,True
+329002439,BEFOYI Official Store,Nước ngoài,4.37665,False
+423834136,Mr.wolf.vn,Nước ngoài,4.763781,True
+141921231, INCERUN Official Store,Nước ngoài,4.72497,False
+237614582,Thời Trang Vest - DUKI STORE,Nam Định,4.816306,True
+294187612,VuHai.vn,Hà Nội,4.906371,False
+59596762,Thời Trang MANDO,Hà Nội,4.845312,False
+139657719,Tiệm CŨ KĨ,TP. Hồ Chí Minh,4.925426,True
+114310081,Bộ Vest Nam cao cấp,Hà Nội,4.948339,False
+89788513,T-A-N,TP. Hồ Chí Minh,4.805936,False
+442710143,THỜI TRANG MISUDO,Hà Nội,4.764869,False
+156258381,Biluxury Vương,Hà Nội,4.853765,True
+715077913,Thời Trang Vinh Mai,Hà Nội,4.754877,True
+571738766,Ngantramshop,Đà Nẵng,4.641621,False
+29600811,Phi Boutique- Thời trang Nam,Hưng Yên,4.782131,True
+16596480,CÁ ORDER 🐳,Thanh Hóa,4.818405,False
+120503376,MH MEN STORE,TP. Hồ Chí Minh,4.607179,True
+480276809,TRENDYSTW STORE,Đà Nẵng,4.837662,False
+272162596,Dainganstore,TP. Hồ Chí Minh,4.80855,True
+75484408,LB_OFFICIAL,TP. Hồ Chí Minh,4.858904,False
+315521447,KENZ Fashion,TP. Hồ Chí Minh,4.773345,True
+835301464,Quăn Studio,TP. Hồ Chí Minh,4.843824,True
+257372007,NEWSEVEN,Hà Nội,4.93428,False
+127737506,Sneaker_2am,Hải Dương,4.455558,False
+22334363,Shop Sỉ Và Lẻ Quần Jean NamNữ,Đà Nẵng,4.724974,True
+454133532,Dusty Studio,Hà Nội,4.822917,False
+495909875,shopquanjeannam,Đà Nẵng,4.678697,False
+81982951,Quần Jean Nam Cao Cấp VNXK,TP. Hồ Chí Minh,4.610738,False
+396434623,anyoung_official,Hà Nội,4.873149,True
+79204319,Sogeum.Store,Hà Nội,4.798035,True
+439735650,patadoshop,Hà Nội,4.792528,True
+67957003,Quần áo Nam Pon.mens,Hà Nội,4.820556,True
+744258715,BENZ.Studio,Hà Nội,4.810943,True
+24676562,THE K300,TP. Hồ Chí Minh,4.865834,True
+58565485,1991-STORE,TP. Hồ Chí Minh,4.707773,True
+314444552,Mộc Clothes,Hà Nội,4.786203,True
+430577475,DepLeBaoBinhShop33.4,Hải Dương,4.446976,False
+161355597,LEO.vn,TP. Hồ Chí Minh,4.662109,False
+166280750,Bonbon Order Ulzzang 🔥🔥🔥,Hà Nội,4.793782,False
+187031279,rockydenim,TP. Hồ Chí Minh,4.925211,True
+459183537,H&S Shop Thời Trang ,Hải Dương,4.917549,True
+637868973,Maxstore Official,Hà Nội,4.591389,True
+130150243,Lady-Hn Store88,TP. Hồ Chí Minh,4.534791,True
+128420095,Crying Center,Hà Nội,4.804168,False
+43557783,Vương Nam Online,TP. Hồ Chí Minh,4.814116,True
+48493827,DABASS STORE,TP. Hồ Chí Minh,4.730756,True
+601913983,WHY NOT STORE,Hà Nội,4.784038,True
+618489243,ducdenshop,Nghệ An,4.649229,True
+391575987,Sumyfashion.com,TP. Hồ Chí Minh,4.710883,True
+140364165,AH-Fashion,TP. Hồ Chí Minh,4.739502,True
+515022258,Quần jean baggy - Clothing,Hà Nội,4.60003,True
+79223494,Snomad - Thời trang nam,Hà Nội,4.774754,True
+74173043,BROKEBOIZ,Hà Nội,4.923557,False
+769876009,daduhey men's clothing,Nước ngoài,4.567553,True
+54308152,SHOPTRUCQUYNH,TP. Hồ Chí Minh,4.839705,True
+9762633,XUMON STORE,TP. Hồ Chí Minh,4.740118,True
+686778960,Unique VN,TP. Hồ Chí Minh,4.838325,True
+619003929,MAST Official Shop,Nước ngoài,4.632858,True
+364593709,Store.Aveno.vn54353gfdfs74,Hà Nội,4.75078,False
+595067446,XX MENS FASHION,Hà Nội,4.624937,False
+322771929,Coo.com.vn,Hà Nội,4.892456,True
+284443832,Anime/Manga 's Shop,Nam Định,4.849098,False
+869690900,TIAN LAN,Nước ngoài,4.328358,False
+234802632,kanye0310,Nước ngoài,4.584699,False
+7782867,Xưởng May Hải Phúc VN,Nam Định,4.587664,True
+95968067,halos.vn,Nước ngoài,4.5,True
+288910981,quanaonamcongsoredep,Hà Tĩnh,4.884332,True
+472270474,Men's Wear Club,Nước ngoài,4.603543,True
+865717263,Tuấn Shop - Đồ Nam Thiết Kế,Hà Nội,4.714454,False
+442912963,DATAMΛN - Official Store,Hà Nội,4.89166,True
+491237163,Đức AnhSShop1,Hà Nội,4.673774,False
+343489307,Hemes,Hà Nội,4.685039,False
+122078356,Vest Nam Cao Cấp -TIANO,Thái Bình,4.794769,False
+852735063,xiabifeng1213.vn,Nước ngoài,4.676056,False
+342570442,HERO - Store,Hà Nội,4.948571,False
+549815595,VuHai.Store,Hà Nội,4.973545,False
+842092370,BAETON OFFICIAL,Hà Nội,4.824902,True
+61199990,REETRO,TP. Hồ Chí Minh,4.91394,True
+395506251,kejianzhen.vn,Nước ngoài,4.618644,False
+740366074,Veratino Official,Hà Nội,4.670865,False
+690740265,MMLUCK,Nước ngoài,4.748912,False
+226772595,SANMINHCHAU,Hà Nội,4.840325,True
+80894550,dananaoteduo.vn,Nước ngoài,4.763446,False
+14139179,TÚI MIMI ,Hà Nội,4.896249,False
+355191517,MEN Shop Fashion,Hà Nội,4.877167,True
+263118624,bachhoatonghoptamtam,Hà Nội,5.0,False
+617833578,Man Gang,Nước ngoài,4.380967,True
+183199642,Binstore thời trang nam,Hà Tĩnh,4.855996,False
+16976010,Hiệu đồ 90s,TP. Hồ Chí Minh,4.874161,False
+43592532,COTINI LUXURY,Hà Nội,4.884863,True
+487212999,Thời trang cao cấp Zakistore,Hà Nội,4.849224,False
+96679462,GLMALL-vn,Nước ngoài,4.625342,False
+39602203,cơ sở may tiến lực,TP. Hồ Chí Minh,4.825597,True
+143015918,MAMOSTUDIO,TP. Hồ Chí Minh,4.927602,True
+423838298,Chumi68.clothing,Hà Nội,4.85576,False
+55188436,TN Medical - Cửa Hàng Y Khoa,Đắk Lắk,4.896625,True
+30027493,Tùng Tây Unisex Clothing,Nam Định,4.718535,True
+697931037,APT-Unisex,Thái Nguyên,4.848812,False
+695767850,Nicevn,Hà Nội,4.695862,True
+83076489,HN Jeans Store,TP. Hồ Chí Minh,4.758215,True
+458731311,Tom Store Sỉ unisex,Nam Định,4.83524,False
+137711188, TCE ,Hà Nội,4.63185,True
+204377827,shop_win99,TP. Hồ Chí Minh,4.659596,True
+46813604,Bingbooong,Hà Nội,4.88917,True
+138792244,OFFICE STORE,Hà Nội,4.594711,True
+91192053,Quần áo thể thao Nam nữ ,TP. Hồ Chí Minh,4.842718,True
+50182365,Gao.studio,Hà Nội,4.917581,True
+450374282,Finestudio.vn,Nước ngoài,4.748325,True
+316680686,Quần Tây Nam Hồ Chí Minh,TP. Hồ Chí Minh,4.756479,True
+392008591,LOHA.BRAND,Hà Nội,4.811552,False
+74621133,Xưỡng sỉ GYM_STOREs,TP. Hồ Chí Minh,4.847982,True
+499573715,THỜI TRANG UNISEX 99,Hà Nội,4.847939,True
+135835834,HORI Thời Trang Nam,TP. Hồ Chí Minh,4.657115,True
+365141650,BP Clothing Studio,Nước ngoài,4.399293,False
+783635986,Hatton_Gutto.vn,Nước ngoài,4.641101,False
+273744769,Litaia,Hà Nội,4.818115,True
+401596812,powrofficial.vn,TP. Hồ Chí Minh,4.891979,True
+75946325,22Gram/Twotwogram,TP. Hồ Chí Minh,4.800323,False
+876639727,Poca Official Store,Hà Nội,4.893429,True
+104170321,Monata Bluelight,Đà Nẵng,4.86246,False
+642361338,Shop Men Bk,Hà Nội,4.679616,True
+195603932,ZINTI STORE HCM,Hà Nội,4.865587,False
+415614249,ZUTEE.st,Hà Nội,4.824633,True
+19337723,WIN69 Fashion,TP. Hồ Chí Minh,4.77604,True
+317784349,Fashion Mellow,Hà Nội,4.873344,False
+493255505,Rew2021,Hà Nội,4.872396,True
+242288727,Kho xỉ lẻ quần áo,Hà Nội,4.625446,True
+169421857,bin.tomshop.,Hà Nội,4.817402,True
+174605355,FASVIN Quần Áo Thể Thao,Hà Nội,4.942437,False
+582234812,ARIOSO,TP. Hồ Chí Minh,4.894876,True
+69125214,Jabasi menswear,Hà Nội,4.862233,True
+392691203,sơ mi hoạt tiết đi biển ALcado,Hà Nội,4.866051,True
+436782,Sói Store Official,TP. Hồ Chí Minh,4.834064,False
+137567530,IkemenVN,Hà Nội,4.833034,True
+94387908,Diorgino Shop,TP. Hồ Chí Minh,4.789989,True
+448978223,Kyubi Shop Official,TP. Hồ Chí Minh,4.878704,True
+2392774,Chuyên sỉ thời trang online,TP. Hồ Chí Minh,4.760307,True
+20314702,Boin Shop chuyên hàng unisex,TP. Hồ Chí Minh,4.834603,True
+87845783,KING SPORT,Hà Nội,4.698411,True
+31245176,ecollect,Hà Nội,4.848711,True
+193863118,dt_shopunisex (276),TP. Hồ Chí Minh,4.576248,True
+52295199,sonmin_unisex,TP. Hồ Chí Minh,4.801631,True
+93418550,NQ30_store,TP. Hồ Chí Minh,4.905353,True
+293953556,THANH_STORE1988,TP. Hồ Chí Minh,4.732771,True
+649496529,Quần_Đùi _Nữ,Nam Định,4.54919,True
+153602447,MARINES,Hà Nội,4.786117,True
+294231317,hidas.vn,Hà Nội,4.809785,False
+707725689,The 1975,Hà Nội,4.804022,True
+326587743,Thời Trang Nam - Trung Store,TP. Hồ Chí Minh,4.859571,True
+243384822,DOLIMAN.,Hà Nội,4.813614,True
+14951000,zenkocs3,Hà Nội,3.350375,False
+896978992,Xưởng May Ngọc Anh 83,Hà Nội,4.772622,False
+170286788,soft.menswear,Hà Nội,4.8572,True
+61261760,Vettino,Hà Nội,4.759645,True
+79669372,Binbin- SPORT,Hà Nội,4.802674,True
+140832135,Urano -Xưởng may đồ nam ,Hà Nội,4.812447,True
+86644295,Lee FALLE Việt Nam,Hà Nội,4.739176,True
+17350662,ShopmeMit- Sỉ Áo Đoàn Áo Cờ VN,Hà Nội,4.843806,True
+406398323,Sanvadio_Official,Hà Nội,4.856267,True
+228342708,thoitrang1886,Hà Nội,4.683179,True
+156143355,Replei1986.vn,TP. Hồ Chí Minh,4.906428,False
+606026712,Titanic,Hà Nội,4.675892,True
+583181947,HT - Đồ Nam Cao Cấp,Hà Nội,4.746833,True
+16580482,Zenkonu Clothes,Hà Nội,4.359785,True
+840666972,Paulina.men,Hà Nội,4.682495,False
+101728720,Thanh tâm shop,TP. Hồ Chí Minh,4.613164,False
+225269509,XuongMayHaHa,Hà Nội,4.833529,True
+31031431,TOMSTORE,Nam Định,4.778394,True
+138829841,TrendyMan,Hà Nội,4.672609,True
+81023597,phuonguyen38,Hà Nội,4.752288,True
+543993988,hangnampvpb,Hà Nội,4.699632,False
+408171663,Wind_Fashion,TP. Hồ Chí Minh,4.721451,True
+703090265,GODMOTHER,Hà Nội,4.917818,False
+322123022,Sevenzia Official,TP. Hồ Chí Minh,4.910844,True
+96065719,DAVIES,Đà Nẵng,4.940106,False
 396435701,Mophus Store,Hà Nội,4.728963,False
-33435563,Q5_JULIDO,Hà Nội,4.799093,True
-51813198,MAYLAN STORE,TP. Hồ Chí Minh,4.885601,True
-230993635,X-men Shop 37,Nghệ An,4.339698,True
 391947995,HOTOCO STORE,Hà Nội,4.89155,False
-106844825,cinder.club,TP. Hồ Chí Minh,4.877299,True
-320862336,THE FOX BRAND,TP. Hồ Chí Minh,4.903183,True
-781218579,Huyền Clothing 99,Hà Nội,4.828832,True
-200059109,Top1Shop,TP. Hồ Chí Minh,4.519753,True
-404534,EIGHTYSIX,Hà Nội,4.851449,True
+106844825,cinder.club,TP. Hồ Chí Minh,4.877347,True
+320862336,THE FOX BRAND,TP. Hồ Chí Minh,4.903196,True
+200059109,Top1Shop,TP. Hồ Chí Minh,4.519814,True
+404534,EIGHTYSIX,Hà Nội,4.851456,True
 102135424,SNOWB,TP. Hồ Chí Minh,4.833015,False
-321258581,MR BEAN FASHION - VNXK 93,Đắk Lắk,4.743673,False
 6150152,Gemm Shop,Hà Nội,4.811501,True
-541806653,MANSHOP - Quần Áo Unisex,Hà Nội,4.692202,True
-314050421,sentinials,TP. Hồ Chí Minh,4.779215,True
-228342708,thoitrang1886,Hà Nội,4.683167,True
-835435,TORANO Official Store,Hà Nội,4.882142,False
-27174606,Áo Thun nam LIYOR,TP. Hồ Chí Minh,4.873331,True
-429827957,KPis Clothes Unisex,Hà Nội,4.95245,False
-317477677,Levents .vn,TP. Hồ Chí Minh,4.926331,False
+541806653,MANSHOP - Quần Áo Unisex,Hà Nội,4.69196,True
+835435,TORANO Official Store,Hà Nội,4.882169,False
+27174606,Áo Thun nam LIYOR,TP. Hồ Chí Minh,4.873355,True
 885248056,Stressoutvn_official,Bắc Ninh,4.817337,False
-368338360,Will Shop_01,TP. Hồ Chí Minh,4.683197,False
 42834280,NGUYỄN_STORE,TP. Hồ Chí Minh,4.492816,True
-275570035,HIDDLE -Quần áo nam chính hãng,Đà Nẵng,4.887864,False
+275570035,HIDDLE -Quần áo nam chính hãng,Đà Nẵng,4.887895,False
 2211180,tu151997,Nam Định,4.656713,False
 264280458,Arrow.vn,TP. Hồ Chí Minh,4.94272,False
-229325798,Pandax,Đắk Lắk,4.843652,False
-619008111,AOKANG,Nước ngoài,4.47731,False
-126065931,Apollo Menswear,Hà Nội,4.802551,False
-473904761,JOGGER OFFICIAL,Hà Nội,4.844965,False
-99939683,Nutriboost93,Hà Nội,4.744864,True
-780765070,Unisex Avenue,Hà Nội,4.382459,False
+229325798,Pandax,Đắk Lắk,4.843803,False
+126065931,Apollo Menswear,Hà Nội,4.802522,False
+473904761,JOGGER OFFICIAL,Hà Nội,4.845086,False
+99939683,Nutriboost93,Hà Nội,4.744695,True
 24710134,Coolmate - Official Store,Hà Nội,4.922593,False
-395312479,INDOCHI VN,Hà Nội,4.830957,True
-45402331,CITY CYCLE I QUẦN ÁO UNISEX ,Hà Nội,4.885165,False
-73635242,ktrip,Hà Nội,4.866677,True
-35080757,LADOS,TP. Hồ Chí Minh,4.86906,False
-34525738,Shop Unisex88 ,Hà Nội,4.763278,True
-600085837,topmen.fashion,Hưng Yên,4.499077,False
-40021101,HEMS FASHION,Thái Bình,4.733309,True
-457460497,T&T.official,Hà Nội,4.75815,True
+395312479,INDOCHI VN,Hà Nội,4.831019,True
+45402331,CITY CYCLE I QUẦN ÁO UNISEX ,Hà Nội,4.885166,False
+73635242,ktrip,Hà Nội,4.866717,True
+35080757,LADOS,TP. Hồ Chí Minh,4.869013,False
+34525738,Shop Unisex88 ,Hà Nội,4.763175,True
+600085837,topmen.fashion,Hưng Yên,4.499211,False
+457460497,T&T.official,Hà Nội,4.758338,True
 62621191,Áo khoác Thanh Xuân Store,TP. Hồ Chí Minh,4.769949,True
 419920886,HOÀNG QUÂN_FASHION,TP. Hồ Chí Minh,4.371094,False
-430810672,zhitao.vn,Nước ngoài,4.573031,False
-96652958,Chiwawa Shop,TP. Hồ Chí Minh,4.784519,True
-142167450,xưởng sản xuất công lâm,Hà Nội,4.912433,True
+430810672,zhitao.vn,Nước ngoài,4.573116,False
+96652958,Chiwawa Shop,TP. Hồ Chí Minh,4.784548,True
+142167450,xưởng sản xuất công lâm,Hà Nội,4.912371,True
 583780974,1996 BLUE,Hà Nội,4.813412,True
-167989440,TITI FASHION,TP. Hồ Chí Minh,4.761351,True
-318031417,PARADOX,TP. Hồ Chí Minh,4.854233,False
-46855166,LeeZone,Hà Nội,4.890133,True
-63251786,F.S.Shop68 - Áo Khoác Unisex,TP. Hồ Chí Minh,4.606611,True
-362579679,LAVADO Menswear,TP. Hồ Chí Minh,4.826509,True
-563494552,TH Shop - Thời Trang Trẻ,TP. Hồ Chí Minh,4.753504,True
-956234054,DHShop.Fashion,Hà Nội,4.991309,False
-269466240,Elnido Unisex Brand,Hà Nội,4.869077,False
-16580482,Zenkonu Clothes,Hà Nội,4.359674,True
-188686310,Shop Unisex99,TP. Hồ Chí Minh,4.70773,True
+318031417,PARADOX,TP. Hồ Chí Minh,4.854264,False
+46855166,LeeZone,Hà Nội,4.890219,True
+63251786,F.S.Shop68 - Áo Khoác Unisex,TP. Hồ Chí Minh,4.606656,True
+956234054,DHShop.Fashion,Hà Nội,4.99104,False
+269466240,Elnido Unisex Brand,Hà Nội,4.869169,False
+188686310,Shop Unisex99,TP. Hồ Chí Minh,4.707756,True
 207962048,THỜI TRANG NAM Winkystore,Đắk Lắk,4.688425,True
-216307987,Xa La Phố,Hà Nội,4.817994,True
-66198898,ShopMap - Thời trang tuổi Teen,TP. Hồ Chí Minh,4.702446,True
-448799090,Thời Trang Hot Trend Giá Xưởng,Hà Nam,4.361476,True
-358123846,ROWAY official,Hà Nội,4.909906,False
-52158625,XƯỞNG MAY GIA CÔNG THEO MẪU,TP. Hồ Chí Minh,4.821271,True
-17407875,Áo chống nắng thời trang,Hà Nội,4.760887,True
-23918770,Topdynamic,TP. Hồ Chí Minh,4.789128,True
-287457008,Ông Trùm Sỉ - Quần Áo Thể Thao,TP. Hồ Chí Minh,4.854946,True
-98786100,nowsaigon,TP. Hồ Chí Minh,4.919614,False
-846354060,ABCD Boutique,Hà Nội,4.849269,True
+216307987,Xa La Phố,Hà Nội,4.818048,True
+448799090,Thời Trang Hot Trend Giá Xưởng,Hà Nam,4.362121,True
+17407875,Áo chống nắng thời trang,Hà Nội,4.760877,True
+23918770,Topdynamic,TP. Hồ Chí Minh,4.789132,True
+287457008,Ông Trùm Sỉ - Quần Áo Thể Thao,TP. Hồ Chí Minh,4.854961,True
+98786100,nowsaigon,TP. Hồ Chí Minh,4.919626,False
+846354060,ABCD Boutique,Hà Nội,4.849438,True
 45660011,RON Fashion,TP. Hồ Chí Minh,4.863586,False
 3612200,GEM STORE,Hà Nội,4.776586,True
 821793784,👖AnXuan-Zc.vn,Nước ngoài,4.18509,False
-401401593,Xưởng may Anh Việt,Hà Nội,4.659758,False
-606962043,THỜI TRANG HOTTREN 365,Hà Nội,4.118543,True
-619007054,Faruiline Official Store,Nước ngoài,4.511393,True
+401401593,Xưởng may Anh Việt,Hà Nội,4.659993,False
 824106472,NCH Fashion,Lâm Đồng,4.586455,False
-16771696,AESHOP0707,Hà Nội,4.896774,True
-603370680,Orange Clothes,Hà Nội,4.769527,True
-421779939,Outerity,TP. Hồ Chí Minh,4.930748,True
-453981998,Xưởng may Anh Quân Chuyên Sỉ,Hà Nội,4.702777,True
-456612539,TOMIJUN,Hà Nội,4.841366,True
-299400775,Happy Style - Số 1 Mũ Nón VN,TP. Hồ Chí Minh,4.94701,True
+603370680,Orange Clothes,Hà Nội,4.769938,True
+421779939,Outerity,TP. Hồ Chí Minh,4.930738,True
+453981998,Xưởng may Anh Quân Chuyên Sỉ,Hà Nội,4.70274,True
+456612539,TOMIJUN,Hà Nội,4.84137,True
+299400775,Happy Style - Số 1 Mũ Nón VN,TP. Hồ Chí Minh,4.947004,True
 31051904,jaystoree2,TP. Hồ Chí Minh,4.822886,True
-165762473,Shop Thời Trang MAI MY,Hà Nội,4.794547,True
-76379970,VALENTINA FASHION,TP. Hồ Chí Minh,4.465426,True
-111377202,Ao Khoac Gia Soc,TP. Hồ Chí Minh,4.734914,False
-369369020,ALLEN STORE,TP. Hồ Chí Minh,4.761682,True
-410846282,WEDO FASHION,TP. Hồ Chí Minh,4.634007,True
-65375567,Xưởng thời trang Unisex 2022,TP. Hồ Chí Minh,4.847641,True
-881309585,Magee,Nước ngoài,4.584421,True
-537291716,EXP Xưởng May ÁoThun,Hải Dương,4.845615,False
-148407410,HAVADO Menswear,TP. Hồ Chí Minh,4.828918,True
-273900498,Symbolic.studio,TP. Hồ Chí Minh,4.820862,False
-68143471,22.Nastore,TP. Hồ Chí Minh,4.798539,True
-841720875,sgenzbrand.vn,Hà Nội,4.690282,False
-133725512,KUN SHOP UNISEX,TP. Hồ Chí Minh,4.859963,True
-54308152,SHOPTRUCQUYNH,TP. Hồ Chí Minh,4.839634,True
-824160618,SINRANSINYA,Nước ngoài,4.552765,True
-391238970,GIDI - QUẦN ÁO UNISEX,TP. Hồ Chí Minh,4.893764,True
+165762473,Shop Thời Trang MAI MY,Hà Nội,4.794605,True
+76379970,VALENTINA FASHION,TP. Hồ Chí Minh,4.465527,True
+111377202,Ao Khoac Gia Soc,TP. Hồ Chí Minh,4.734942,False
+65375567,Xưởng thời trang Unisex 2022,TP. Hồ Chí Minh,4.847857,True
+537291716,EXP Xưởng May ÁoThun,Hải Dương,4.845631,False
+273900498,Symbolic.studio,TP. Hồ Chí Minh,4.820856,False
+68143471,22.Nastore,TP. Hồ Chí Minh,4.798804,True
+841720875,sgenzbrand.vn,Hà Nội,4.690138,False
+133725512,KUN SHOP UNISEX,TP. Hồ Chí Minh,4.859966,True
+824160618,SINRANSINYA,Nước ngoài,4.553485,True
 419257193,NEW UNISEX ,TP. Hồ Chí Minh,4.434783,True
-817094059,thoitrang0989,Hà Nội,4.768146,True
-392151757,LC_Touring_Style,TP. Hồ Chí Minh,4.82493,False
+817094059,thoitrang0989,Hà Nội,4.768167,True
+392151757,LC_Touring_Style,TP. Hồ Chí Minh,4.825175,False
 390205325,4M OFFICIAL,Hà Nội,4.888733,True
-79204319,Sogeum.Store,Hà Nội,4.798181,True
 36052264,Florida Gym & Fitness,TP. Hồ Chí Minh,4.84542,False
-144534504,HIGHCLUB,TP. Hồ Chí Minh,4.884869,True
-342933226,Life Unisex,TP. Hồ Chí Minh,4.836616,True
-267995515,Gooan,TP. Hồ Chí Minh,4.890114,False
+144534504,HIGHCLUB,TP. Hồ Chí Minh,4.884887,True
+342933226,Life Unisex,TP. Hồ Chí Minh,4.83647,True
+267995515,Gooan,TP. Hồ Chí Minh,4.889987,False
 881412681,Wish Up,Nước ngoài,4.390598,False
-816261176,KARANTS,TP. Hồ Chí Minh,4.932918,False
-410557043,Contica,Hà Nội,4.834565,True
-32141923,Minh Thư_Fashion,TP. Hồ Chí Minh,4.419789,True
-127737506,Sneaker_2am,Hải Dương,4.455558,False
-466691142,Baby Teeth,TP. Hồ Chí Minh,4.833511,False
-27198596,Anh Khôi 2812,Hà Nội,4.647353,True
-23190430,"Xưởng May Áo Nắng,Áo polo",Hà Nội,4.846843,True
-159902650,Gin Store 2,Đắk Lắk,4.83292,True
-740664224,JEJUL.store,TP. Hồ Chí Minh,4.799724,True
+816261176,KARANTS,TP. Hồ Chí Minh,4.932881,False
+32141923,Minh Thư_Fashion,TP. Hồ Chí Minh,4.420051,True
+27198596,Anh Khôi 2812,Hà Nội,4.647101,True
+23190430,"Xưởng May Áo Nắng,Áo polo",Hà Nội,4.84682,True
+159902650,Gin Store 2,Đắk Lắk,4.832938,True
 182930010,ShopMongCaiVN,Quảng Ninh,4.791116,False
 61522001,thuykeo12345,Hà Nội,4.821024,False
-62200279,Thời Trang Nữ Hari Queen,Nam Định,4.56395,True
+62200279,Thời Trang Nữ Hari Queen,Nam Định,4.56393,True
 748275580,Dolaro Brand Official,TP. Hồ Chí Minh,4.70773,False
-597663353,Xưởng May SUSU,Hà Nội,4.707103,True
-52295199,sonmin_unisex,TP. Hồ Chí Minh,4.80172,True
-157167248,20SILK,Hà Nội,4.71162,True
-277381184,AFF LIGA official,Nước ngoài,4.537717,True
-20314702,Boin Shop chuyên hàng unisex,TP. Hồ Chí Minh,4.834565,True
+597663353,Xưởng May SUSU,Hà Nội,4.70704,True
+157167248,20SILK,Hà Nội,4.711685,True
+277381184,AFF LIGA official,Nước ngoài,4.537253,True
 829223927,Thời Trang HOKODY,Hà Nội,4.651163,False
-711707322,Chew Berry,Hà Nội,4.520013,True
-549747975,Boydegia_timgaituoiteen,Hải Dương,4.363415,False
-195271254,FFStore,TP. Hồ Chí Minh,4.905321,False
-217119036,MT - FASHION,Hà Nội,4.683628,True
-391501205,8YO STUDIO,TP. Hồ Chí Minh,4.921144,True
-342057833,MINA.HOUSE,Hà Nội,4.879348,True
-419358980,CherryStore999,TP. Hồ Chí Minh,4.834358,False
-448787450,Cardina Fashion,Hà Nội,4.874111,False
-389747365,ADOSHOP.MENSWEAR,TP. Hồ Chí Minh,4.812796,True
-305127454,Shop_Phan,Hà Nội,4.570018,False
-220347392,thinhthunhiquy,Hà Nam,4.197115,True
-77520556,Xưởng may thời trang siêu rẻ,TP. Hồ Chí Minh,4.695609,False
-130025328,T91 STORE,Hà Nội,4.764659,True
-16580423,zenkonam,Hà Nội,3.449877,False
-252680224,XOXO Unisex69,Hà Nội,4.685707,True
-782549849,PTZ.sg,TP. Hồ Chí Minh,4.730014,True
-56086378,DOLCE XOM - Long Hoàng,Hà Nội,4.671756,False
-152085882,Đồ thể thao nam nữ giá rẻ SP,TP. Hồ Chí Minh,4.645064,False
-477196600,Manxury Official,Hà Nội,4.855607,True
-746278578,BIGO MALL,Nam Định,4.297539,True
-739771122,Shop96_2023,TP. Hồ Chí Minh,4.485075,False
-747298045,HTM FASHION,TP. Hồ Chí Minh,4.410106,False
-67864923,ZATA (Bull Sport),Hà Nội,4.804742,True
-273483468,Bảo Bảo_BB,Thái Bình,4.567535,False
-19414441,Dacos,TP. Hồ Chí Minh,4.858217,False
-296183036,doubleh.storee,Hà Nội,4.721005,False
-365676802,shopunisex9,Nam Định,4.328512,False
-3596871,Xưởng May Quần Jean Nam - Nữ,Đà Nẵng,4.643357,True
-56031075,Chuyên sỉ lẽ quần nam,Đà Nẵng,4.70976,False
-439735650,patadoshop,Hà Nội,4.792501,True
+429827957,KPis Clothes Unisex,Hà Nội,4.95245,False
 16497279,Rin Store75,Thừa Thiên Huế,4.813244,True
-430577475,DepLeBaoBinhShop33.4,Hải Dương,4.446976,False
-22334363,Shop Sỉ Và Lẻ Quần Jean NamNữ,Đà Nẵng,4.72495,True
-590010013,Elmen Official,Hà Nội,4.806362,True
 86520703,theanh51shop,Phú Thọ,4.586449,True
-314444552,Mộc Clothes,Hà Nội,4.786621,True
 107343471,yumy._.shop,TP. Hồ Chí Minh,4.822673,True
 37205924,SHOP GIANG BI,Phú Thọ,4.663344,True
-120503376,MH MEN STORE,TP. Hồ Chí Minh,4.607215,True
 366076468,Dũng Boutique - Thời trang nam,Hà Nội,4.644927,True
 702253916,SkyMall.vn,Nước ngoài,4.697769,True
 511405289,W311 Dotcom,Hà Nội,4.801976,True
-19337723,WIN69 Fashion,TP. Hồ Chí Minh,4.776059,True
 756697868,WHOA HA _Studio,Hà Nội,4.859078,False
-74173043,BROKEBOIZ,Hà Nội,4.923557,False
-86644295,Lee FALLE Việt Nam,Hà Nội,4.73904,True
 81536909,VB-SHOP,TP. Hồ Chí Minh,4.785378,False
-294643448,quan_bo_dep_gia_sinh_vien,Hải Dương,4.919816,True
-637868973,Maxstore Official,Hà Nội,4.591382,True
 69893622,SOMETIME OFFICIAL,Hà Nội,4.783761,False
 473870353,Dino Shop - Thời Trang Nam,Hà Nội,4.691243,True
-495909875,shopquanjeannam,Đà Nẵng,4.67866,False
 188903465,tenji.official,TP. Hồ Chí Minh,4.808132,True
-480276809,TRENDYSTW STORE,Đà Nẵng,4.837807,False
-272162596,Dainganstore,TP. Hồ Chí Minh,4.808551,True
 278835698,Eighteen Official,Hà Nội,4.72908,False
-835301464,Quăn Studio,TP. Hồ Chí Minh,4.843731,True
-479443956,Trend Clothing_Store,Hà Nội,4.76143,False
-29600811,Phi Boutique- Thời trang Nam,Hưng Yên,4.782172,True
-883788875,AnhKhanhshop87,Phú Thọ,4.851351,True
 555290579,DC_Denim,Đà Nẵng,4.834632,False
-75484408,LB_OFFICIAL,TP. Hồ Chí Minh,4.859056,False
-48493827,DABASS STORE,TP. Hồ Chí Minh,4.730447,True
 94291560,WIN79 FASHION,TP. Hồ Chí Minh,4.749878,True
-43488350,FAKING,TP. Hồ Chí Minh,4.775513,False
-571738766,Ngantramshop,Đà Nẵng,4.641621,False
-16596480,CÁ ORDER 🐳,Thanh Hóa,4.818405,False
-294412280,Jeans_Basic_HQ,Hải Dương,4.947237,True
-315521447,KENZ Fashion,TP. Hồ Chí Minh,4.773348,True
-88972759,DUBATI FASHION,TP. Hồ Chí Minh,4.204729,True
-257372007,NEWSEVEN,Hà Nội,4.934289,False
-454133532,Dusty Studio,Hà Nội,4.822763,False
-439648449,Gió Store 68,Hà Nội,4.751516,True
-275899480,Helloyou Official,Hà Nội,4.838006,True
-81982951,Quần Jean Nam Cao Cấp VNXK,TP. Hồ Chí Minh,4.610738,False
-724617386,KAY-STORE,TP. Hồ Chí Minh,4.589965,True
-396434623,anyoung_official,Hà Nội,4.873136,True
-67957003,Quần áo Nam Pon.mens,Hà Nội,4.820535,True
-744258715,BENZ.Studio,Hà Nội,4.811265,True
-24676562,THE K300,TP. Hồ Chí Minh,4.865795,True
-58565485,1991-STORE,TP. Hồ Chí Minh,4.707582,True
-397949373,Gin_D,Hà Nội,4.720537,False
-161355597,LEO.vn,TP. Hồ Chí Minh,4.66225,False
-166280750,Bonbon Order Ulzzang 🔥🔥🔥,Hà Nội,4.793739,False
-187031279,rockydenim,TP. Hồ Chí Minh,4.925198,True
-27228264,jaystoree,TP. Hồ Chí Minh,4.87711,True
-459183537,H&S Shop Thời Trang ,Hải Dương,4.917549,True
-119017165,20We Style$Clothing,Hà Nội,4.819982,True
-294394193,ThoitrangHQ.Store,Hải Dương,4.933851,True
-128420095,Crying Center,Hà Nội,4.804014,False
-127115231,jeandep_thoitrang,TP. Hồ Chí Minh,4.623656,True
-43557783,Vương Nam Online,TP. Hồ Chí Minh,4.814067,True
-601913983,WHY NOT STORE,Hà Nội,4.783853,True
-618489243,ducdenshop,Nghệ An,4.649229,True
-391575987,Sumyfashion.com,TP. Hồ Chí Minh,4.710772,True
-140364165,AH-Fashion,TP. Hồ Chí Minh,4.73954,True
-515022258,Quần jean baggy - Clothing,Hà Nội,4.60003,True
-79223494,Snomad - Thời trang nam,Hà Nội,4.774633,True
-769876009,daduhey men's clothing,Nước ngoài,4.567437,True
-9762633,XUMON STORE,TP. Hồ Chí Minh,4.740118,True
-686778960,Unique VN,TP. Hồ Chí Minh,4.839302,True
-682198966,KING77_FASHION,TP. Hồ Chí Minh,4.722936,True
-619003929,MAST Official Shop,Nước ngoài,4.632242,True
-364593709,Store.Aveno.vn54353gfdfs74,Hà Nội,4.750452,False
-595067446,XX MENS FASHION,Hà Nội,4.624843,False
-322771929,Coo.com.vn,Hà Nội,4.892418,True
-133187620,TLS - The Light Studio,Hà Nội,4.933448,True
-31245176,ecollect,Hà Nội,4.848717,True
 751350899,alek_studio,TP. Hồ Chí Minh,4.888333,True
 10292472,Áo len nam cổ lọ BITULA,Hà Nội,4.741994,True
-141740203,TARBO.CLUB,TP. Hồ Chí Minh,4.851905,True
 841424922,FAFIC STUDIO,TP. Hồ Chí Minh,4.879308,True
 21761133,Chili Club,TP. Hồ Chí Minh,4.880959,True
 238610121,OWL BRAND VIỆT NAM ®,TP. Hồ Chí Minh,4.879171,False
@@ -301,16 +569,10 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 20921707,PhongShop.vn-Streetwear Unisex,Hà Nội,4.720751,False
 93839401,Gấu 194 - Thời trang Nam,Đồng Nai,4.860473,False
 536043859,MLINH SHOP UNISEX,Hà Nội,4.83494,False
-319710653,TÚI XÁCH UNISEX,TP. Hồ Chí Minh,4.693789,True
 87873039,CHP Thời trang Unisex,TP. Hồ Chí Minh,4.62902,True
 155752147,DG . Station,TP. Hồ Chí Minh,4.631738,True
-862378262,Beren,Nam Định,4.961306,False
-14883477,Kachuch,TP. Hồ Chí Minh,4.685203,True
-436782,Sói Store Official,TP. Hồ Chí Minh,4.83407,False
-406398323,Sanvadio_Official,Hà Nội,4.856232,True
 629054163,UNIKA FASHION,Hà Nội,4.853498,True
 424399714,Wind Official,Bình Dương,4.856105,False
-332319413,Y-C Men's Fashion.VN,Nước ngoài,4.619312,True
 140588750,BLVCK CLOTHING,TP. Hồ Chí Minh,4.882914,False
 377580120,Phụ Kiện Hoàng Khang,Bình Thuận,4.92135,True
 14859451,Vegsivir.hn,Hà Nội,4.893953,True
@@ -324,27 +586,19 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 286273312,【IFNICEFUTURE】Cửa hàng thời tr,Nước ngoài,4.739457,False
 114733009,Luminos.brand,Hà Nội,4.880729,True
 549848362,CIAN Store99,Hà Nội,4.859145,True
-443326039,Vanheo_Fashion,Quảng Ninh,4.735784,False
 308848300,Bii Shopp Fashion,TP. Hồ Chí Minh,4.566069,True
 154644584,Zadola Fashion,Thái Nguyên,4.552376,True
 299350464,cửa hàng quần áo JW,Nước ngoài,4.600329,False
 65446542,Subin_2hand,TP. Hồ Chí Minh,4.825229,False
-807592281,Gâu Unisex 1999,Hải Dương,4.737633,True
 603664323,FashionUnisex,Hà Nội,4.325503,True
 79397742,cloudcuckoo_official_store,Hà Nội,4.900502,True
-195984971,KT Clothing Studio,Nước ngoài,4.62242,True
-461923258,By UniSpace ,TP. Hồ Chí Minh,4.910164,True
 111790117,Monster X Street,Hà Nội,4.842856,False
-96725439,Moda.Style,Nam Định,4.827729,True
 428242544,Vulcan Men's Clothing Store,Nước ngoài,4.393193,False
 575929405,devuvu,Hà Nội,4.848534,True
 346522633,Zunichi.vn,TP. Hồ Chí Minh,4.787858,False
 41373632,MVR Store,TP. Hồ Chí Minh,4.914644,True
-80102701,MISSOUT,TP. Hồ Chí Minh,4.871426,True
 74348218,VN CLO,Bình Thuận,4.769311,False
 68198879,MARCHY,TP. Hồ Chí Minh,4.9184,True
-11348336,Áo thun William Store,TP. Hồ Chí Minh,4.792688,True
-228476792,RATEL STORE,TP. Hồ Chí Minh,4.820398,True
 19204525,C.A.T.T,TP. Hồ Chí Minh,4.813163,False
 137527325,OHAY.CLUB2,Nam Định,4.885304,True
 115901754,Mr.Herovn,Hà Nội,4.840359,False
@@ -355,34 +609,24 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 19236822,K-Boy Station,TP. Hồ Chí Minh,4.847273,True
 55423949,Insane Clo,TP. Hồ Chí Minh,4.910713,True
 466678095,SomeThing.Studio,TP. Hồ Chí Minh,4.854181,False
-38038824,SUKIYA OFFICIAL STORE,Hà Nội,4.828325,False
 881288297,Infinite.vn,Nước ngoài,4.621764,True
 419345314,1hit_Unisex,TP. Hồ Chí Minh,4.842744,True
-14951000,zenkocs3,Hà Nội,3.350838,False
 827865428,OVERMAN - Xưởng Thời Trang Nam,Hà Nội,4.70927,False
 329396034,CAPMAN,TP. Hồ Chí Minh,4.940101,False
-485660328,Athanor Streetwear,Hà Nội,4.788074,False
 798349148,Hoodie Official Store,TP. Hồ Chí Minh,4.783467,True
 175399752,Mean Store - Thời trang unisex,Hà Nội,4.89194,True
 490011593,DKSG.OFFICIAL,TP. Hồ Chí Minh,4.761334,True
 391346146,Tanazi Closet,TP. Hồ Chí Minh,4.796245,True
-333116310,bb_hoodie,TP. Hồ Chí Minh,4.747194,True
-423720113,Sozo Store,Hà Nội,4.025071,False
 863268258,Catchy.club,TP. Hồ Chí Minh,4.865297,True
 618290096,Motagna fashion,Hà Nội,4.897678,True
 180180405,YuMiTa,Nam Định,4.842709,True
 136635692,dx.resell,TP. Hồ Chí Minh,4.952783,True
 702440963,MelodyZ Studio,Hà Nội,4.941352,True
-425718947,Multi Haus,Hà Nội,4.872366,True
-263073233,XƯỞNG IN SỈ LẺ,Hà Nội,4.091897,False
 408343488,UDAS Original,TP. Hồ Chí Minh,4.87947,False
 363435802,Mmoptop,Bắc Ninh,4.789501,False
 14889238,phuongmyt,Nam Định,4.602046,True
 449725752,Blue Streetwear,Gia Lai,4.816272,False
 293356067,STORE.UNISEX,Nam Định,4.761911,False
-644252338,The Good,Hà Nội,4.920014,False
-81023597,phuonguyen38,Hà Nội,4.752236,True
-65969157,Aither Studio,TP. Hồ Chí Minh,4.896605,True
 806788334,Baofeng.vn,Nước ngoài,4.72103,True
 274021079,HD Shop Quần Áo Thời Trang,Nam Định,4.528897,True
 59576228,2hand.virus,TP. Hồ Chí Minh,4.963979,False
@@ -392,129 +636,31 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 595770643,Shop 2Hand LinhMinSu,Hà Nội,4.876891,False
 5484002,Sốp Phô Mai,TP. Hồ Chí Minh,4.942767,True
 134741968,TTshop Unisex,Hải Dương,4.470579,True
-82095709,shineess.vn,Nước ngoài,4.424928,False
 590287691,PHỐ THỜI TRANG HOT TEEN,Hà Nội,4.284137,False
-105306980,UNISEX.SHOP1,Nam Định,4.603383,True
 32239491,COSSI-THẾ GIỚI ÁO THUN,Hà Nội,4.859758,True
-378225783,Cc.clothing.VN,Hà Nội,4.786381,True
 116194910,tubeeshop,TP. Hồ Chí Minh,4.911903,True
 22417880,PQK boutique,TP. Hồ Chí Minh,4.834921,True
 332828338,YANDO - Fashion,TP. Hồ Chí Minh,4.911435,False
-63168762,SuperStorm Store,TP. Hồ Chí Minh,4.810055,False
-294139394,LocalBrand_official,Hà Nội,4.633709,False
 540922736,OHAY.CLUB,Nam Định,4.90308,True
-41726939,SuzaSport - Quần Áo Xuất Dư,Hà Nội,4.633,True
-649887452,Hungocb Studio,TP. Hồ Chí Minh,4.863696,True
-89210712,Unisex.shop3,Nam Định,4.465123,True
-476326833,GinsengStore,TP. Hồ Chí Minh,4.713004,False
-684068473,NamHoaiFashion19,Hà Nội,3.978022,False
-510307075,Yelan cửa tiệm,Nước ngoài,4.799201,False
-236416978,DCSG ,TP. Hồ Chí Minh,4.942332,False
-147861227,VSTYLE,TP. Hồ Chí Minh,4.802102,True
-704317817,KHOUSE-한국 여성 패션,Nước ngoài,4.363908,False
-30764411,ShopKT99,TP. Hồ Chí Minh,4.675159,True
-261459456,tinastore.hn,Nam Định,4.27254,False
-807733258,Royal Dragon Fashion Clothing,Nước ngoài,4.502538,False
-238685657,myn.storee,Nam Định,4.801436,False
-149210564,Tianyi Bird Clothing,Nước ngoài,4.760147,True
-21287071,2T STORE | HOODIE UNISEX,TP. Hồ Chí Minh,4.852713,False
-570592825,fashion1111111.vn,Nước ngoài,4.629369,True
-548514657,SoChi.Fashion,Hà Nội,4.836274,False
-81415163,dothienb7632,TP. Hồ Chí Minh,4.656286,True
-150442729,TXR.THOXRI,TP. Hồ Chí Minh,4.88029,True
-18358096,giare01,Nam Định,4.569239,False
-478787649,Xưởng buôn sỉ lẻ,Hà Nội,4.412813,False
-742557003,MC Châu ngọc,Hà Nội,4.847791,False
-37101020,Vender _Store,Hà Nội,4.770928,True
-268361292,KEMGIO SHOP,Hà Nội,4.593594,False
-132356461,ree.vn,TP. Hồ Chí Minh,4.927351,True
-456166238,Soayoou.vn,Nước ngoài,4.743092,True
-525813362,Hustle All Day,Hà Nội,4.85921,False
-77674415,Oversized Fashion T-shirt,Nước ngoài,4.471822,False
-127116885,K9 Unisex,Hà Nội,4.916979,False
-47553988,VIRGO MEN'S FASHION,Hà Nội,4.494279,True
-440192456,Super Fashion P,TP. Hồ Chí Minh,4.81287,False
-154100193,xuongchuyensi9x,TP. Hồ Chí Minh,4.645985,True
-446209337,Bảo Bảo  Clothes,Thái Bình,4.542884,False
-313347123,KingMan_official,Tây Ninh,4.684135,True
-860106406,hpyiowa168.vn,Nước ngoài,4.762747,True
-10086143,HATA 24H,TP. Hồ Chí Minh,4.710317,True
-852355912,BEEYANBUY,Thái Nguyên,4.850048,False
-419394380,T-YOO,Nước ngoài,4.789461,False
-452430389,BONELI,Hà Nội,4.793908,False
-98286976,Tharo Clothing,TP. Hồ Chí Minh,4.91453,True
-14567432,Wonna - Unisex & Street Style,TP. Hồ Chí Minh,4.848873,True
-899057460,Shop Thời Trang 18,Nam Định,4.587169,False
-154548458,atys.vn,TP. Hồ Chí Minh,4.813974,True
-116666299,Thế giới_Bigsize,TP. Hồ Chí Minh,4.838131,True
-28623751,Jogger Pants Cực Chất - Unisex,TP. Hồ Chí Minh,4.847384,True
-192988971,Gman : Thời trangnam,Hà Nội,4.812444,True
-10916771,Mixxstore Clothes,Hà Nội,4.191634,False
-202189835,JFD Shop,Nước ngoài,4.575515,False
-16859837,Shopnhatban247.com,Hà Nội,4.900792,False
-99942179,Minh Anh Unisex,Nam Định,4.043084,False
-458595283,Tide brand Unisex Clothing,Nước ngoài,4.774026,False
-801477403,dafeng.vn,Nước ngoài,4.580583,True
-284443832,Anime/Manga 's Shop,Nam Định,4.848571,False
-448790585,MayLinh shop,Hà Nội,4.836464,True
-28922289,Thời Trang ERIK,TP. Hồ Chí Minh,4.611033,False
-343707724,1KENZ_SHOP,TP. Hồ Chí Minh,4.467424,True
-467438940,minghong02.vn,Nước ngoài,4.624187,True
-624263846,Mabel_storevn,TP. Hồ Chí Minh,4.636364,True
-494757116,MODA.style2,Nam Định,4.83473,True
-439665340,IDouDou.vn,Nước ngoài,4.518459,False
-451021973,Dynamite Clothing,Nước ngoài,4.604643,True
-407774554,AFFLIGA,Nước ngoài,4.605835,False
-390979412,Unisex.shop2,Nam Định,4.562871,True
-413387915,Aida shop,Nước ngoài,4.651822,False
-452480749,SQ Men's Fashion Store,Nước ngoài,4.597303,True
-479202443,courtyardflower06.vn,Nước ngoài,4.43266,True
-68208764,Trung shop99,Thanh Hóa,4.479101,False
-181877747,Tingoan Store,Hà Nội,4.948602,False
-294323599,4_Teen_ShopHQ,Hải Dương,4.917341,True
-601039096,Quần Áo Trong Mơ Của Nam Giới,Nước ngoài,4.659621,True
-293869517,dep_au_34,Hà Nội,4.616891,False
-727454403,Shop Thời Trang Thubio,Thanh Hóa,4.580663,True
-56661870,UNISEX SHOP 5,Nam Định,4.83426,False
-581120724,shangque01.vn,Nước ngoài,4.528017,False
-284583606, CUNA,Hà Nội,4.77732,True
-760033200,Man UP.vn,Nước ngoài,4.087282,False
-219530572,high2.vn,Nước ngoài,4.670444,True
-264983305,GT_FOURTRY .vn,Nước ngoài,4.601094,False
-463716463,arzery.vn,Nước ngoài,4.770145,False
-364598436,vesca_officalstore,Hà Nội,4.675163,False
-20228099,1988-Shop thời trang nam nữ,Hải Dương,4.50754,True
-38003654,Thời Trang FAVITI,Hà Nội,4.847312,True
-51970334,Shop Bảo Trang (chuyên sỉ),Thái Bình,4.699409,True
-399391573,W COOL&TREND M .vn,Nước ngoài,4.562419,False
-450960621,huangxb.vn,Nước ngoài,4.713254,True
 179042207,SSStutter,Hà Nội,4.84781,False
 611005287,Poman luxury ,Hà Nội,4.928114,False
 41904504,Wecan,Hà Nội,4.874201,True
 26578254,Cty Vest Hồng Ngọc,Hà Nội,4.91673,False
-583181947,HT - Đồ Nam Cao Cấp,Hà Nội,4.746788,True
 182023088,Thời Trang Nam Nữ T&T Shop,Hà Nội,4.879227,False
 277061178,DMA - JEANS COLLECTION,Thanh Hóa,4.954182,False
 313477137,YJ740 Men Clothes Store,Nước ngoài,4.661565,True
 230953643,Helloyou Store,Hà Nội,4.83753,False
-498881374,Trendy Clothes Hall,Nước ngoài,4.357623,True
 51043293,Sans Shop Fashion,Hà Nội,4.83436,True
 184459498,Michen_CLOTHING,Hà Nội,4.902719,True
 23628966,GU Shop HCM,TP. Hồ Chí Minh,4.886723,True
-294187612,VuHai.vn,Hà Nội,4.906371,False
 714368184,SCOTT SOR,Hà Nội,4.8669,True
 17888716,4ManShops,TP. Hồ Chí Minh,4.736559,False
-137567530,IkemenVN,Hà Nội,4.833073,True
-141921231, INCERUN Official Store,Nước ngoài,4.724927,False
 75459887,LOAN LANA ORDER,Hà Nội,4.87171,False
 221366989,IVY moda,Hà Nội,4.847927,False
 898347066,Extreme men's wear,Nước ngoài,4.431579,False
-226772595,SANMINHCHAU,Hà Nội,4.840377,True
 793237151,Viz Offical,Nghệ An,4.902439,False
 712018829,Q&QSTORE,Nam Định,4.887574,False
-549815595,VuHai.Store,Hà Nội,4.973545,False
 293954327,Shop Suit 88,Hà Nội,4.830424,False
-59596762,Thời Trang MANDO,Hà Nội,4.845305,False
 259681663,JBAGY OFFICIAL,Hà Nội,4.870597,True
 418533701,Best  Apparel,Nước ngoài,4.788073,True
 90335426,Xưởng Cà Vạt,Hà Nội,4.790843,True
@@ -524,9 +670,7 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 393325911,MALTRIK THỜI TRANG NAM BIGSIZE,Hà Nội,4.899054,True
 572262869,Thời Trang Nam BIGSIZE MALTRIK,Hà Nội,4.876248,False
 777607262,Harley Clothes,Hà Nội,4.705023,True
-237614582,Thời Trang Vest - DUKI STORE,Nam Định,4.816306,True
 11043,Rhodishop,Hà Nội,4.890426,True
-442710143,THỜI TRANG MISUDO,Hà Nội,4.764869,False
 67316437,Vest Nam Giá Sỉ,TP. Hồ Chí Minh,4.912865,False
 923296668,Sindy Quần áo,Nước ngoài,4.612903,False
 135554853,Đồ Bộ Trung Niên,TP. Hồ Chí Minh,4.915868,True
@@ -536,11 +680,9 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 278254059,MISAKI SHOP FASHION STYLE,Hà Nội,4.729537,True
 423737352,NOOBITA,Cần Thơ,4.916982,True
 289682861,ELEBUY,Nước ngoài,4.819917,False
-156258381,Biluxury Vương,Hà Nội,4.853765,True
 171157061,TINY KING Áo Quần-Phụ kiện,TP. Hồ Chí Minh,4.800216,True
 924326458,zhaoerquan2.vn,Nước ngoài,4.6875,False
 152886956,OLD SAILOR,TP. Hồ Chí Minh,4.88189,False
-232434430,KING Sỉ Cà Vạt-Nơ-Gile-Áo Quần,TP. Hồ Chí Minh,4.848459,True
 77422392,freshone.vn,Nước ngoài,4.680796,True
 252373139,bo.bacninh,Bắc Ninh,4.843653,True
 30993650,SHOP YẾN ARMY,Hà Nội,4.860677,True
@@ -554,7 +696,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 681650491,Cty Vestton Hồng Ngọc,Hà Nội,4.955451,False
 328950600,yubangcar2.vn,Nước ngoài,4.788292,False
 104109522,Vest Việt Tiến Thành Company,Hà Nội,4.901656,False
-423834136,Mr.wolf.vn,Nước ngoài,4.76399,True
 24515076,Mavota,Hà Nội,4.851242,False
 44363398,QUẦN ÁO GIÁ SỈ,TP. Hồ Chí Minh,4.718873,True
 309945252,FreeLife,Nước ngoài,4.816327,False
@@ -563,23 +704,16 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 64546002,phụ liệu may Dung,TP. Hồ Chí Minh,4.955055,True
 945360034,BAETON Menswear,Hà Nội,4.890323,False
 35296526,AdamZone,Hà Nội,4.884789,True
-355191517,MEN Shop Fashion,Hà Nội,4.877167,True
-16976010,Hiệu đồ 90s,TP. Hồ Chí Minh,4.874161,False
 332892440,VìCon,TP. Hồ Chí Minh,4.883475,False
 12057263,Hai Boutique,Hà Nội,4.608147,True
 881445709,hpyiowa243.vn,Nước ngoài,4.514414,False
-80894550,dananaoteduo.vn,Nước ngoài,4.763446,False
-423838298,Chumi68.clothing,Hà Nội,4.85576,False
 1787440,FACIOSHOP.COM,TP. Hồ Chí Minh,4.637124,False
-43592532,COTINI LUXURY,Hà Nội,4.884863,True
-14956160,TỔNG KHO SỈ THỜI TRANG VNXK,Hà Nội,4.734966,True
 283603728,quanaonamgiaredep,Hà Tĩnh,4.770667,True
 4025510,Pink86 Fashion,Hà Nội,4.905366,True
 852827433,Kings Fashion,Hà Nội,4.959551,False
 648979132,Thời Trang Hoa Tường,Lào Cai,4.860215,False
 401161352,Patomi.Studio,Hà Nội,4.940268,True
 446877313,Fashion boy shop,Nước ngoài,4.556776,False
-329002439,BEFOYI Official Store,Nước ngoài,4.37665,False
 14353772,Thời Trang Cao Cấp XT,Hà Nội,4.842967,False
 14971199,Xưởng may giá gốc FATUNO,Hà Nội,4.691513,True
 947035926,Aiden.,Nước ngoài,4.61753,True
@@ -591,23 +725,19 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 455322750,jarred.vn,Nước ngoài,4.79354,True
 135245002,burbuerry.vn,Nước ngoài,4.717123,False
 614190155,Biluxury HàTĩnh,Hà Tĩnh,4.856838,False
-472270474,Men's Wear Club,Nước ngoài,4.603543,True
 169177859,shop9297,Hà Nội,4.775,False
 71415582,LEAFA,Hà Nội,4.714377,False
 710548973,MANTO FASHION,Hà Nội,4.872878,True
 34991492,ShingHai Closet,TP. Hồ Chí Minh,4.812684,True
 805102808,JinXiaoQi.vn,Nước ngoài,4.705426,False
 70644242,Tie Dye Boutique,Đà Nẵng,4.858657,False
-122078356,Vest Nam Cao Cấp -TIANO,Thái Bình,4.794769,False
 415434839,vntiraocean.vn,Nước ngoài,4.587302,False
 110125810,Tiệm may An Nhiên,Hà Nội,4.874172,True
 772624445,m3vnxk,Hà Nội,4.872483,False
-617833578,Man Gang,Nước ngoài,4.380412,True
 42083832,AN KHANG thời trang trung niên,Hà Nội,4.902004,False
 285035222,Edana Menswear,Hà Nội,4.926151,False
 371720283,yaxin.vn,Nước ngoài,4.736603,False
 265349157,Gman Menswear,Hà Nội,4.783208,False
-100685648,osmvoi123.vn,Nước ngoài,4.721837,False
 160115943,Vanus Shop,Hà Nội,4.566406,False
 120930241,vyvy_ order china,Bắc Ninh,4.813419,False
 43370538,Mousi 2hand- vintage clothing,TP. Hồ Chí Minh,4.948594,True
@@ -624,56 +754,8 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 799955441,Mike ^_^ Fshion,Nước ngoài,4.592857,False
 862631189,TiraCare,Hà Nội,4.659091,False
 808767740,Athenas.official,TP. Hồ Chí Minh,4.829474,False
-768381058,Baolaiwu.vn,Nước ngoài,4.5,False
 583026101,F&X Transgender Clothing,Nước ngoài,4.548387,True
-928207729,CỌP.vintage,Hà Nội,4.89931,True
 600859158,VÂU OFFICIAL,TP. Hồ Chí Minh,4.876923,False
-114310081,Bộ Vest Nam cao cấp,Hà Nội,4.948339,False
-869690900,TIAN LAN,Nước ngoài,4.328358,False
-234802632,kanye0310,Nước ngoài,4.584699,False
-7782867,Xưởng May Hải Phúc VN,Nam Định,4.587684,True
-95968067,halos.vn,Nước ngoài,4.5,True
-288910981,quanaonamcongsoredep,Hà Tĩnh,4.884332,True
-865717263,Tuấn Shop - Đồ Nam Thiết Kế,Hà Nội,4.714454,False
-442912963,DATAMΛN - Official Store,Hà Nội,4.89166,True
-491237163,Đức AnhSShop1,Hà Nội,4.673774,False
-343489307,Hemes,Hà Nội,4.685039,False
-852735063,xiabifeng1213.vn,Nước ngoài,4.676056,False
-342570442,HERO - Store,Hà Nội,4.948571,False
-842092370,BAETON OFFICIAL,Hà Nội,4.824648,True
-61199990,REETRO,TP. Hồ Chí Minh,4.913894,True
-395506251,kejianzhen.vn,Nước ngoài,4.618644,False
-740366074,Veratino Official,Hà Nội,4.671993,False
-690740265,MMLUCK,Nước ngoài,4.7489,False
-14139179,TÚI MIMI ,Hà Nội,4.896249,False
-263118624,bachhoatonghoptamtam,Hà Nội,5.0,False
-738777425,COB.vintage,Hà Nội,4.841036,False
-183199642,Binstore thời trang nam,Hà Tĩnh,4.855924,False
-202884957,xman.vn,Nước ngoài,4.676841,False
-487212999,Thời trang cao cấp Zakistore,Hà Nội,4.849224,False
-96679462,GLMALL-vn,Nước ngoài,4.625342,False
-39602203,cơ sở may tiến lực,TP. Hồ Chí Minh,4.825597,True
-143015918,MAMOSTUDIO,TP. Hồ Chí Minh,4.927602,True
-55188436,TN Medical - Cửa Hàng Y Khoa,Đắk Lắk,4.896581,True
-845590897,nanafashions.vn,Nước ngoài,4.698734,False
-790030547,binguo.vn,Nước ngoài,4.466667,False
-638683611,TUNOMA,Hà Nội,4.712251,False
-153274154,khanvintage,Hà Nội,4.866667,True
-821612303,Men's shirts）/*,Nước ngoài,4.536585,False
-802115234,quần áo nam lúa mạch,Nước ngoài,4.410815,True
-15206925,Kho sỉ thời trang nam giá gốc,Hà Nội,4.648733,False
-28692628,Xưởng may sỉ thời trang nam ,Hà Nội,4.723901,True
-446727259,Thời Trang Cao Cấp Akistore88,Hà Nội,4.784836,False
-15137681,thinluong,TP. Hồ Chí Minh,4.920643,True
-117774125,LANA FASHION,TP. Hồ Chí Minh,4.340357,True
-301143667,Gốm Sứ Hoài Niệm,TP. Hồ Chí Minh,4.765021,False
-19448747,shoptuanngoc,TP. Hồ Chí Minh,4.715894,False
-68926569,carpediem.2k,Hà Nội,4.791667,False
-122309662,S89 STORE,Hà Nội,4.645194,False
-696791967,Men's EOEO,Nước ngoài,4.539337,True
-734609755,Cửa hàng đồ nam RR.vn,Nước ngoài,4.311176,False
-139657719,Tiệm CŨ KĨ,TP. Hồ Chí Minh,4.925412,True
-89788513,T-A-N,TP. Hồ Chí Minh,4.805936,False
 312488479,cemmery,TP. Hồ Chí Minh,4.92037,True
 558636342,AHSTORE - THỜI TRANG NAM,Hà Nội,4.800716,True
 44651390,Thoitrangchipxinh,Hà Nội,4.699005,False
@@ -683,7 +765,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 639792782,cacwtee7.vn,Nước ngoài,4.23988,False
 37581427,severmax,TP. Hồ Chí Minh,4.719157,True
 184241297,giadungmiennam123,TP. Hồ Chí Minh,4.909921,True
-193863118,dt_shopunisex (276),TP. Hồ Chí Minh,4.576328,True
 606016937,gonz.brand,Hà Nội,4.692476,False
 413816036,Áo chống nắng Dương Yến,Hà Nội,4.659734,False
 301657305,Number 5 -Thời trang nam,Hà Nội,4.869663,True
@@ -735,7 +816,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 101863798,MegaZ,Hà Nội,4.849936,True
 828769874,SHOP_NEW,Hà Nội,4.649367,False
 734444162,DINO SPORT,Hà Nội,4.72314,False
-91192053,Quần áo thể thao Nam nữ ,TP. Hồ Chí Minh,4.842693,True
 119044434,Xưởng Thời Trang 96,TP. Hồ Chí Minh,4.863636,False
 216551565,Thế Giới Thời Trang Nam,Hà Nội,4.888362,True
 273138753,Thời trang 2eight,Hà Nội,4.870281,True

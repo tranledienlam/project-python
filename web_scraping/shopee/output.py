@@ -1,6 +1,8 @@
 import os
 import pandas as pd
+# from memory_profiler import profile
 
+# @profile
 def to_csv(input_df: pd.DataFrame, output_csv : str = 'data.csv'):
     if input_df is None:
         return None

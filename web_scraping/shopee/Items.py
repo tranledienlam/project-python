@@ -6,6 +6,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+# from memory_profiler import profile
 
 from datetime import datetime
 import pandas as pd
@@ -13,6 +14,7 @@ import json
 import time
 
 class DetailCat:
+    # @profile
     def __init__(self, path: str, page: int = 0) -> None:
         """
         path: string categories 'Áo-Khoác-cat.11035567.11035568'
@@ -41,6 +43,7 @@ class DetailCat:
                 WebDriverWait(driver, 20).until(
                     EC.presence_of_element_located((By.TAG_NAME, 'div'))
                 )
+                
                 time.sleep(5)
                 
                 for request in driver.requests:
@@ -85,6 +88,7 @@ class DetailCat:
 
                         print(df.head(2))
                         self.details = df
+                        driver.quit()
             except TimeoutException:
                 # Xử lý nếu timeout xảy ra
                 print("Timeout: Không thể tải trang trong thời gian quy định 20s.")
@@ -96,7 +100,7 @@ class DetailCat:
                 time.sleep(20)
             else:
                 break
-    
+    # @profile
     def df_items(self):
         if self.details is None:
             return None
@@ -131,7 +135,7 @@ class DetailCat:
         df_items.drop_duplicates(subset=keyid, keep="last", inplace=True)
         
         return df_items
-    
+    # @profile
     def df_shops(self):
         if self.details is None:
             return None
@@ -148,7 +152,7 @@ class DetailCat:
         keyid = df_shops.columns[0]
         df_shops.drop_duplicates(subset=keyid, keep="last", inplace=True)
         return df_shops
-    
+    # @profile
     def df_cats(self):
         if self.details is None:
             return None
