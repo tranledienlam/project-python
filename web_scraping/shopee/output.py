@@ -2,6 +2,8 @@ import os
 import pandas as pd
 
 def to_csv(input_df: pd.DataFrame, output_csv : str = 'data.csv'):
+    if input_df is None:
+        return None
     
     if type(input_df) == list:
         input_df = pd.DataFrame(input_df)

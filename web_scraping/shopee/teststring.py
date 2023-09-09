@@ -41,3 +41,6 @@ print(datetime.fromtimestamp(1623080468).strftime('%Y-%m-%d %H:%M:%S'))
 path = 'Áo-Khoác-cat.11035567.11035568'
 print(path.split('.')[-1])
 print(random.choice)
+detail = None
+print(detail is None)
+
