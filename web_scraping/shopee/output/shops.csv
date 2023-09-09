@@ -1,189 +1,396 @@
 shopid,shop_name,shop_location,shop_rating,shopee_verified
-450850763,mtp.dongho.50,Bắc Ninh,4.700962,False
-821811565,Hang3c.shop,Bình Dương,4.333247,True
-925890343,lingfan.vn,Nước ngoài,4.364756,True
-127261316,melanie.vn,Nước ngoài,4.818944,True
-345895875,thaothaothao2506,Đồng Nai,4.8,False
-240247481,kho_si_quang_sang,TP. Hồ Chí Minh,4.738194,False
-313920834,Bibiwatch,TP. Hồ Chí Minh,4.888535,False
-110829600,Bảo Trân Si Đẹp - 2Hand,Lâm Đồng,4.90625,True
-31308951,Dây Đồng Hồ MT,Hà Nội,4.926184,True
-1464193,Đồng hồ Yon shop,TP. Hồ Chí Minh,4.868347,False
-27322862,LimStore_Phụ Kiện Giá Rẻ,Hà Nội,4.568797,False
-175395370,shopsiphukien79,Đắk Lắk,4.77219,False
-75968634,NẮNG STORE 1 ,TP. Hồ Chí Minh,4.72914,False
-167352904,vnhotmall.vn,Nước ngoài,4.733554,True
-65936455,vansvar.vn,Nước ngoài,4.726217,False
-447456160,mtp.dongho.48,Bắc Ninh,4.772504,True
-125197678,Dây Chuyền Nam Bảo Bảo Store,TP. Hồ Chí Minh,4.760705,True
-361666610,🎧Tai nghe Bluetooth PRO3🎧,Nước ngoài,4.615821,False
-58102576,Hoangthien20061990,Đắk Lắk,4.754023,True
-295061360,zhaoze.vn,Nước ngoài,4.740579,True
-167278093,skmeiflagship.vn,Nước ngoài,4.644222,True
-61368286,Shopthuanhoang247,Đắk Lắk,4.802222,True
-698569246,Luxury Watch Boss,TP. Hồ Chí Minh,5.0,False
-182902182,LWCC Official Watch Store,Nước ngoài,4.739005,False
-911376461,Trangpham.Rẻ,TP. Hồ Chí Minh,4.973684,False
-90020451,Viettel__Hà Nội,Hà Nội,4.722222,True
-65751685,epirec_order,Hà Nội,4.857451,False
-53667994,Bẫy Thú Giá Sỉ,Bắc Giang,4.743443,True
-135375573,Đồng hồ đeo tay đẹp dongho668,Hà Nội,4.876187,True
-393363168,Cửa Hàng Gia Dụng Đậu Đậu,TP. Hồ Chí Minh,4.543108,False
-493989366,Đồng hồ đẹp 388,Hà Nội,4.91746,False
+903805218,QH smart,TP. Hồ Chí Minh,4.975955,False
+81887939,Coobuy Flagship Store,Nước ngoài,4.804807,True
+29972589,ShopMinMaxKids,Hà Nội,4.93494,True
+10725357,shopminhkhue,Bà Rịa - Vũng Tàu,4.922756,False
 170282937,skmeimall.vn,Nước ngoài,4.776647,False
-108035932,Đồng Hồ Đeo Tay Nam Nữ Winsley,Hà Nội,4.84124,True
-780895922,LHwatch.vn,Nước ngoài,4.647059,False
-457159619,huaqingjiaoyu3.vn,Nước ngoài,4.629353,False
-20452800,niniwatch.official,Bình Thuận,4.860058,False
-869667603,vnfun.vn,Nước ngoài,4.879828,True
-390327,ArsCris ( ArsCstore),TP. Hồ Chí Minh,4.924938,True
-141518584,Top station.vn,Nước ngoài,4.870461,True
-801494450,sỉ mũ nón sài gòn,TP. Hồ Chí Minh,4.690423,True
-57040335,Rosi Accessories,Hà Nội,4.837051,True
-58348200,Shopchuyensi20061990,Đắk Lắk,4.818394,True
+464072293,fmari.vn,Nước ngoài,4.83205,True
+81246435,hailie.vn,Nước ngoài,4.690162,True
+66654621,Tạp hoá siêu rẻ,Hà Nội,4.861692,True
+175910016,Tổng kho Ferado,Hà Nội,4.657092,True
+242242359,Toys 670 ,TP. Hồ Chí Minh,4.813492,False
+71219183,giày búp bê nhựa cho bé,Nước ngoài,4.860387,True
+746691212,gmlin01.vn,Nước ngoài,4.632249,False
+64065826,Hotwind,Nước ngoài,4.766804,False
+762520670,Bé Style - Phụ kiện cho bé,Hà Nội,4.848649,True
+99139724,zkgood.vn,Nước ngoài,4.753154,False
+243348106,quanaotreem09,TP. Hồ Chí Minh,4.635644,True
+885980993,LCYyuchenghui123.vn,Nước ngoài,4.306667,False
+745371681,7seven.vn,Nước ngoài,4.712507,True
+270412193,beauty_angel.vn,Nước ngoài,4.795015,True
+80109345,Boopkid Shop,Hà Nội,4.885256,False
+787198665,HeroKids - Đồ chơi cho bé,Hà Nội,4.911126,True
+221034172,thietbigiaoducsaigon,TP. Hồ Chí Minh,4.738423,False
+260542896,Tina Chuyên Đồ Chơi Trẻ Em,Hà Nội,4.87556,True
+140614381,bigkids,Hà Nội,4.90732,True
+194262328,Phụ Kiện TiTi,TP. Hồ Chí Minh,4.86965,True
+45683458,Shop Đồ Chơi - Phụ Kiện Xinh,Hà Nội,4.958633,True
+47064542,JUMPING BEANS Official Store,Hà Nội,4.859226,True
+144939255,Azoda Sport,Hà Nội,4.870579,True
+904325161,ManYi,TP. Hồ Chí Minh,4.919568,True
+838934598,hipster với đồng hồ thông minh,Nước ngoài,4.751862,False
+75151307,mickyumi,TP. Hồ Chí Minh,4.899589,True
+255585988,Good Store HN,Hà Nội,4.85657,True
+858609017,iGirl Store Phụ Kiện cho Nàng,TP. Hồ Chí Minh,4.943182,False
+468312780,Thế Giới Đồ Chơi - HCM,TP. Hồ Chí Minh,4.882675,True
+186608798,Shop Chuyên Sỉ 91,Hải Dương,4.689353,True
+63268537,THỊNH TÂM Billiard - Bida ,Lâm Đồng,4.737557,True
+236899450,CUAHANGDONGHO.VN,TP. Hồ Chí Minh,4.784483,False
+190386301,TIANYI Fashion,Nước ngoài,4.803659,True
+38447875,3S STORE -PHỤ KIỆN THỜI TRANG,Hà Nội,4.85986,True
+83082239,beautywawa.vn,Nước ngoài,4.819335,True
+288607049,universtry.vn,Nước ngoài,4.76665,True
+575861,Quần áo trẻ em Xu Xu Kids,Bắc Ninh,4.928059,True
+847088811,apple_jbl_store.vn,Nước ngoài,4.816464,True
+345294929,WatchStore Việt Nam,TP. Hồ Chí Minh,4.920849,False
+80630929,suli703733,Đắk Lắk,4.749268,True
+41395119,SINHPHU OFFICIAL,Đà Nẵng,4.902391,False
 607160880,Eggerman.vn,Nước ngoài,4.828,True
-326051625,mtp02.watches,Hà Nội,4.869942,False
-8687031,𝚁𝚞𝚜 𝚆𝚊𝚝𝚌𝚑𝚎𝚜 ,TP. Hồ Chí Minh,4.802178,True
-364494432,justdone.vn,Nước ngoài,4.709677,False
-875992346,ĐồngHồThờiTrang _Watch24h,Hà Nội,4.88973,True
-710326081,huangshiqing017.vn,Nước ngoài,4.669967,False
-68362839,Madeline,TP. Hồ Chí Minh,4.821779,True
+837193957,li1106395104.vn,Nước ngoài,4.764331,False
+266761655,hauhau1991,Hải Dương,4.789861,True
+64596093,Babyme,Nước ngoài,4.875734,True
+312536434,bekem21,Lào Cai,4.532081,False
+768045781,JJ Kids Fashion Official Store,TP. Hồ Chí Minh,4.944458,False
+440897382,thời trang trẻ em - VN.,Nước ngoài,4.823572,True
+438929053,ZG Boutique,Bắc Ninh,4.961021,False
+178575628,youkunthird.vn,Nước ngoài,4.733269,True
+106785820,Shop Phụ Kiện Đồ Chơi Trẻ Em,Hà Nội,4.924928,True
+255934478,BCCH Books & Stationery Store,Nước ngoài,4.919103,False
+294322580,Tổng Kho Mẹ Bé - Hồ Lô Kids,Hà Nội,4.866887,True
+64501135,dochoisinhdoi,TP. Hồ Chí Minh,4.814307,True
+742159553,shopsieure88Pk,Hà Nội,4.683176,True
+879164115,Study Hard,Nước ngoài,4.721429,True
+351426309,Fairycasing band Strap Store,Nước ngoài,4.7308,True
+161353541,morningdream.vn,Nước ngoài,4.80259,False
+72394178,Nhà Rii,Hà Nội,4.935361,False
+455579471,KIDS HOME STORE,Đà Nẵng,4.851711,False
+257603387,Sale Minimart,Hà Nội,4.808648,True
+289719067,yengood.vn,Nước ngoài,4.715625,True
+650655,Hoa Sim,TP. Hồ Chí Minh,4.847407,True
+26119285,AK Store - Thế Giới Đồ Chơi,Hà Nội,4.844414,True
+153292583,shoppingfun2.vn,Nước ngoài,4.691144,True
+783797149,heney.vn,Nước ngoài,4.555109,False
+8115940,Good Shop (Hà Nội),Hà Nội,4.863527,True
+261932738,Giày Dép Thùy Phan ,TP. Hồ Chí Minh,4.85696,True
+210021610,SHOPSIRO CHĂM SÓC MẸ & BÉ,TP. Hồ Chí Minh,4.973287,True
+203758329,Khosicholon,TP. Hồ Chí Minh,4.767618,True
+181597533,Rubik Pro 97,Hà Nội,4.887746,True
+603982973,World family,Hà Nội,4.746073,True
+629275558,hicollect,Hà Nội,4.778618,True
+322962270,TỔNG KHO SỈ ĐỒNG HỒ THÔNG MINH,Hà Nội,4.875817,False
+186275339,Mặt Trời Baby,Hà Nội,4.918599,True
+23247192,Đồng Hồ Thảo,Hà Nội,4.93044,False
+326329249,Cân tiểu ly điện tử Etomax,Hà Nội,4.854671,False
+16319611,BinBoKids2022,Hà Nam,4.974684,False
+158424263,balance.vn,Nước ngoài,4.751108,False
+27229899,Store4men Giá sỉ Online,TP. Hồ Chí Minh,4.801839,True
+497590598,raintowaters.vn,Nước ngoài,4.809905,True
+76756336,Đồ chơi trẻ em,TP. Hồ Chí Minh,4.884282,True
+378345402,Baby&mother.vn,Nước ngoài,4.829268,False
+801404648,DOUJIAZU.vn,Nước ngoài,4.427984,False
+155357544,WatchMallVietNam,TP. Hồ Chí Minh,5.0,False
+5845930,Sandy Store - Giáo Cụ Dạy Học,Đà Nẵng,4.88036,True
+141704152,Toys Shop - Đồ chơi STEM,Hà Nội,4.838288,True
+896695258,Đồng Hồ Thời Trang_Hà Nội,Hà Nội,4.915028,True
+52498105,Sinhphuwatches,Đà Nẵng,4.912863,False
+784748971,Phụ Kiện Công Nghệ 83,TP. Hồ Chí Minh,4.682927,False
+65936455,vansvar.vn,Nước ngoài,4.726221,False
+57916709,KHO SỈ 168,Hà Nội,4.852267,True
+158810008,Bách Hóa Tổng Hợp Việt,Hà Nội,4.771989,True
+395411154,Biknew,TP. Hồ Chí Minh,4.90072,False
+614677170,Lalaland Accessories Store,Hà Nội,4.928096,True
+53118009,Hauhaushop91,Hải Dương,4.82312,True
+33463771,phukien.hotre,TP. Hồ Chí Minh,4.6398,False
+164772700,Paipai.vn,Nước ngoài,4.79413,True
+158481060,Forkids24h,TP. Hồ Chí Minh,4.880708,True
+366631286,FridayShopping,TP. Hồ Chí Minh,4.919786,False
+73031594,Quần áo trẻ em，Đầm em bé,Nước ngoài,4.847739,False
+281106992,ĐIỆN MÁY GIÁSỈ,TP. Hồ Chí Minh,4.830917,True
+12325354,Shop Giá Sỉ - Bán Lẻ Giá Sỉ,Thái Nguyên,4.832847,False
+291207620,xiaoyustore.vn,Nước ngoài,4.835447,True
+182902182,LWCC Official Watch Store,Nước ngoài,4.739005,False
+627143305,Thời gian của trẻ em,Nước ngoài,4.731037,True
+390327,ArsCris ( ArsCstore),TP. Hồ Chí Minh,4.924937,True
+71222448,Vietmart 668,TP. Hồ Chí Minh,4.864447,True
+164942739,Thế Giới Đồ Chơi Của Bé Yêu,Hà Nội,4.900693,True
+178569040,ruiyantwo.vn,Nước ngoài,4.680402,True
+424326942,olssda1.vn,Nước ngoài,4.782414,False
+301814208,BORIS Home & Living Store,Nước ngoài,4.883978,False
+127914116,bulangni.vn,Nước ngoài,4.682444,True
+12431867,Quần áo hóa trang,TP. Hồ Chí Minh,4.959684,True
+33329184,Lana Queen ,TP. Hồ Chí Minh,4.901278,True
+296613992,kokoary.vn,Nước ngoài,4.796946,True
+298270978,SMAEL Official Store,Nước ngoài,4.851852,False
+165031647,MLRS: Bags&Wallets,Nước ngoài,4.706349,False
+614654393,fenda,Nước ngoài,4.808843,False
+751018416,angelbaby88.vn,Nước ngoài,4.827843,True
+171046872,Tochang Store,Hà Nội,4.931001,True
+316275706,Mother&Baby Store.vn,Nước ngoài,4.841689,False
+182193793,Đồng hồ giá rẻ chất,Hà Nội,4.875983,True
+27703866,vuonghoaquynh,Hà Nội,4.80761,True
+141518584,Top station.vn,Nước ngoài,4.870461,True
+167278093,skmeiflagship.vn,Nước ngoài,4.644222,True
+545495173,SmartKids - Thế Giới Mẹ Bé,Hà Nội,4.758838,True
 751271791,seven7seven.vn,Nước ngoài,4.724404,True
-262162145,ME_WATCH,Hà Nội,4.914625,False
-175873452,QUINN OFFICIAL STORE,TP. Hồ Chí Minh,4.860082,False
-840067676,yh8901.vn,Nước ngoài,4.655172,False
-843962081,Duy Đồng Hồ ,Hà Nội,4.912281,False
-11871296,BlueTech,TP. Hồ Chí Minh,4.905066,True
-28240552,Đồng Hồ Nam Nữ - Longkk34,Hà Nội,4.820885,False
-143736892,Orient Việt Nam,Nam Định,4.848048,True
-97177308,The Tomi,Hà Nội,4.884661,False
-593890963,Dino.shop,TP. Hồ Chí Minh,4.636364,False
-868225564,caolin.vn,Nước ngoài,4.659292,True
-10323148,HAZO 24H,TP. Hồ Chí Minh,4.803184,True
-386869662,mtp.dongho.18,Bắc Ninh,4.809923,False
-265357120,Pagini Store,Hà Nội,4.786212,False
-850255990,Diçkies Watch Brand,Hà Nội,4.868852,False
-127848714,GOZID WATCHES,Hà Nội,4.846131,True
-109764083,Qipin Fashion Store,Nước ngoài,4.913365,True
-304843861,WISHDOIT Official Shop,Nước ngoài,4.876108,False
-140222000,TIỆN ÍCH . STORE,Bà Rịa - Vũng Tàu,4.792079,False
-264298110,ĐỒNG HỒ TIGO,TP. Hồ Chí Minh,4.958159,False
-392525343,OneTime.Watch,Hà Nội,4.871538,True
-28699808,Đấng mày râu,TP. Hồ Chí Minh,4.965318,False
-53118009,Hauhaushop91,Hải Dương,4.823113,True
-847327,ShopVu,TP. Hồ Chí Minh,4.859069,True
+66675726,CFSTORE,Nước ngoài,4.79242,True
+178575363,crthird.vn,Nước ngoài,4.647021,True
+58102576,Hoangthien20061990,Đắk Lắk,4.754023,True
+441562037,SugE | 🌺Cửa hàng chính thức,Nước ngoài,4.844152,True
+439543442,Licer Watch Store,Nước ngoài,4.843384,True
+16055545,Đồ hóa trang Herokids,Hà Nội,4.878665,True
+93376344,baodanwang.vn,Nước ngoài,4.736424,True
+280895381,chitengyesuper.vn,Nước ngoài,4.62695,True
+63682760,ohmybaby.vn,Nước ngoài,4.785096,True
+29632371,ferado.vn,Hà Nội,4.717511,True
+51739808,BBShine,TP. Hồ Chí Minh,4.922568,True
+510994054,TwitchFranchisedStore.vn,Nước ngoài,4.666852,False
+28228365,SaLeMyPham89,Thái Nguyên,4.85179,False
+83379830,crazywind.vn,Nước ngoài,4.64257,False
+157779618,nguyenvandungkt,Đồng Tháp,4.810277,False
+180233246,mevabeyeu24h,TP. Hồ Chí Minh,4.846497,False
+361541333,VC Grocery,TP. Hồ Chí Minh,4.862706,False
+91281097,Young Girl Jewelry,Nước ngoài,4.810151,True
+11871296,BlueTech,TP. Hồ Chí Minh,4.90508,True
+58348200,Shopchuyensi20061990,Đắk Lắk,4.818394,True
+77367729,smartsimple.vn,Nước ngoài,4.848984,True
+460287573,Đồ chơi thông minh BiBi Shop,Hà Nội,4.941017,True
+74691446,digitalshop.vn,Nước ngoài,4.790058,True
+442513377,Phụ Kiện Giá Sỉ Hà My,Hà Nội,4.939176,True
+462856043,Evanfang.vn,Nước ngoài,4.875746,False
+75620130,☀Pentagon☀,Nước ngoài,4.864057,True
+226585161,Gia Dụng Sỉ Lẻ,Lạng Sơn,4.788828,True
+20376159,Quần áo siêu nhân Luckykids,TP. Hồ Chí Minh,4.97093,False
+32915930,SIÊU THỊ MINI 247,TP. Hồ Chí Minh,4.759234,True
+72886522,MINA STORE Vn,Hà Nội,4.76536,False
+9875826,Be Better,TP. Hồ Chí Minh,4.923913,False
+115759063,happymombaby.vn,Nước ngoài,4.867411,True
+619017372,SABUY Baby,Nước ngoài,4.746342,True
+482876737,TDTWatch11,TP. Hồ Chí Minh,4.94359,False
+522095108,titania.vn,Nước ngoài,4.77957,False
+421655236,Tạp Hóa Mầm Non,TP. Hồ Chí Minh,4.863694,True
+30855346,Hàng khuyến mại và mẫu thử,Hà Nội,4.928003,True
+425840954,Phụ kiện giáo dục,Hà Nội,4.868209,True
+815464202,JATEN.vn,Nước ngoài,4.864387,False
+75478975,sufudianzi,Nước ngoài,4.693641,True
+619024255,YA ZHOU LONG,Nước ngoài,4.793099,False
+593193866,ĐỒNG HỒ THÔNG MINH SỐ 1 VN,Hà Nội,4.726096,False
+800401057,jungsshop2.vn,Hàn Quốc,4.915233,True
+151607313,ĐỒ CHƠI TRẺ EM MUSHROOM SHOP,TP. Hồ Chí Minh,4.868868,True
+84277741,Sóc Ciu Kids,Hà Nội,4.867727,False
+211505693,shangyuan.vn,Nước ngoài,4.857725,True
+141518269,SuperLaLa Beauty Store,Nước ngoài,4.893816,True
+157008787,ILOVEDIY:SuperMarket,Nước ngoài,4.828486,True
+783807705,Synoke.vn,Nước ngoài,4.742287,False
+32892384,DÉP CAO SU VIỆT NAM,Bình Định,4.840909,False
+783688433,joycefull.vn,Nước ngoài,4.806331,False
+119080765,fashionfindings.vn,Nước ngoài,4.853529,False
+7856119,Shop Phụ Kiện Giá Sỉ,TP. Hồ Chí Minh,4.750092,False
+200436471,TBW SAIGON,TP. Hồ Chí Minh,4.802283,True
+10912353,M2M SHOP,Hà Nội,4.902158,True
+31081456,Đồng hồ điện tử VicWatch-Shop,Hà Nội,4.758497,False
+33216351,Smart Home - Gia dụng Việt,TP. Hồ Chí Minh,4.757979,True
+28880604,Shop Giá Sỉ 247,TP. Hồ Chí Minh,4.771693,True
+153341977,BetterWithYou,Nước ngoài,4.778772,True
+240247481,kho_si_quang_sang,TP. Hồ Chí Minh,4.738194,False
+68362839,Madeline,TP. Hồ Chí Minh,4.821781,True
+264056991,youbeisi.vn,Nước ngoài,4.847707,True
+61365766,Shopdongho347,Đắk Lắk,4.660149,True
+635195255,99.KIDPLAZA,Bắc Ninh,4.755273,True
+845157418,qingfeng04.vn,Nước ngoài,3.986301,False
+521227090,youjiman.vn,Nước ngoài,4.672185,False
+166970227,Hangthatgiatot,Hà Nội,4.880597,False
+476695675,colorday.vn,Nước ngoài,4.801938,False
+600374,TSJ Shop,Hà Nội,4.881188,True
+68453453,Youngcityshop,Hà Nội,4.782174,True
+647664187,THẾ GIỚI ĐỒ CHƠI TRẺ Boikez,TP. Hồ Chí Minh,4.767779,False
+159653767,babydoll kids rompers&dresses,Nước ngoài,4.841979,True
+170331965,"M, C, R (balloon)",Nước ngoài,4.809449,False
+69703613,SurpriseBaby Kids Store,Nước ngoài,4.780465,True
+645432503,lwccshop.vn,Nước ngoài,4.686119,False
+423720178,Tiệm của Voi,TP. Hồ Chí Minh,4.789646,False
+127914240,laburrt.vn,Nước ngoài,4.616931,True
+130905693,Khosinamdinh,Nam Định,4.767583,True
+65479986,Phúc Thịnh EV,Hà Nội,4.782258,False
+126611096,everydayjoy.vn,Nước ngoài,4.788889,False
+112618084,Nhà Mía - Đồ chơi cho bé,Hà Nội,4.87052,True
+599880844,dochoibexoai,Kon Tum,4.876164,True
+269206347,Mickey（balloon）,Nước ngoài,4.774378,False
+455457741,augustina.vn,Nước ngoài,4.727355,True
+83270764,WATCHES BY TIF - ĐỒNG HỒ HN 🌸,Hà Nội,4.9243,True
+467441549,Bống Shop 36,Hà Nội,4.774326,True
+704970039,RALICTE! Gian hàng xu hướng,Nước ngoài,4.618121,False
+451779614,fepitostore.vn,Nước ngoài,4.842993,False
+891905949,Blessu.vn,Nước ngoài,4.656716,False
+869669484,luoheliangyun.vn,Nước ngoài,4.812081,False
+16108754,Ổ Của Nhím ❤️,Gia Lai,4.915572,False
+83328632,QUÀ TẶNG-ĐỒ CHƠI,Hà Nội,4.856459,False
+187524700,saffiwatch.vn,Nước ngoài,4.748194,False
+460387338,shanghaishiye-1.vn,Nước ngoài,4.761023,True
+310455001,KIDS.WATCH,Nước ngoài,4.892231,False
+273202243,kidblue.vn,Nước ngoài,4.884712,True
+4026185,Thời trang nam nữ Hami,TP. Hồ Chí Minh,4.713609,False
+211484241,babysong.vn,Nước ngoài,4.87396,True
+61368286,Shopthuanhoang247,Đắk Lắk,4.802222,True
+257573435,Đồ chơi trẻ em 6868,Hà Nội,4.803345,True
+924949799,Shop Chuyên Sỉ 18,Hải Dương,4.900296,False
+77421976,Allgoodshop.vn,Nước ngoài,4.71944,False
+425698951,Thế Giới Phụ Kiện Thông Minh68,Hà Nội,4.886692,True
+21674953,Siro House - Mom & Baby,Hà Nội,4.940299,False
+427394071,BoBaBo.store,TP. Hồ Chí Minh,4.882898,False
+210236172,Đồng Hồ Giá Rẻ Top Việt Nam,Hà Nội,4.894836,False
+343924365,THÀNH CÔNG JSC,Hà Nam,4.934397,True
+405926337,The Time Authentic,Hà Nội,4.875199,True
+108035932,Đồng Hồ Đeo Tay Nam Nữ Winsley,Hà Nội,4.84124,True
 108165624,OLEVS Official Store,Nước ngoài,4.884654,False
-10089777,Nhà Của Oggy,TP. Hồ Chí Minh,4.944444,True
-162667032,tokyo2019.shop,Hà Nội,4.829296,False
-457138091,hangtuohutong3.vn,Nước ngoài,4.741071,False
-30018377,Bông Store95,TP. Hồ Chí Minh,4.835367,True
-446551982,mtp.dongho.46,Bắc Ninh,4.615566,False
-130905693,Khosinamdinh,Nam Định,4.767585,True
-36352206,JULIUS OFFICIAL VIETNAM,TP. Hồ Chí Minh,4.938857,False
-850698990,linhkiendientuHA,Hà Nội,4.521739,False
-108035652,Đồng Hồ Nam Nữ Tony Watch 68,Hà Nội,4.839186,True
-361538388,sandamall.vn,Nước ngoài,4.800417,False
+105034163,Xiao Ya Official Mall,Nước ngoài,4.8918,False
+332838307,ĐẠI PHÁT 88,Hà Nam,4.941636,True
+293851806,WandaStore68,Hà Nội,4.238977,False
+740791792,Mon Luxury PK,Hà Nội,4.828111,True
+304843861,WISHDOIT Official Shop,Nước ngoài,4.876108,False
+129087533,Memories Travel Tech Store,TP. Hồ Chí Minh,4.852217,True
+315998806,LINDO-STORE,Hà Nội,4.840446,False
 51586134,Phố Đồng Hồ,Hà Nội,4.912998,False
-315998806,LINDO-STORE,Hà Nội,4.840437,False
-713701190,phụ tùng bơm máy,Đà Nẵng,4.777031,False
+112113529,Hyma Watch,TP. Hồ Chí Minh,4.9375,False
+899873304,Thiết Bị Giảng Dạy Sài Gòn,TP. Hồ Chí Minh,4.895522,False
+108035652,Đồng Hồ Nam Nữ Tony Watch 68,Hà Nội,4.839186,True
+466578930,phukien_shops,Hà Nội,4.877925,False
+70658682,LAMY Watches and Accessories,Hà Nội,4.905346,False
+328315909,MTP 03 WATCHES,Hà Nội,4.798141,True
+36352206,JULIUS OFFICIAL VIETNAM,TP. Hồ Chí Minh,4.938857,False
+2752885,Đồng Hồ - Trang Sức - Kính,Hà Nội,4.72773,False
+552308534,Thành Danh Swatch 5,Hà Nội,4.924429,True
+28240552,Đồng Hồ Nam Nữ - Longkk34,Hà Nội,4.820885,False
+10089777,Nhà Của Oggy,TP. Hồ Chí Minh,4.944444,True
+884948027,BaBy MiA Kingdom,Hà Nội,4.866935,False
+118079673,LIGE đồng hồ thông minh,Nước ngoài,4.55237,False
+850719764,GiGi Bom Store,TP. Hồ Chí Minh,4.738494,False
+710326081,huangshiqing017.vn,Nước ngoài,4.669967,False
+283656433,Phụ Kiện Chị Ong Vàng,Hà Nội,4.805582,False
+308383844,CURREN Official Store,Nước ngoài,4.86048,False
+20170059,1994s WATCH,TP. Hồ Chí Minh,4.941327,True
+56034601,Julius Mall Store,TP. Hồ Chí Minh,4.942394,False
+281717182,TDTWatch1,TP. Hồ Chí Minh,4.918919,True
+244428606,CRRJU Official Store,Nước ngoài,4.85011,False
+468052884,Aeshop.01,Hà Nội,4.792497,False
+560942899,HANGKYO WATCH ,TP. Hồ Chí Minh,4.941348,True
+8687031,𝚁𝚞𝚜 𝚆𝚊𝚝𝚌𝚑𝚎𝚜 ,TP. Hồ Chí Minh,4.802178,True
+259612115,Thành Danh Swatch 3,Hà Nội,4.96025,True
+235506937,SHENGKE Official shop.vn,Nước ngoài,4.892136,False
+106962208,Bến Thành e-Mall,TP. Hồ Chí Minh,4.892228,True
+457138091,hangtuohutong3.vn,Nước ngoài,4.741071,False
+6575723,Daisy US 🇺🇸✈️,TP. Hồ Chí Minh,4.976371,True
+242842152,ĐồngHồNamNữĐẹp.VN,Hà Nội,4.728927,False
+791788859,pingliaoshangmao.vn,Nước ngoài,4.773256,False
+361538388,sandamall.vn,Nước ngoài,4.800417,False
+165019495,Thành Danh Swatch 2,Hà Nội,4.914615,True
+135375573,Đồng hồ đeo tay đẹp dongho668,Hà Nội,4.876187,True
+405296930,Scooter Baby Shop,TP. Hồ Chí Minh,4.968539,False
+127848714,GOZID WATCHES,Hà Nội,4.846154,True
+840067676,yh8901.vn,Nước ngoài,4.655172,False
+453025685,GediOfficialStore.vn,Nước ngoài,4.887673,False
+67340978,Lê Huy Fashion,An Giang,4.868161,True
+264298110,ĐỒNG HỒ TIGO,TP. Hồ Chí Minh,4.958159,False
+868225564,caolin.vn,Nước ngoài,4.659292,True
+42410443,BÍCH THÙY HVAC,Hà Nội,4.811834,True
+313920834,Bibiwatch,TP. Hồ Chí Minh,4.888535,False
+850255990,Diçkies Watch Brand,Hà Nội,4.868852,False
+267584559,YIYUAN Fashion Accessori Salon,Nước ngoài,4.838695,False
+125197678,Dây Chuyền Nam Bảo Bảo Store,TP. Hồ Chí Minh,4.760717,True
+115513127,TDTWatch2,TP. Hồ Chí Minh,4.936133,True
+847327,ShopVu,TP. Hồ Chí Minh,4.859069,True
+191129316,Đồng Hồ Chính Hãng Giá Sỉ,Thái Nguyên,4.765665,False
+236937755,Việt Dũng Store,Hà Nội,4.786885,False
+130156129,Watch HG.tiny,Bắc Ninh,4.831169,False
+213505948,12watch.vn,Nước ngoài,4.841367,True
+57040335,Rosi Accessories,Hà Nội,4.837051,True
+27025013,Tổng Kho Vật Tư Điện Lạnh,Hà Nội,4.856903,False
+10323148,HAZO 24H,TP. Hồ Chí Minh,4.803183,True
+24336526,Tibihome,TP. Hồ Chí Minh,4.56535,False
+21018761,Đồng hồ Lucio,Hà Nội,4.908692,True
+64361552,Đồng hồ Vũng Tàu since 1995,Bà Rịa - Vũng Tàu,4.910714,False
+48990071,Monner.store,Hà Nội,4.878261,False
+86536957,Tiệm Đồ Hàn🇰🇷,TP. Hồ Chí Minh,4.884764,False
+634227994,Luxuryaccessories.vn,Nước ngoài,4.664042,False
+143736892,Orient Việt Nam,Nam Định,4.848048,True
+840223152,lovelzc.vn,Nước ngoài,4.033203,False
+69120022,Đồng hồ Julius chính hãng,Hà Nội,4.967459,False
+174269994,KÍNH MẮT -ĐỒNG HỒ TÂM ANH,Hà Nội,4.857514,True
+173727145,watches.sg,Đà Nẵng,4.888825,False
+20452800,niniwatch.official,Bình Thuận,4.860058,False
+361060,Đồng Hồ Nam Nữ - Bí Đỏ Swatch,TP. Hồ Chí Minh,4.222222,False
+46162736,STAR SHOP PHỤ KIỆN,Hà Nội,4.881149,True
+74782005,beautyartisan.vn,Nước ngoài,4.78558,False
+251635588,Luckytimevn,TP. Hồ Chí Minh,4.957185,False
+135237511,Dobetter 3C Store,Nước ngoài,4.588542,False
 97243956,Vạn Tam WaTch,TP. Hồ Chí Minh,4.926554,False
+105518884,vattudienlanhlanquan,TP. Hồ Chí Minh,4.914634,False
+493989366,Đồng hồ đẹp 388,Hà Nội,4.91746,False
+780431898,Topwatch24h - Đồng hồ Cao Cấp,Đắk Lắk,4.860271,False
+713701190,phụ tùng bơm máy,Đà Nẵng,4.777167,False
 295847014,jipai05.vn,Nước ngoài,4.700184,True
 541472706,JASMINE WATCH,TP. Hồ Chí Minh,4.811526,True
-112113529,Hyma Watch,TP. Hồ Chí Minh,4.9375,False
-61365766,Shopdongho347,Đắk Lắk,4.660149,True
 914428970,fengxi.vn,Nước ngoài,3.934783,False
 6074305,Phụ Kiện Giá Sỉ Aha24h,TP. Hồ Chí Minh,4.813008,True
 40441526,CÂY XANH Garden,TP. Hồ Chí Minh,4.818188,True
 182951738,Đồng hồ Guou chính hãng VN,Hà Nội,4.877987,False
 12075611,đồng_hồ_duyanh_giasi,Hà Nội,4.613497,False
-81246435,hailie.vn,Nước ngoài,4.690162,True
-593193866,ĐỒNG HỒ THÔNG MINH SỐ 1 VN,Hà Nội,4.726096,False
-468052884,Aeshop.01,Hà Nội,4.792497,False
+27322862,LimStore_Phụ Kiện Giá Rẻ,Hà Nội,4.568797,False
+22189572,Timex Vietnam,TP. Hồ Chí Minh,4.814045,False
 850183644,Wefine,TP. Hồ Chí Minh,4.616822,False
-904325161,ManYi,TP. Hồ Chí Minh,4.919568,True
 143425879,hongduy41,Hà Nội,4.939394,False
-24336526,Tibihome,TP. Hồ Chí Minh,4.56535,False
-552308534,Thành Danh Swatch 5,Hà Nội,4.924429,True
+392525343,OneTime.Watch,Hà Nội,4.871538,True
 155377664,Tổng Kho Đồng Hồ Hàng Hiệu,Hà Nội,4.699387,False
 395431203,1993-Watch,TP. Hồ Chí Minh,4.944444,False
 310543769,lvpai.vn,Nước ngoài,4.741958,True
 234425278,zl999.vn,Nước ngoài,4.938793,False
-80630929,suli703733,Đắk Lắk,4.749268,True
-56034601,Julius Mall Store,TP. Hồ Chí Minh,4.942394,False
-343924365,THÀNH CÔNG JSC,Hà Nam,4.934397,True
-21018761,Đồng hồ Lucio,Hà Nội,4.908692,True
-130156129,Watch HG.tiny,Bắc Ninh,4.831169,False
-213505948,12watch.vn,Nước ngoài,4.841228,True
+780895922,LHwatch.vn,Nước ngoài,4.647059,False
+262162145,ME_WATCH,Hà Nội,4.914625,False
+175873452,QUINN OFFICIAL STORE,TP. Hồ Chí Minh,4.860082,False
+450850763,mtp.dongho.50,Bắc Ninh,4.700962,False
+843962081,Duy Đồng Hồ ,Hà Nội,4.912281,False
+97177308,The Tomi,Hà Nội,4.884661,False
+593890963,Dino.shop,TP. Hồ Chí Minh,4.636364,False
+386869662,mtp.dongho.18,Bắc Ninh,4.809923,False
+265357120,Pagini Store,Hà Nội,4.786212,False
+109764083,Qipin Fashion Store,Nước ngoài,4.913365,True
+140222000,TIỆN ÍCH . STORE,Bà Rịa - Vũng Tàu,4.792079,False
+28699808,Đấng mày râu,TP. Hồ Chí Minh,4.965318,False
+241446202,Sweetee Accessory,Hà Nội,4.790375,False
+162667032,tokyo2019.shop,Hà Nội,4.829296,False
+30018377,Bông Store95,TP. Hồ Chí Minh,4.835377,True
+446551982,mtp.dongho.46,Bắc Ninh,4.615566,False
+850698990,linhkiendientuHA,Hà Nội,4.521739,False
+801494450,sỉ mũ nón sài gòn,TP. Hồ Chí Minh,4.690423,True
+457159619,huaqingjiaoyu3.vn,Nước ngoài,4.629353,False
+821811565,Hang3c.shop,Bình Dương,4.333247,True
+925890343,lingfan.vn,Nước ngoài,4.364756,True
+127261316,melanie.vn,Nước ngoài,4.818944,True
+345895875,thaothaothao2506,Đồng Nai,4.8,False
+110829600,Bảo Trân Si Đẹp - 2Hand,Lâm Đồng,4.90625,True
+31308951,Dây Đồng Hồ MT,Hà Nội,4.926184,True
+1464193,Đồng hồ Yon shop,TP. Hồ Chí Minh,4.868347,False
+175395370,shopsiphukien79,Đắk Lắk,4.77219,False
+75968634,NẮNG STORE 1 ,TP. Hồ Chí Minh,4.72914,False
+167352904,vnhotmall.vn,Nước ngoài,4.733554,True
+447456160,mtp.dongho.48,Bắc Ninh,4.772504,True
+361666610,🎧Tai nghe Bluetooth PRO3🎧,Nước ngoài,4.615821,False
+295061360,zhaoze.vn,Nước ngoài,4.740579,True
+698569246,Luxury Watch Boss,TP. Hồ Chí Minh,5.0,False
+911376461,Trangpham.Rẻ,TP. Hồ Chí Minh,4.973684,False
+90020451,Viettel__Hà Nội,Hà Nội,4.722222,True
+65751685,epirec_order,Hà Nội,4.857451,False
+53667994,Bẫy Thú Giá Sỉ,Bắc Giang,4.743443,True
+393363168,Cửa Hàng Gia Dụng Đậu Đậu,TP. Hồ Chí Minh,4.543108,False
+869667603,vnfun.vn,Nước ngoài,4.879828,True
+326051625,mtp02.watches,Hà Nội,4.869942,False
+364494432,justdone.vn,Nước ngoài,4.709677,False
+875992346,ĐồngHồThờiTrang _Watch24h,Hà Nội,4.88973,True
 63825622,Đồng Hồ Luckytime.vn,TP. Hồ Chí Minh,4.972705,False
-425698951,Thế Giới Phụ Kiện Thông Minh68,Hà Nội,4.886692,True
-482876737,TDTWatch11,TP. Hồ Chí Minh,4.94359,False
-453025685,GediOfficialStore.vn,Nước ngoài,4.887608,False
-67340978,Lê Huy Fashion,An Giang,4.868152,True
-194262328,Phụ Kiện TiTi,TP. Hồ Chí Minh,4.869599,True
-105034163,Xiao Ya Official Mall,Nước ngoài,4.891783,False
-42410443,BÍCH THÙY HVAC,Hà Nội,4.811834,True
-2752885,Đồng Hồ - Trang Sức - Kính,Hà Nội,4.72773,False
-244428606,CRRJU Official Store,Nước ngoài,4.85011,False
-267584559,YIYUAN Fashion Accessori Salon,Nước ngoài,4.838698,False
-115513127,TDTWatch2,TP. Hồ Chí Minh,4.936133,True
-191129316,Đồng Hồ Chính Hãng Giá Sỉ,Thái Nguyên,4.765665,False
-236937755,Việt Dũng Store,Hà Nội,4.786885,False
-27025013,Tổng Kho Vật Tư Điện Lạnh,Hà Nội,4.856903,False
-64361552,Đồng hồ Vũng Tàu since 1995,Bà Rịa - Vũng Tàu,4.910714,False
-48990071,Monner.store,Hà Nội,4.878261,False
-86536957,Tiệm Đồ Hàn🇰🇷,TP. Hồ Chí Minh,4.884764,False
-634227994,Luxuryaccessories.vn,Nước ngoài,4.664042,False
-840223152,lovelzc.vn,Nước ngoài,4.033203,False
-69120022,Đồng hồ Julius chính hãng,Hà Nội,4.967459,False
-173727145,watches.sg,Đà Nẵng,4.888825,False
-174269994,KÍNH MẮT -ĐỒNG HỒ TÂM ANH,Hà Nội,4.857482,True
-153292583,shoppingfun2.vn,Nước ngoài,4.691144,True
-361060,Đồng Hồ Nam Nữ - Bí Đỏ Swatch,TP. Hồ Chí Minh,4.222222,False
-46162736,STAR SHOP PHỤ KIỆN,Hà Nội,4.881243,True
-74782005,beautyartisan.vn,Nước ngoài,4.78558,False
-251635588,Luckytimevn,TP. Hồ Chí Minh,4.957185,False
-845157418,qingfeng04.vn,Nước ngoài,3.986301,False
-135237511,Dobetter 3C Store,Nước ngoài,4.588542,False
-560942899,HANGKYO WATCH ,TP. Hồ Chí Minh,4.941348,True
-105518884,vattudienlanhlanquan,TP. Hồ Chí Minh,4.914634,False
-405926337,The Time Authentic,Hà Nội,4.875199,True
-332838307,ĐẠI PHÁT 88,Hà Nam,4.941636,True
-740791792,Mon Luxury PK,Hà Nội,4.828111,True
-293851806,WandaStore68,Hà Nội,4.238977,False
-129087533,Memories Travel Tech Store,TP. Hồ Chí Minh,4.852217,True
-899873304,Thiết Bị Giảng Dạy Sài Gòn,TP. Hồ Chí Minh,4.895522,False
-466578930,phukien_shops,Hà Nội,4.877925,False
-70658682,LAMY Watches and Accessories,Hà Nội,4.905326,False
-328315909,MTP 03 WATCHES,Hà Nội,4.798141,True
-884948027,BaBy MiA Kingdom,Hà Nội,4.866935,False
-118079673,LIGE đồng hồ thông minh,Nước ngoài,4.55237,False
-850719764,GiGi Bom Store,TP. Hồ Chí Minh,4.738494,False
-283656433,Phụ Kiện Chị Ong Vàng,Hà Nội,4.805536,False
-308383844,CURREN Official Store,Nước ngoài,4.86048,False
-439543442,Licer Watch Store,Nước ngoài,4.843384,True
-20170059,1994s WATCH,TP. Hồ Chí Minh,4.941327,True
-650655,Hoa Sim,TP. Hồ Chí Minh,4.847407,True
-281717182,TDTWatch1,TP. Hồ Chí Minh,4.918919,True
-210236172,Đồng Hồ Giá Rẻ Top Việt Nam,Hà Nội,4.894638,False
-259612115,Thành Danh Swatch 3,Hà Nội,4.960187,True
-83270764,WATCHES BY TIF - ĐỒNG HỒ HN 🌸,Hà Nội,4.924289,True
-235506937,SHENGKE Official shop.vn,Nước ngoài,4.892136,False
-106962208,Bến Thành e-Mall,TP. Hồ Chí Minh,4.892222,True
-6575723,Daisy US 🇺🇸✈️,TP. Hồ Chí Minh,4.976371,True
-266761655,hauhau1991,Hải Dương,4.789861,True
-242842152,ĐồngHồNamNữĐẹp.VN,Hà Nội,4.728927,False
-791788859,pingliaoshangmao.vn,Nước ngoài,4.773256,False
-165019495,Thành Danh Swatch 2,Hà Nội,4.914615,True
-405296930,Scooter Baby Shop,TP. Hồ Chí Minh,4.968539,False
-23247192,Đồng Hồ Thảo,Hà Nội,4.93044,False
-780431898,Topwatch24h - Đồng hồ Cao Cấp,Đắk Lắk,4.860271,False
-22189572,Timex Vietnam,TP. Hồ Chí Minh,4.814045,False
 14286831,Đồng Hồ Julius Watch,TP. Hồ Chí Minh,4.891442,False
 394761701,Thành Danh Swatch  1,Hà Nội,4.912981,True
 689817858,Time Master Watch,Nước ngoài,4.74469,True
 413355979,dream002.vn,Nước ngoài,4.841214,True
 408988155,TDTWatch7,TP. Hồ Chí Minh,4.945552,False
-762520670,Bé Style - Phụ kiện cho bé,Hà Nội,4.848649,True
 794487678,Đồng hồ thời trang SHELA,Bắc Ninh,4.92633,True
 705050827,DND STYLE HCM,TP. Hồ Chí Minh,4.903264,True
 75973090,Si tuyển Nhật_Âu,Kiên Giang,4.909091,False
@@ -197,7 +404,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 501577081,Phụ Kiện Thời Trang BO Store,Hà Nội,4.6117,False
 701625340,ORIGEDI_Đồng hồ nữ chính hãng,TP. Hồ Chí Minh,4.924593,True
 96155517,SAM HOUSE’S,Đà Nẵng,4.911561,True
-345294929,WatchStore Việt Nam,TP. Hồ Chí Minh,4.920826,False
 618560301,Thành Danh Swatch 4,Hà Nội,4.956569,True
 267257068,louiswill.vn,Nước ngoài,4.848492,False
 313993612,YS.OrDer,Hà Nội,4.910928,True
@@ -209,7 +415,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 190363506,QZQ2019.vn,Nước ngoài,4.727005,True
 78412172,Tiệm FIONA order đủ thứ 💖,Bình Dương,4.868293,False
 422425254,Shop đồng hồ Basic Jewelry,Hà Nội,4.916931,True
-200436471,TBW SAIGON,TP. Hồ Chí Minh,4.802249,True
 142361938,balidao.vn,Nước ngoài,4.7493,True
 418125698,Dongho.watch24h,TP. Hồ Chí Minh,4.888435,False
 397277198,lousmore,TP. Hồ Chí Minh,4.930731,False
@@ -218,11 +423,8 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 87123088,shopmaihuong90,TP. Hồ Chí Minh,4.668911,True
 129173438,nene.dongho,Bà Rịa - Vũng Tàu,4.902445,True
 926080900,DANIEL STORE SG,TP. Hồ Chí Minh,4.934524,False
-91281097,Young Girl Jewelry,Nước ngoài,4.810211,True
 285444151,ouyou.vn,Nước ngoài,4.692073,True
-178575628,youkunthird.vn,Nước ngoài,4.733277,True
 501573734,Brain.Store,Hà Nội,4.502798,True
-190386301,TIANYI Fashion,Nước ngoài,4.803659,True
 226843687,EDO.WATCH,Hà Nội,4.826271,False
 30572777,Thảo Nami Store,TP. Hồ Chí Minh,4.879509,True
 65895046,Bluelans.vn,Nước ngoài,4.76519,False
@@ -243,14 +445,11 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 135237908,yoomall.vn,Nước ngoài,4.829649,True
 81200028,crnaira_store,Hà Nội,4.826095,False
 198093572,Kho si Hà Nội,Hà Nội,4.817726,False
-178575363,crthird.vn,Nước ngoài,4.646933,True
 361994707,Máy đo nồng độ oxy trong máu,Nước ngoài,4.808413,False
-464072293,fmari.vn,Nước ngoài,4.83205,True
 309459608,Chuyên Hàng Nhật UK US Auth,TP. Hồ Chí Minh,4.850679,False
 86647810,MayCase_017,Nước ngoài,4.904708,False
 299119602,Bestop Malls,Nước ngoài,4.659193,False
 84967176,CHUYÊN_GIÀY ULLZANG CÓ SẴN,Hà Nội,4.834635,True
-521227090,youjiman.vn,Nước ngoài,4.672185,False
 7332956,❣️HƯỜNG LANA ❣️,Hà Nội,4.749369,True
 126607696,lansel.vn,Nước ngoài,4.828352,True
 298091937,homesawu.vn,Nước ngoài,4.681181,True
@@ -260,7 +459,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 819137695,LIKE SMART WATCH,Hà Nội,4.529183,False
 336453812,Phu kiện đồng hồ két shop 6,Nghệ An,4.71907,False
 696943510,Đồng hồ nữ1,Nghệ An,4.784047,False
-255585988,Good Store HN,Hà Nội,4.85657,True
 474216437,Đồng Hồ Official Cơ Sở 1,Hà Nội,4.778933,False
 33175485,DYAN-Watchshop,Hà Nội,4.807477,True
 108200679,Gia Dụng Thông Minh 8386,Hà Nội,4.892308,True
@@ -276,11 +474,9 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 406550063,Đồng Hồ Sunrise VN,Nam Định,4.919689,False
 155122483,ougeya8.vn,Nước ngoài,4.600677,False
 30154178,ĐỒNG HỒ OSAKA WATCH,TP. Hồ Chí Minh,4.738887,False
-704970039,RALICTE! Gian hàng xu hướng,Nước ngoài,4.618121,False
 477369518,donghopada,TP. Hồ Chí Minh,4.934426,False
 98173977,SINO ,Bắc Giang,4.756139,False
 839960232,dizizidoffocial,Hà Nội,4.823377,False
-425840954,Phụ kiện giáo dục,Hà Nội,4.868209,True
 157395458,TAP HÓA CÔHAI,Bình Dương,4.131628,True
 132129527,Chuyên Các Loại Đồng Hồ Giá Sỉ,Kiên Giang,4.862464,False
 542783454,Baby.Watch,Hà Nội,4.811224,False
@@ -306,14 +502,11 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 76221224,warmstation.vn,Nước ngoài,4.744017,True
 865385211,DongHoCoHN,Hà Nội,4.84589,False
 241313335,linhkiendientu_monster,Hà Nội,4.653699,True
-366631286,FridayShopping,TP. Hồ Chí Minh,4.919691,False
 369530246,mtp.bacninh.02,Bắc Ninh,4.709273,False
 189016369,skwatch688,TP. Hồ Chí Minh,4.852113,False
 840027801,angelwatch.vn,Nước ngoài,4.675926,False
 268750031,Đồng Hồ Cơ Automatic Luxury VN,Hà Nội,5.0,False
 38515298,phukiennhatkhang,TP. Hồ Chí Minh,4.518884,False
-186608798,Shop Chuyên Sỉ 91,Hải Dương,4.689353,True
-783797149,heney.vn,Nước ngoài,4.555109,False
 141993043,thegioimangaanime,Hà Nội,4.770728,True
 261550230,ĐỒNG HỒ -HCM,TP. Hồ Chí Minh,4.847319,False
 438335261,TAWASTORE.BG,Bắc Giang,4.925446,False
@@ -324,7 +517,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 462920538,Nam Dương Watches,Hà Nội,4.770642,False
 2702227,HOT FASHION,Hà Nội,4.634269,False
 403416088,PhuKienMoee,Hà Nội,4.852593,True
-144939255,Azoda Sport,Hà Nội,4.870545,True
 317585353,ngan.dongho.4670,Bắc Ninh,4.722003,False
 174811936,my89.shop,Hà Nội,4.794872,False
 549822963,MR WATCH CƠ SỞ 3,Hà Nội,4.384615,False
@@ -332,8 +524,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 387657443,mtp.dongho.16,Bắc Ninh,4.759184,True
 313109923,Anysoso.watch,Nước ngoài,4.516484,False
 44574586,TlMEX.Watch,Hà Nội,4.84492,False
-783807705,Synoke.vn,Nước ngoài,4.742287,False
-645432503,lwccshop.vn,Nước ngoài,4.686119,False
 485402699,mtp.dongho.60,Bắc Ninh,4.723752,False
 22485909,Đồng Hồ World Time,Nam Định,4.866792,True
 776589424,Dazhai.vn,Nước ngoài,4.404255,False
@@ -351,7 +541,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 125063331,Đồng hồ thể thao thời trang,Hà Nội,4.619306,False
 375770153,miwell68.vn,Nước ngoài,4.815385,False
 70358454,Odin - Minimalist Wear,TP. Hồ Chí Minh,4.898891,True
-157008787,ILOVEDIY:SuperMarket,Nước ngoài,4.828465,True
 45055600,Đồng Hồ Nam - TiTu Store,Hà Nội,4.871626,False
 729761153,Mega We Care,TP. Hồ Chí Minh,4.920036,False
 468445285,Nubela-vn,Hải Phòng,4.905928,True
@@ -565,7 +754,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 481686873,Thảo Mộc Việt -GingViet,Hà Nội,5.0,False
 520143104,The Mini Market,TP. Hồ Chí Minh,4.748417,True
 37511692,Shop_Làm_Đẹp,Bình Thuận,4.896417,True
-12325354,Shop Giá Sỉ - Bán Lẻ Giá Sỉ,Thái Nguyên,4.832855,False
 112878231,HAVACO store,Hà Nội,4.613885,True
 228903595,PUHA Gift - Quà tặng bạn gái,TP. Hồ Chí Minh,4.93686,True
 355029597,Nhà AMI,TP. Hồ Chí Minh,4.914394,True
@@ -578,7 +766,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 878393537,Nutafood,TP. Hồ Chí Minh,4.917241,False
 525178648,Bác sĩ Thanh Lam,Hà Nội,4.928086,False
 108480197,Tổng kho sỉ đồ sơ sinh mẹ bé,Hà Nội,4.904035,False
-28228365,SaLeMyPham89,Thái Nguyên,4.8518,False
 13085059,BÁCH NIÊN LONG THỊ NGẢI CỨU,Hà Nội,4.88861,True
 496378130,GIA DỤNG TIỆN LỢI MINI,TP. Hồ Chí Minh,4.892094,True
 35699923,Hoài Thu Shop Mẹ Bé,Hà Nội,4.821528,True
@@ -599,7 +786,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 49961662,Pinkmia.vn,Hà Nội,4.799214,False
 48700168,THẢO MỘC XANH VN,Hà Nội,4.860191,True
 195687181,Gooo Store,Hà Nội,4.891645,True
-171046872,Tochang Store,Hà Nội,4.930993,True
 465750356,convenience_store,Hà Nội,4.831269,False
 461913957,Phong Thuỷ & Spells & Oil,Đà Nẵng,4.97619,False
 26268586,SÂM HOÀNG DIỆU,TP. Hồ Chí Minh,4.94021,True
@@ -633,7 +819,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 184754051,KHO SỈ MB,Hà Nội,4.904692,True
 443483681,Mỹ Phẩm Vợ Chồng Song Ca,Vĩnh Long,4.871212,False
 150662408,Gia dụng duyênSHOP,TP. Hồ Chí Minh,4.81491,True
-164942739,Thế Giới Đồ Chơi Của Bé Yêu,Hà Nội,4.900685,True
 59894310,GIALỢI NATURE,An Giang,4.902429,True
 93117707,Kem Enya- Mỹ Phẩm- Phụ LiệuTóc,TP. Hồ Chí Minh,4.829229,True
 474759318,shoptuchon_2021,TP. Hồ Chí Minh,4.849377,True
@@ -777,7 +962,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 69819902,NHANG BÌNH TRÍ THIỆN,TP. Hồ Chí Minh,4.822467,True
 97129308,shodstore95,Hải Dương,4.782506,True
 584614847,Takara Official,TP. Hồ Chí Minh,4.803961,False
-28880604,Shop Giá Sỉ 247,TP. Hồ Chí Minh,4.77169,True
 324763135,Levika.HCM,TP. Hồ Chí Minh,4.871902,False
 774650320,BUMAS Official Store,Hà Nội,4.844127,False
 6470337,978 Xiaomi Store,TP. Hồ Chí Minh,4.850323,True
@@ -821,10 +1005,8 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 514392451,huynh_kaka,Hà Nội,4.895699,True
 881545586,THIẾT BỊ Y TẾ 24h.NET,Hà Nội,4.857249,True
 552525736,THẾ GIỚI TRÒ CHƠI CỦA BÉ,Hà Nội,4.858817,False
-361541333,VC Grocery,TP. Hồ Chí Minh,4.862728,False
 502237363,Tuệ An Stores,Hà Nội,4.759091,False
 16993865,ROTEKHOME,Hà Nội,4.712612,True
-175910016,Tổng kho Ferado,Hà Nội,4.657079,True
 197176956,Aroma Tiện ích,Hà Nội,4.805416,True
 366856611,Khosi_banle,Hà Nội,4.846536,False
 448584038,Gia dụng Tiến Đạt,Hà Nội,4.871074,False
@@ -887,7 +1069,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 256851661,HAHANCO Official Store,Hà Nội,4.904916,False
 19609604,store.1991,Hà Nội,4.782799,True
 923092187,AnAn Market,Hà Nội,4.614853,True
-32915930,SIÊU THỊ MINI 247,TP. Hồ Chí Minh,4.759255,True
 530104719,Home Cooking Official Store,,4.643402,False
 663821509,Tổng Kho Gia Dụng_Omen,Hà Nội,4.706192,True
 860238758,Kimlong_store,TP. Hồ Chí Minh,4.934621,True
@@ -2089,7 +2270,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 16740057,Kho Sỉ Hoàng Yến 0981.084.333,Thái Bình,4.788039,True
 348154814,zacqia.vn,Nước ngoài,4.812668,True
 109638853,Totoro Việt Nam (S. TPHCM),TP. Hồ Chí Minh,4.868906,True
-603982973,World family,Hà Nội,4.746025,True
 77826017,suyou1.vn,Nước ngoài,4.782804,True
 575044773,VisualClick.vn,Nước ngoài,4.882198,True
 170164524,H2C Shop,Hà Nội,4.910571,True
@@ -2572,7 +2752,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 254593163,NICE-POWER Factory Store,Nước ngoài,4.849868,True
 301035349,Vison Mall-VN,Nước ngoài,4.814246,True
 112575175,Kiều Trường,Bắc Giang,4.953985,False
-280895381,chitengyesuper.vn,Nước ngoài,4.626844,True
 348731678,Alittlesetrtomj.vn,Nước ngoài,4.72167,False
 164034370,yingxianga.vn,Nước ngoài,4.790887,True
 410949636,unstoppable.vn,Nước ngoài,4.866685,True
@@ -2792,7 +2971,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 720378993,Euphemia.vn,Nước ngoài,4.149378,True
 293689476,LADY Home & Living Store,Nước ngoài,4.651743,False
 357915542,vnstore9999,Hà Nội,4.899569,True
-510994054,TwitchFranchisedStore.vn,Nước ngoài,4.666852,False
 637643282,TÂM TƯỜNG 659,An Giang,4.865576,True
 27567551,Phụ Kiện Điện Thoại Tamy,Cà Mau,4.843881,True
 672734202,chat6868,Hà Nội,4.923935,True
@@ -3770,7 +3948,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 423376786,Mỹ Phẩm HươngVy,Hà Nội,4.752453,True
 231180327,HANA - Dụng Cụ Ngành Tóc,Hà Nội,4.869469,False
 239792963,HỒNG VÂN96,TP. Hồ Chí Minh,4.857659,True
-226585161,Gia Dụng Sỉ Lẻ,Lạng Sơn,4.788818,True
 425561195,Phụ Kiện BIN,TP. Hồ Chí Minh,4.683502,False
 224673059,ozana_cosmetics,Hà Nội,4.86428,True
 301790884,CoolChoises.vn,Nước ngoài,4.67677,False
@@ -4149,7 +4326,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 365998472,infiniteforce.vn,Nước ngoài,4.808912,False
 927672618,Kokun Official Store,Hà Nội,4.75237,False
 252865414,bonkids68,Hà Nội,4.897123,True
-600374,TSJ Shop,Hà Nội,4.881404,True
 502244449,SHOPHANA86,Hà Nội,4.878253,True
 275409123,DUOCBACHMAI_PHARMACY ,Hà Nội,4.891881,True
 598813572,Bum House Cosmetics Official,TP. Hồ Chí Minh,4.915477,False
@@ -4182,7 +4358,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 872178758,GIGA Digital Official,Hà Nội,4.911433,False
 47670090,H&B STORE (HEALTH&BEAUTY),Hà Nội,4.897887,True
 295982980,Mộc Diệp - Sức Khỏe và Làm Đẹp,Hà Nội,4.905199,True
-74691446,digitalshop.vn,Nước ngoài,4.790055,True
 237253511,AKIHO SHOP,Hà Nội,4.850733,True
 389933293,Konni39 Mart,Hà Nội,4.926259,False
 521954083,TamThi1102,TP. Hồ Chí Minh,4.807391,True
@@ -4849,7 +5024,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 185695325,TuHaiStore,TP. Hồ Chí Minh,4.880727,True
 272197121,PKSMART - PHỤ KIỆN SỐ 9999,Hà Nội,4.884823,True
 301412525,BKWHALE.vn,Nước ngoài,4.614394,True
-924949799,Shop Chuyên Sỉ 18,Hải Dương,4.900283,False
 450829683,iCybernet - Thế Giới Công Nghệ,Hà Nội,4.820917,False
 546010919,SHOP DOLLI,Hà Nội,4.714192,False
 94273103,ONIKUMA,TP. Hồ Chí Minh,4.875313,False
@@ -5230,7 +5404,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 72182469,Cá sấu Ruby Luxury,TP. Hồ Chí Minh,4.662489,True
 285696164,fellish.vn,Nước ngoài,4.738834,True
 89685937,Aroma house,Hà Nội,4.901896,True
-289719067,yengood.vn,Nước ngoài,4.715561,True
 69896757,Asus Authorized Store,TP. Hồ Chí Minh,4.781531,False
 71096668,Gấu Thỏ House,TP. Hồ Chí Minh,4.87465,True
 429758877,Nội Thất Thông Minh - KTX,TP. Hồ Chí Minh,4.615247,False
@@ -5563,7 +5736,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 344974914,Máy in giá rẻ aalo.vn,Hà Nội,4.729275,False
 572499966,AYIN HN,Hà Nội,4.941777,True
 415597166,TỔNG KHO BÚT SÁCH TIỂU HỌC HP,Hải Phòng,4.861951,True
-93376344,baodanwang.vn,Nước ngoài,4.736424,True
 687407245,KAWOFFICIAL,TP. Hồ Chí Minh,4.909645,False
 419749568,basachi.official,TP. Hồ Chí Minh,4.897563,False
 80117906,sio.hn,Hà Nội,4.871921,False
@@ -6340,7 +6512,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 634792583,Inochi Việt Nam Official,,4.892518,False
 398054163,Spahouse,Hà Nội,4.888485,True
 478749948,Khăn trải bàn giá rẻ,Hà Nội,4.918671,True
-57916709,KHO SỈ 168,Hà Nội,4.85222,True
 33816853,Quần áo trẻ em Việt Nam,TP. Hồ Chí Minh,4.911101,True
 41564796,Trúc Nhiên Boutique,TP. Hồ Chí Minh,4.904169,True
 275675261,Thiết bị tưới IVILA,Hà Nội,4.857348,True
@@ -6741,7 +6912,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 117241758,lethanh.vn,TP. Hồ Chí Minh,4.898803,True
 845735937,Subada Việt Nam,Hà Nội,4.951487,True
 852227008,KIOOK,Hà Nội,4.791548,True
-66654621,Tạp hoá siêu rẻ,Hà Nội,4.861736,True
 157593704,Tiện Ích Việt Nam 99,Hà Nội,4.853503,True
 188359310,Tiện Ích 4.0,Hà Nội,4.882651,True
 883591461,Snowflakemini.vn,Nước ngoài,4.595497,True
@@ -6807,7 +6977,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 149456305,shopcr7vinhphuc,Hà Nội,4.826927,True
 309910677,kiwin_shop,Hưng Yên,4.800032,True
 619027286,TAILI Store,Nước ngoài,4.783464,True
-164772700,Paipai.vn,Nước ngoài,4.794148,True
 326359184,Bé Kẹo Store,Hà Nội,4.85325,False
 103245162,Myta Store,An Giang,4.906279,True
 491530923,Jodily StarHome VN,Hải Phòng,4.800968,False
@@ -7006,12 +7175,10 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 652092036,Nicoba,Phú Thọ,4.889717,False
 134227330,TÙNG ANH DECOR,Hà Nội,4.791578,True
 57846620,Bóng Bay Nghệ Thuật,Hà Nội,4.892763,True
-153341977,BetterWithYou,Nước ngoài,4.778626,True
 807475139,MiuParty Trang Trí Tiệc Tùng,TP. Hồ Chí Minh,4.89801,True
 495370150,Party 365,Hà Nội,4.886976,True
 5899952,shop miha,TP. Hồ Chí Minh,4.874888,True
 35896748,TRANG TRÍ SINH NHẬT SÀI GÒN,TP. Hồ Chí Minh,4.899532,False
-119080765,fashionfindings.vn,Nước ngoài,4.853597,False
 60632816,Tico102,Hà Nội,4.919811,True
 301642081,huiran4.vn,Nước ngoài,4.848889,True
 832466279,PartyMall.vn,Nước ngoài,4.809405,False
@@ -7176,7 +7343,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 240442805,Cội Nguồn Xứ Huế,TP. Hồ Chí Minh,4.884086,True
 157966042,hanmynghe,Đà Nẵng,4.774637,False
 244162724,Nhang sạch Dương Minh,TP. Hồ Chí Minh,4.91368,True
-221034172,thietbigiaoducsaigon,TP. Hồ Chí Minh,4.738357,False
 290992077,THILO Home & Living Store,Nước ngoài,4.787388,False
 114265579,Tiền Lì Xì Tết.Com,TP. Hồ Chí Minh,4.879473,True
 698846047,wuerye super store,Nước ngoài,4.673232,True
@@ -7763,10 +7929,8 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 432499094,JAYGO.vn,Nước ngoài,4.76158,False
 71033432,Decor Lighting SG,TP. Hồ Chí Minh,4.921046,True
 134397114,DLQdecor,Nghệ An,4.787709,False
-29632371,ferado.vn,Hà Nội,4.717511,True
 651654338,Soraka Mart,Hà Nội,4.890484,True
 330892387,BOX_STORE DECOR SIÊU XINH,TP. Hồ Chí Minh,4.866005,False
-745371681,7seven.vn,Nước ngoài,4.712429,True
 229294463,tunghoangdenxe,Hà Nội,4.614504,False
 91042408,Tống kho gia dụng,Hà Nội,4.865418,True
 482551300,ShopThanDen_01,Hà Nội,4.581889,False
@@ -7914,7 +8078,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 131494490,Aobongda.net,Hà Nội,4.787784,True
 140795939,ECO HOMEVN,Hà Nội,4.928687,False
 894717192,Melya Sport.r,Hà Nội,4.913553,True
-64596093,Babyme,Nước ngoài,4.875791,True
 550887318,botasky.vn,Nước ngoài,4.951235,False
 5489274,PUGI - THỜI TRANG NAM CAO CẤP,TP. Hồ Chí Minh,4.722425,True
 452521896,KHUNG BẰNG KHEN GIÁRẺ,Hà Nội,4.641529,False
@@ -7994,7 +8157,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 143587721,aqua5.vn,Nước ngoài,4.926108,True
 284593651,philips_homeappliances_official,Bắc Ninh,4.875815,False
 822607881,Hamy Kids Official Store,TP. Hồ Chí Minh,4.929392,True
-186275339,Mặt Trời Baby,Hà Nội,4.918599,True
 91641221,Healthy-food,TP. Hồ Chí Minh,4.944561,True
 170692206,anhthuvu2300,TP. Hồ Chí Minh,4.867659,True
 783607200,tongkhominhanh01,Hà Nội,4.800355,True
@@ -8134,7 +8296,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 619006692,CHZK Fashion Shoe store,Nước ngoài,4.70887,True
 213635488,Giày nữ giá rẻ 96,Hà Nội,4.698731,False
 17121110,CHUYÊN SỈ ÁO THUN TẬN XƯỞNG,TP. Hồ Chí Minh,4.913822,True
-296613992,kokoary.vn,Nước ngoài,4.79692,True
 15059447,Chinh Giày-Kho Sỉ Lẻ Giày Dép,Bắc Giang,4.866699,True
 800497617,LAIKAFASHION,Hà Nội,4.676935,True
 1551014,XinhStore,TP. Hồ Chí Minh,4.832764,False
@@ -8385,7 +8546,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 455358666,babalala.vn,Nước ngoài,4.752328,True
 809529614,Kho Sàn Nhựa Miền Nam,TP. Hồ Chí Minh,4.856582,False
 542753938,CABI Store,Hưng Yên,4.884709,True
-66675726,CFSTORE,Nước ngoài,4.792385,True
 308122582,Khả An Flowers,Hà Nội,4.922871,True
 380389051,Smart decor-Trang trí nhà đẹp,Hà Nội,4.774439,True
 137341037,Bonbon Decor,Bắc Ninh,4.912739,True
@@ -8819,7 +8979,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 42381463,Phụ Kiện Hùng Dương,Bắc Giang,4.981347,True
 200597396,H-STORE.SG,TP. Hồ Chí Minh,4.822074,False
 348731107,Alittlesetrtu.vn,Nước ngoài,4.667974,False
-10912353,M2M SHOP,Hà Nội,4.902158,True
 75520775,MegaStore,Hà Nội,4.707285,True
 801434368,33677.vn,Nước ngoài,4.640541,False
 582116087,JLab Flagship Store,TP. Hồ Chí Minh,4.8241,False
@@ -9219,7 +9378,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 473129474,VANTEENIE official store,Nước ngoài,4.495146,True
 325788861,Nguyễn Vân Anh Beauty,TP. Hồ Chí Minh,4.958213,False
 691585463,Disney Audio Official Store,Nước ngoài,4.780284,False
-312536434,bekem21,Lào Cai,4.532052,False
 364058386,VietHuongNakapos,TP. Hồ Chí Minh,4.631972,False
 257836839,Xuân Vũ Audio Official Store,Hà Nội,4.913189,False
 213501720,Wiresto Official Store,Nước ngoài,4.755129,False
@@ -9443,7 +9601,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 117757337,Phụ Kiện Quang Hanh,Hà Nội,4.833283,True
 9657237,dovietgiang,Hà Nội,4.82716,False
 267737762,DATAF Consumer Electronics Sto,Nước ngoài,4.72375,False
-5845930,Sandy Store - Giáo Cụ Dạy Học,Đà Nẵng,4.880295,True
 348286249,veryembout.vn,Nước ngoài,4.724344,True
 269013578,Shop Chuyên Hàng Nội Địa TQ,Hà Nội,3.969637,False
 186387332,powwowstore,TP. Hồ Chí Minh,4.948869,True
@@ -9451,7 +9608,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 39835808,Rikaki Store HN,Hà Nội,4.794976,False
 163809176,xiaoyinren.vn,Nước ngoài,4.854911,False
 54529853,686 store,TP. Hồ Chí Minh,4.818952,False
-903805218,QH smart,TP. Hồ Chí Minh,4.975904,False
 2770707,Demacia Station 39,Hà Nội,4.879667,True
 474215725,ivyueen.vn,Nước ngoài,4.822917,False
 881344935,nhanminh974,Khánh Hòa,5.0,False
@@ -9541,7 +9697,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 607879701,On Tech Official,Hà Nội,4.893105,True
 884960409,SKY_3C-store.vn,Nước ngoài,4.767213,True
 403402117,Shop Mua Sắm Thông Minh 24h,Hà Nội,4.880198,False
-468312780,Thế Giới Đồ Chơi - HCM,TP. Hồ Chí Minh,4.882675,True
 135040774,roxangel.vn,Nước ngoài,4.771029,True
 426387574,Tesico,Nước ngoài,4.8,False
 71793462,Spoetry.vn,Nước ngoài,4.627201,True
@@ -9759,7 +9914,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 115584947,watch accessorie,Nước ngoài,4.78035,True
 128256095,jessie8814.vn,Nước ngoài,4.822026,False
 280466193,morevn,Hà Nội,4.802091,False
-351426309,Fairycasing band Strap Store,Nước ngoài,4.730954,True
 14635718,Kaze - Store,Hà Nội,4.806278,True
 843011,HuSa Shop,Hà Nội,4.865144,False
 710258462,starkaste.vn,Nước ngoài,4.818591,True
@@ -9805,7 +9959,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 74181965,Shappy Shop - Phụ Kiện Sài Gòn,TP. Hồ Chí Minh,4.90662,True
 297151740,"Ốp Lưng, Phụ Kiện - TechZ1",Hà Nội,4.854844,True
 172218761,phmobile,TP. Hồ Chí Minh,4.948609,True
-161353541,morningdream.vn,Nước ngoài,4.802563,False
 409544318,Likee.vn,Nước ngoài,4.776084,True
 57451111,ArchGift Shop,TP. Hồ Chí Minh,4.820826,True
 191379337,pengfeng.vn,Nước ngoài,4.821815,True
@@ -9831,7 +9984,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 240747380,jinzitong.vn,Nước ngoài,4.782534,True
 235610822,sunflower3.vn,Nước ngoài,4.795985,True
 847017522,Fashionco.vn,Nước ngoài,4.549761,False
-203758329,Khosicholon,TP. Hồ Chí Minh,4.767618,True
 77425269,runrun3.vn,Nước ngoài,4.783818,True
 138928041,ZmiShop,Hà Nội,4.711696,True
 463716248,Bonjour.vn,Nước ngoài,4.698496,False
@@ -10215,12 +10367,10 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 35245118,Duyenpham99,Hà Nội,4.924255,False
 21856753,DIN Store - Paper and Decor,Đồng Nai,4.948284,True
 213202196,Đồ chơi  NEW TRENDS,Hà Nội,4.839836,True
-106785820,Shop Phụ Kiện Đồ Chơi Trẻ Em,Hà Nội,4.924918,True
 769876192,NHÀ CỦA BÉ B&G,TP. Hồ Chí Minh,4.825581,True
 9112559,NHÀ THUỐC HIỀN SƠN,Hà Nội,4.950617,True
 769065159,ANDY KIDS - ĐỒ CHƠI TRẺ EM,Hà Nội,4.786362,False
 9447846,"QUẤN CHŨN, NHỘNG CHŨN NOONON",Hà Nội,4.944512,True
-460387338,shanghaishiye-1.vn,Nước ngoài,4.761023,True
 138420711,Ngũ Cốc Việt Lộc,Hưng Yên,4.995649,True
 77432658,Baloha,Hà Nội,4.853343,True
 397834664,Kem Kid Store - Bé Yêu Của Mẹ,TP. Hồ Chí Minh,4.930526,False
@@ -10279,7 +10429,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 832245527,roudundun.vn,Nước ngoài,4.834783,False
 692079397,Phụ Kiện Trẻ Em,Hà Nội,4.918244,True
 65468586,hoaloaken2018,Hà Nội,4.954315,False
-20376159,Quần áo siêu nhân Luckykids,TP. Hồ Chí Minh,4.970903,False
 59636166,kid town- since 2022,TP. Hồ Chí Minh,4.97931,False
 456640,Tủ sách Jin heo,TP. Hồ Chí Minh,4.881356,False
 779908689,Kho sỉ sơ sinh,Hà Nội,4.65528,True
@@ -10327,7 +10476,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 241320915,Bỉm Merries-Moony-Youli-Yubest,Hà Nội,4.915344,True
 134729951,Gấu Bông Cường Nhâm Chuyên Sỉ,Hà Nội,4.888215,True
 412739465,Áo xinh váy đẹp Hà Nội 918,Hà Nội,4.75567,True
-10725357,shopminhkhue,Bà Rịa - Vũng Tàu,4.922756,False
 35284879,Huggies Official Store,TP. Hồ Chí Minh,4.911297,False
 31086303,khanhngoc09042016,Hà Nội,4.809742,False
 43666168,TEMI MART,Hải Dương,4.770619,False
@@ -10350,7 +10498,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 404482174,DIY Gifts & Workshop,TP. Hồ Chí Minh,4.922671,False
 303807152,temibaby,Hải Dương,4.715048,False
 24407543,CHAANG VIETNAM_OFFICIAL,Hà Nội,4.919549,False
-33329184,Lana Queen ,TP. Hồ Chí Minh,4.901393,True
 526272013,JSS78 Kid Fashion Store,Nước ngoài,4.85536,False
 757141450,cloudinautumn2022.vn,Nước ngoài,4.831577,False
 50479465,MiMi Doll Shop,Hà Nội,4.851563,False
@@ -10463,10 +10610,8 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 122697869,Shopbeken123,TP. Hồ Chí Minh,4.889762,False
 101993791,The Kid's House,Hà Nội,5.0,False
 805033913,PAKEY STORE HỒ CHÍ MINH,TP. Hồ Chí Minh,4.861541,True
-211505693,shangyuan.vn,Nước ngoài,4.857725,True
 934243525,Phao Kids Shop,Hà Nội,4.972549,False
 408128896,Pikaboo - Kid Toy Mega Mall,Hà Nội,4.883927,False
-170331965,"M, C, R (balloon)",Nước ngoài,4.809449,False
 19089535,SHOP RÔ RON**Chuyên Đồ Sơ Sinh,Hà Nội,4.9398,True
 918088763,hpyiowa283.vn,Nước ngoài,4.703035,True
 763486702,Richell Vietnam Official Store,TP. Hồ Chí Minh,4.920814,False
@@ -10492,7 +10637,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 225462949,Ayoda.vn,Hà Nội,4.919374,True
 2502053,SHOP BÉ YÊU 123,TP. Hồ Chí Minh,4.909683,True
 552813790,Thế giới đồ cao cấp cho bé,Hà Nội,4.863309,False
-51739808,BBShine,TP. Hồ Chí Minh,4.92258,True
 325798615,Tạp Hóa Bánh Mì,TP. Hồ Chí Minh,4.951029,True
 7838098,SHOP ĐỒ CHƠI GIÁO DỤC,Hà Nội,4.886959,True
 6518824,PANDA TOWN OFFICIAL STORE,Hà Nội,4.930502,False
@@ -10582,7 +10726,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 264378684,Đồ Dùng Ăn Dặm Cho Bé GoodBaby,Hà Nội,4.879898,False
 8736006,gia.dung.tien.ich,Hà Nội,4.77591,False
 177413634,Siêu Thị Xe Cho Bé Yêu,Phú Thọ,4.800816,True
-619017372,SABUY Baby,Nước ngoài,4.746304,True
 374494046,kids..plaza66,Hà Nội,4.912033,False
 47118231,Ngôi Nhà Ninh Tiên,Lâm Đồng,4.902743,False
 26512254,Mẹ Sóc Shop - Đồ Mẹ Và Bé,Hà Nội,4.825804,True
@@ -10591,7 +10734,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 317085550,Sapo Kids,Hà Nội,4.933661,True
 207424095,Nhà Sách Nhơn Nga,TP. Hồ Chí Minh,4.893333,False
 214647411,Shop Thiên An BaBy,Nam Định,4.927101,True
-178569040,ruiyantwo.vn,Nước ngoài,4.680185,True
 116493882,Quần áo trẻ em và Đồ sơ sinh,Hà Nội,4.77435,True
 7059414,Babyinthehouse,Hà Nội,4.810241,True
 887394743,Kho Sỉ Đèn Nháy,Hà Nội,4.664817,False
@@ -10776,7 +10918,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 841202276,khogiabuonthu,Thái Nguyên,4.534797,True
 97106803,HITICARE,TP. Hồ Chí Minh,4.914432,True
 168875170,SK Baby Smart Shop,Hà Nội,4.885349,True
-273202243,kidblue.vn,Nước ngoài,4.884703,True
 40550163,gia dụng huỳnhđông,TP. Hồ Chí Minh,4.881075,True
 53535392,Ngọc Linh - Store,Hưng Yên,4.860662,True
 28768731,Shop Gatu Kids - Shop mẹ và bé,Hà Nội,4.874327,True
@@ -10968,14 +11109,12 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 3683990,lullaby- dokma - uala & rogo,Hà Nội,4.949045,True
 19733009,Đồ Gỗ Mỹ Nghệ Hà Nội,Hà Nội,4.821735,True
 388985075,Móc dán tường chịu lực - FED,Hà Nội,4.85343,True
-423720178,Tiệm của Voi,TP. Hồ Chí Minh,4.789557,False
 28308685,Corky Baby Shop,Hà Nội,4.91363,True
 12186731,Lia Baby,TP. Hồ Chí Minh,4.943656,True
 106407236,cabeza.vn,Nước ngoài,4.775658,True
 481962385,Nessi,Hà Nội,4.85244,True
 82811019,Little Tiger - tất cả cho bé,TP. Hồ Chí Minh,4.972644,True
 799751564,BeeChi,Hà Nội,4.881969,True
-27229899,Store4men Giá sỉ Online,TP. Hồ Chí Minh,4.801814,True
 81905203,Mamakids - Đồ chơi thông minh,Hà Nội,4.843373,False
 211858726,Dexter247,Hà Nội,4.769126,True
 121132492,KAKA247,TP. Hồ Chí Minh,4.849673,True
@@ -11011,7 +11150,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 772829644,Kinh Bắc - Màn Chụp Tự Bung,Hà Nội,4.8125,False
 91990342,Trùm Helmet,TP. Hồ Chí Minh,4.8763,False
 73965946,pipi2020,Hà Nội,4.917269,True
-158810008,Bách Hóa Tổng Hợp Việt,Hà Nội,4.771992,True
 33942892,Diễm Hằng shop ( Cầu Bình An),Hà Nội,4.944717,True
 10085629,MAI BEE SHOP,Hà Nội,4.889037,True
 891067744,BabyBox - Mẹ Tròn Con Vuông,Hà Nội,4.824772,False
@@ -11465,7 +11603,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 658311419,DUNG MAMI,TP. Hồ Chí Minh,4.898223,False
 39410565,fantastic.online,Khánh Hòa,4.914894,False
 718427870,Luna Kids Baby,Thái Nguyên,4.944444,True
-742159553,shopsieure88Pk,Hà Nội,4.682802,True
 57793592,Nệm lót ghế đệm tựa lưng,TP. Hồ Chí Minh,4.91334,True
 365929436,Mặp Mặp Official Store,TP. Hồ Chí Minh,4.943745,False
 333514478,Kid City - Thành phố đồ chơi,Hà Nội,4.800292,True
@@ -11491,7 +11628,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 94372591,Tổng Kho Sỉ Minh Khôi,Lạng Sơn,4.587882,True
 156429201,SHOP ĐỒ DÙNG - ĐỒ CHƠI CHO BÉ,TP. Hồ Chí Minh,4.821577,True
 612932734,Bảo bối ăn dặm,TP. Hồ Chí Minh,4.920635,True
-751018416,angelbaby88.vn,Nước ngoài,4.827843,True
 335940638,Chubby Store,Hà Nội,4.898998,True
 51370398,Babycare-Chuyên đồ sơ sinh,TP. Hồ Chí Minh,4.901864,True
 17073959,CỬA HÀNG MẸ VÀ BÉ MẠNH MỪNG,Thanh Hóa,4.883532,True
@@ -11518,7 +11654,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 815438861,Thegioimevabeyeu1,Hà Nội,4.969751,False
 367866072,HAPPY&HOUSE,TP. Hồ Chí Minh,4.855321,True
 67871831,KIDMART.vn | Siêu thị Mẹ và Bé,TP. Hồ Chí Minh,4.912117,True
-75620130,☀Pentagon☀,Nước ngoài,4.864057,True
 94691290,EmBé Sling Official Store,TP. Hồ Chí Minh,4.947011,False
 10139233,JunMy Store,Hà Nội,4.908249,False
 464655609,Havyken,Hà Nội,4.843962,True
@@ -12118,7 +12253,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 89967044,Lion King Store,Hà Nội,4.83602,True
 745674741,Capricornus.3c.vn,Nước ngoài,4.862808,True
 167999072,Xưởng Quà Tặng Maruko,Thừa Thiên Huế,4.945783,False
-141518269,SuperLaLa Beauty Store,Nước ngoài,4.89381,True
 286792753,MinKey Shop,TP. Hồ Chí Minh,4.933977,True
 373951614,ỐP LƯNG IPHONE HOT - SKY SHOP,Hà Nội,4.792886,True
 325700926,Yanyuyongg.vn,Nước ngoài,4.701148,False
@@ -15226,7 +15360,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 157212280,xuanciushop,Hưng Yên,4.805411,True
 152470224,Mrs.studio,Thái Nguyên,4.844963,True
 152301761,CHANCHAN STORE,Hà Nội,4.846984,True
-83082239,beautywawa.vn,Nước ngoài,4.819318,True
 422005925,decos.saigon,TP. Hồ Chí Minh,4.865741,False
 881410434,EVEGIRL,Nước ngoài,4.707009,True
 12346242,Thoitrangmoon,Hà Nội,4.863396,False
@@ -15455,7 +15588,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 476763686,Cẩm Nhung Chuyên Sỉ,Nam Định,4.520439,True
 27228264,jaystoree,TP. Hồ Chí Minh,4.877028,True
 135249751,xưởng may hải yến 091,Hà Nội,4.719267,True
-497590598,raintowaters.vn,Nước ngoài,4.809872,True
 874410236,XƯỞNG MAY THU THÚY hn,Hà Nội,4.811776,True
 283779915,Jenny Closet,Hà Nội,4.812613,False
 708212949,I'M BASIC Fasion,Hà Nội,4.632521,False
@@ -15584,7 +15716,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 115102911,yiwuyuan.vn,Nước ngoài,4.736567,True
 149469520,twinkle.vn,Nước ngoài,4.798778,True
 42332588,Minh long SHOPs,TP. Hồ Chí Minh,4.796646,False
-81887939,Coobuy Flagship Store,Nước ngoài,4.804774,True
 108325912,santines.vn,Nước ngoài,4.823634,True
 797818428,tianhouv.vn,Nước ngoài,4.771429,False
 257253435,THẾ GIỚI PHỤ KIỆN ĐẠP XE,Hà Nội,4.838848,True
@@ -16553,7 +16684,6 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified
 135244975,wishtoturth.vn,Nước ngoài,4.724901,False
 730473380,animes.vn,Nước ngoài,4.754348,False
 619007054,Faruiline Official Store,Nước ngoài,4.511517,True
-68453453,Youngcityshop,Hà Nội,4.782186,True
 53211539,OUTLET Trang phục lót,Hà Nội,4.91133,False
 339701020,Anime_icos.vn,Nước ngoài,4.898129,False
 7140161,hangsosinhgiagoc.com,Bắc Ninh,4.827974,True
