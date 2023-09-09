@@ -12,6 +12,7 @@ from datetime import datetime
 import pandas as pd
 import json
 import time
+import re
 
 class DetailCat:
     # @profile
@@ -44,7 +45,7 @@ class DetailCat:
                     EC.presence_of_element_located((By.TAG_NAME, 'div'))
                 )
                 
-                time.sleep(5)
+                time.sleep(3)
                 
                 for request in driver.requests:
                 
@@ -58,7 +59,7 @@ class DetailCat:
                         
                         items = [{
                                 "itemid": i['itemid'],
-                                "name": i["name"],
+                                "name": re.sub(r'\r', '', i["name"]),
                                 "cat_itemid": i["catid"],
                                 "cat_subid": cat_subid,
                                 "price_min": str(i["price_min"])[:-5],
@@ -88,7 +89,7 @@ class DetailCat:
 
                         print(df.head(2))
                         self.details = df
-                        driver.quit()
+                        
             except TimeoutException:
                 # Xử lý nếu timeout xảy ra
                 print("Timeout: Không thể tải trang trong thời gian quy định 20s.")
@@ -100,6 +101,8 @@ class DetailCat:
                 time.sleep(20)
             else:
                 break
+            finally:
+                driver.quit()
     # @profile
     def df_items(self):
         if self.details is None:

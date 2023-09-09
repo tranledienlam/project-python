@@ -16,7 +16,7 @@ def to_csv(input_df: pd.DataFrame, output_csv : str = 'data.csv'):
     
     # Đọc dữ liệu từ tệp CSV hiện có vào DataFrame
     if os.path.exists(path_dir_out):
-        existing_data = pd.read_csv(path_dir_out)
+        existing_data = pd.read_csv(path_dir_out, low_memory=False)
         
         # Kiểm tra và thêm dữ liệu mới vào DataFrame
         keyid = existing_data.columns[0]
