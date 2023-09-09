@@ -64,7 +64,7 @@ pages = random.choice([7,8,9]) # chọn random trong [7-9]
 
 for index, row in sub.iterrows():
     path = row['path']
-    if index >=131: #
+    if index >=133: #
         for i in range(pages):
         ## crawl item lần lượt qua từng subcate
             processA = Process(target=run, args=(path,i,))
