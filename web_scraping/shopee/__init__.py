@@ -1,14 +1,12 @@
 from multiprocessing import Process
 import pandas as pd
 import os
-import random
 import psutil
-# import time
 # from memory_profiler import profile
 
-import output
-from Categories import Categories
-import Items
+from module import output
+from module.Categories import Categories
+from module import Items
 
 ### ------- crawl Categories ------
 # Cats = Categories()

@@ -11,8 +11,9 @@ def to_csv(input_df: pd.DataFrame, output_csv : str = 'data.csv'):
         input_df = pd.DataFrame(input_df)
         
     # Đặt tên cho file CSV
-    path_dir=os.path.dirname(__file__)
-    path_dir_out = os.path.join(path_dir,f'output/{output_csv}')
+    curr_dir=os.path.dirname(__file__)
+    parent_dir =os.path.dirname(curr_dir)
+    path_dir_out = os.path.join(parent_dir,f'output/{output_csv}')
     
     # Đọc dữ liệu từ tệp CSV hiện có vào DataFrame
     if os.path.exists(path_dir_out):

@@ -1,4 +1,4 @@
-import Items
+from module import Items 
 import pandas as pd
 
 items = Items.DetailDaily()
