@@ -29,7 +29,7 @@ class DetailCat:
         path: string categories 'Áo-Khoác-cat.11035567.11035568'
         page: [0-8] tương đương từ trang thứ 1 đến trang thứ 9
         """
-        self.details = None
+        self.df_details = None
         
         print(f"-- crawling sub: {path} - page: {page} --")
         cat_subid = path.split('.')[-1]
@@ -37,10 +37,7 @@ class DetailCat:
         attempts = 0
         while attempts < 2:
             try:
-                options = webdriver.FirefoxOptions()
-                options.headless = True
-
-                driver = webdriver.Firefox(options=options)
+                driver = config_driver()
                 
                 # driver.proxy = {
                 #     'https': 'https://144.49.99.169:8080',
@@ -67,7 +64,7 @@ class DetailCat:
                         items_data = json_data['data']['sections'][0]['data']['item']
                         
                         items = [{
-                                "itemid": i['item_card']['item']['itemid'],
+                                "itemid": i['itemid'],
                                 "name": re.sub(r'\r', '', i["name"]),
                                 "cat_itemid": i["catid"],
                                 "cat_subid": cat_subid,
@@ -93,11 +90,13 @@ class DetailCat:
                                 "shopee_verified": i["shopee_verified"],
                                 "shop_location": i["shop_location"],
                                 "shop_rating": i["shop_rating"],
+                                "Shopdacbiet": 1 if 1400095093 in i["label_ids"] else 0,
+                                "Shopxuhuong": 1 if 997801009 in i["label_ids"] else 0,
                             } for i in items_data]
                         df = pd.DataFrame(items)
 
                         print(df.head(2))
-                        self.details = df
+                        self.df_details = df
                         
             except TimeoutException:
                 # Xử lý nếu timeout xảy ra
@@ -114,10 +113,10 @@ class DetailCat:
                 driver.quit()
     # @profile
     def df_items(self):
-        if self.details is None:
+        if self.df_details is None:
             return None
         
-        df_items = self.details[[
+        df_items = self.df_details[[
                             "itemid",
                             "cat_itemid",
                             "shopid",
@@ -149,13 +148,15 @@ class DetailCat:
         return df_items
     # @profile
     def df_shops(self):
-        if self.details is None:
+        if self.df_details is None:
             return None
-        df_shops = self.details[["shopid",
+        df_shops = self.df_details[["shopid",
                               "shop_name",
                               "shop_location",
                               "shop_rating",
-                              "shopee_verified"
+                              "shopee_verified",
+                              "Shopdacbiet",
+                              "Shopxuhuong",
                               ]]
         
         df_shops = df_shops.copy()
@@ -166,11 +167,11 @@ class DetailCat:
         return df_shops
     # @profile
     def df_cats(self):
-        if self.details is None:
+        if self.df_details is None:
             return None
         # tạo copy slice từ gốc, giải quyết vấn đề "A value is trying to be set on a copy of a slice from a DataFrame"
         # do cố gắng drop từ df gốc
-        df_cats = self.details[["cat_itemid",
+        df_cats = self.df_details[["cat_itemid",
                              "cat_subid"]]
         
         df_cats = df_cats.copy()
@@ -187,9 +188,9 @@ class DetailDaily:
         """
         page: [1-] tương đương từ trang thứ 1 đến trang N (không giới hạn)
         """
-        self.details = None
+        self.df_details = None
         
-        print(f"-- crawling Daily: page: {page} --")
+        print(f"-- crawling Daily: page: {page+1} --")
         
         attempts = 0
         while attempts < 2:
@@ -230,9 +231,9 @@ class DetailDaily:
                                 "cat_itemid": i['item_card']['item']["catid"],
                                 "cat_subid": None,
                                 "price_min": str(i['item_card']['item']["price_min"])[:-5],
-                                "price_max": str(i['item_card']['item']["price_min"])[:-5],
-                                "price_min_before_discount": str(i['item_card']['item']["price_min_before_discount"])[:-5],
-                                "price_max_before_discount": str(i['item_card']['item']["price_max_before_discount"])[:-5],
+                                "price_max": None,
+                                "price_min_before_discount": None,
+                                "price_max_before_discount": None,
                                 "discount": i['item_card']['item']["discount"],
                                 "historical_sold": i['item_card']['item']["historical_sold"],
                                 "liked_count": i['item_card']['item']["liked_count"], # số người like sản phẩm
@@ -245,17 +246,19 @@ class DetailDaily:
                                 "item_rating_count_star5": i['item_card']['item']["item_rating"]["rating_count"][5],
                                 "item_rcount_with_image": i['item_card']['item']["item_rating"]["rcount_with_image"],
                                 "item_rcount_with_context": i['item_card']['item']["item_rating"]["rcount_with_context"],
-                                "ctime": datetime.fromtimestamp(i['item_card']['item']["ctime"]).strftime('%Y-%m-%d %H:%M:%S'),
+                                "ctime": None,
                                 "shopid": i['item_card']['item']['shopid'],
                                 "shop_name": i['item_card']['item']["shop_name"],
                                 "shopee_verified": i['item_card']['item']["shopee_verified"],
                                 "shop_location": i['item_card']['item']["shop_location"],
-                                "shop_rating": i['item_card']['item']["shop_rating"],
+                                "shop_rating": None,
+                                "Shopdacbiet": 1 if 1400095093 in i['item_card']['item']["label_ids"] else 0,
+                                "Shopxuhuong": 1 if 997801009 in i['item_card']['item']["label_ids"] else 0,
                             } for i in items_data]
-                        # df = pd.DataFrame(items)
-                        print(items)
-                        # print(df.head(2))
-                        # self.details = df
+                        df = pd.DataFrame(items)
+                        
+                        print(df.head(2))
+                        self.df_details = df
                         
             except TimeoutException:
                 # Xử lý nếu timeout xảy ra
@@ -272,10 +275,10 @@ class DetailDaily:
                 driver.quit()
     # @profile
     def df_items(self):
-        if self.details is None:
+        if self.df_details is None:
             return None
         
-        df_items = self.details[[
+        df_items = self.df_details[[
                             "itemid",
                             "cat_itemid",
                             "shopid",
@@ -307,13 +310,15 @@ class DetailDaily:
         return df_items
     # @profile
     def df_shops(self):
-        if self.details is None:
+        if self.df_details is None:
             return None
-        df_shops = self.details[["shopid",
+        df_shops = self.df_details[["shopid",
                               "shop_name",
                               "shop_location",
                               "shop_rating",
-                              "shopee_verified"
+                              "shopee_verified",
+                              "Shopdacbiet",
+                              "Shopxuhuong"
                               ]]
         
         df_shops = df_shops.copy()
@@ -322,3 +327,5 @@ class DetailDaily:
         keyid = df_shops.columns[0]
         df_shops.drop_duplicates(subset=keyid, keep="last", inplace=True)
         return df_shops
+
+__all__ = ["DetailCat","DetailDaily"]

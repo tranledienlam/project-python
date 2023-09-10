@@ -8,7 +8,7 @@ import psutil
 
 import output
 from Categories import Categories
-from Items import DetailCat
+import Items
 
 ### ------- crawl Categories ------
 # Cats = Categories()
@@ -38,9 +38,9 @@ else:
     
 ## crawl từng trang
 # @profile
-def run(path, page):
+def crawl_cat(path, page):
     
-    dataCrawl = DetailCat(path=path,page=page)
+    dataCrawl = Items.DetailCat(path=path,page=page)
         # lưu items
     df_items = dataCrawl.df_items()
     output.to_csv(input_df=df_items,output_csv='items.csv')
@@ -60,22 +60,36 @@ def run(path, page):
     print(f"Used memory: {memory_info.used / (1024**3)} Gb")
     print(f"Free memory: {memory_info.available / (1024**3)} Gb")
     
-pages = random.choice([7,8,9]) # chọn random trong [7-9]
+def crawl_daily(page : int):
+    dataCrawl = Items.DetailDaily(page)
+    
+    df_items = dataCrawl.df_items()
+    output.to_csv(input_df=df_items,output_csv='items.csv')
+    
+    df_shops = dataCrawl.df_shops()
+    output.to_csv(input_df=df_shops,output_csv='shops.csv')
+    
+    
+for i in range(9): # page tối đa 9
+    ## crawl daily
+    processDaily = Process(target=crawl_daily, args=(i,))
+    
+    processDaily.start()
+    processDaily.join()
+    
+    ## crawl cate
+    for index, row in sub.iterrows(): # lặp qua các sub
+        path = row['path']
 
-for index, row in sub.iterrows():
-    path = row['path']
-    if index >=169: #
-        for i in range(pages):
-        ## crawl item lần lượt qua từng subcate
-            processA = Process(target=run, args=(path,i,))
-            # processB = Process(target=run, args=(path,i+range_loop,))
-            
-            processA.start()
-            # processB.start()
-            
-            processA.join()
-            # processB.join()
-        # time.sleep(60)
+        processCat = Process(target=crawl_cat, args=(path,i,))
+        
+        processCat.start()
+        processCat.join()
+        
+        memory_info = psutil.virtual_memory()
+        if memory_info.available / (1024**3) < 2:
+            break
+        
     memory_info = psutil.virtual_memory()
     if memory_info.available / (1024**3) < 2:
         break
