@@ -36,3 +36,5 @@ else:
     output.to_csv(input_df=cats_children, output_csv='categories_sub.csv')
     sub = pd.read_csv(path_dir_out)
 print(sub['itemid'])
+# Lỗi: LookupError when decoding b'{"bff_me with 'Identity': LookupError('unknown encoding: Identity')
+Không tồn tại sản phẩm
