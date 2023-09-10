@@ -64,7 +64,7 @@ pages = random.choice([7,8,9]) # chọn random trong [7-9]
 
 for index, row in sub.iterrows():
     path = row['path']
-    if index >=133: #
+    if index >=169: #
         for i in range(pages):
         ## crawl item lần lượt qua từng subcate
             processA = Process(target=run, args=(path,i,))
@@ -76,4 +76,8 @@ for index, row in sub.iterrows():
             processA.join()
             # processB.join()
         # time.sleep(60)
+    memory_info = psutil.virtual_memory()
+    if memory_info.available / (1024**3) < 2:
+        break
+    
         
