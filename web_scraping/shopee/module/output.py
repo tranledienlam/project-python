@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import time
 # from memory_profiler import profile
 
 # @profile
@@ -41,9 +42,18 @@ def to_csv(input_df: pd.DataFrame, output_csv : str = 'data.csv'):
 
         # Đặt lại cột keyid
         existing_data.reset_index(inplace=True)
-        existing_data = existing_data.rename(columns={'index': keyid})
+        existing_data = existing_data.rename(columns={'index': keyid}) 
+
+        # Xử lý duplicate
+        while existing_data[keyid].duplicated().any():
+            print(f'Xử lý duplicates {output_csv}')
+            existing_data = existing_data.drop_duplicates(subset=keyid, keep='last')
+            existing_data.to_csv(path_dir_out, index=False)
+            time.sleep(3)
+            existing_data = pd.read_csv(path_dir_out, low_memory=False)
         # Export to csv
-        existing_data.to_csv(path_dir_out, index=False)
+        else:
+            existing_data.to_csv(path_dir_out, index=False)
         
     else:
         # Lưu lại dữ liệu mới vào tệp CSV
