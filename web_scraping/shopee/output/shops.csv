@@ -990,7 +990,7 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified,Shopdacbiet,Shopxuhuo
 12754474,HAPPI - Thế Giới VPP,Hà Nội,4.835416,False,1.0,0.0
 467441549,Bống Shop 36,Hà Nội,4.774665,True,0.0,0.0
 222814609,BINTECH 27,Hà Nội,4.736979,True,0.0,1.0
-264419050,Kho Sỉ Hoàng Ngân,Thái Nguyên,4.632547,True,0.0,1.0
+264419050,Kho Sỉ Hoàng Ngân,Thái Nguyên,4.632547,False,0.0,1.0
 777511318,RUBISHOES,Hà Nội,4.822884,True,0.0,0.0
 47462746,Sóc shop 1,Hà Nội,4.701489,True,0.0,1.0
 31214702,ĐỒ DA HANAMAPLUS,Hà Nội,4.622551,False,0.0,1.0
@@ -26726,7 +26726,7 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified,Shopdacbiet,Shopxuhuo
 328331111,XM_Store,Hà Nội,4.557659,True,,
 891230701,Gia Dụng HTV,Hà Nội,4.887097,False,,
 599689646,Yxhome shop,TP. Hồ Chí Minh,4.783972,True,,
-207758235,shopmao1999,TP. Hồ Chí Minh,4.624171,True,,
+207758235,shopmao1999,TP. Hồ Chí Minh,4.624171,True,0.0,0.0
 512069333,Unicare Vietnam,Hà Nội,4.880374,True,,
 38304707,Thùng gỗ Phạm Quân,Hà Nam,4.845938,True,,
 240803623,Đồ Spa Rẻ,Hà Nội,4.713973,False,,
@@ -32227,3 +32227,5 @@ shopid,shop_name,shop_location,shop_rating,shopee_verified,Shopdacbiet,Shopxuhuo
 240635270,shopmengocbong,Bắc Ninh,4.884271,False,0.0,0.0
 704134035,TrunkyBag,Hà Nội,4.834478,False,1.0,0.0
 200629569,EzPet - Thẻ Tên Thú Cưng,TP. Hồ Chí Minh,4.978344,True,0.0,0.0
+724922176,Bum_Sneaker.34,Hải Dương,,True,0.0,0.0
+986740346,Nguyễn Thị Quỳnh ,Bắc Ninh,,False,0.0,0.0

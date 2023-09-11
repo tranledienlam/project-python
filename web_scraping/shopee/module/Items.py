@@ -216,7 +216,6 @@ class DetailDaily:
                 
                 for request in driver.requests:
                     if (str(request.url)).startswith('https://shopee.vn/api/v4/homepage/get_daily_discover?bundle'):
-                        print(request.url)
 
                         response = request.response
                         body = decode(response.body,response.headers.get('Content-Encoding','Identity'))
