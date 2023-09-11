@@ -68,12 +68,13 @@ def crawl_daily(page : int):
     output.to_csv(input_df=df_shops,output_csv='shops.csv')
     
     
-for i in range(1): # page tối đa 9
+for i in range(9): # page tối đa 9
     ## crawl daily
-    processDaily = Process(target=crawl_daily, args=(i,))
-    
-    processDaily.start()
-    processDaily.join()
+    for j in range(5):
+        processDaily = Process(target=crawl_daily, args=((i*5)+j,))
+        
+        processDaily.start()
+        processDaily.join()
     
     ## crawl cate
     for index, row in sub.iterrows(): # lặp qua các sub
