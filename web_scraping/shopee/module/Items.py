@@ -19,6 +19,7 @@ def config_driver():
     options.headless = True
 
     driver = webdriver.Firefox(options=options)
+
     
     return driver
 
@@ -216,7 +217,6 @@ class DetailDaily:
                 
                 for request in driver.requests:
                     if (str(request.url)).startswith('https://shopee.vn/api/v4/homepage/get_daily_discover?bundle'):
-                        print(request.url)
 
                         response = request.response
                         body = decode(response.body,response.headers.get('Content-Encoding','Identity'))
@@ -257,7 +257,7 @@ class DetailDaily:
                             } for i in items_data]
                         df = pd.DataFrame(items)
                         
-                        print(df.head(2))
+                        print(df[['itemid','shopid']].head(1))
                         self.df_details = df
                         
             except TimeoutException:
