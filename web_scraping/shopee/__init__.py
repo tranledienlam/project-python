@@ -73,6 +73,7 @@ def crawl_daily(page : int):
     
     
 for i in range(9): # page tối đa 9
+for i in range(9): # page tối đa 9
     ## crawl daily
     for j in range(10):
         processDaily = Process(target=crawl_daily, args=(i*10+j,))
