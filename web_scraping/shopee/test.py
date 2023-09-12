@@ -24,25 +24,26 @@ from module import Items
 
 # Đọc sub cates từ tệp CSV hiện có:
 path_dir=os.path.dirname(__file__)
-path_dir_out = os.path.join(path_dir,f'output/categories_item copy.csv')
+path_dir_out = os.path.join(path_dir,f'output/items.csv')
 
 if os.path.exists(path_dir_out):
     existing_data = pd.read_csv(path_dir_out, low_memory=False)
+    print(existing_data.loc[existing_data['cat_subid'].isna()])
     # keyid = existing_data.columns[0]
-    keyid = existing_data.columns[0]
-    duplicates = existing_data[existing_data.duplicated(subset=keyid, keep='first')]
-    print('duplicates')
-    print(duplicates)
+    # keyid = existing_data.columns[0]
+    # duplicates = existing_data[existing_data.duplicated(subset=keyid, keep='first')]
+    # print('duplicates')
+    # print(duplicates)
 
-    while existing_data[keyid].duplicated().any():
-        existing_data = existing_data.drop_duplicates(subset=keyid, keep='first')
-        duplicates = existing_data[existing_data.duplicated(subset=keyid, keep='first')]
-        print('duplicates WHILE')
-        print(duplicates)
-        existing_data.to_csv(path_dir_out, index=False)
-        # time.sleep(2)
-        existing_data = pd.read_csv(path_dir_out, low_memory=False)
-        print(existing_data[keyid].duplicated().any())
+    # while existing_data[keyid].duplicated().any():
+    #     existing_data = existing_data.drop_duplicates(subset=keyid, keep='first')
+    #     duplicates = existing_data[existing_data.duplicated(subset=keyid, keep='first')]
+    #     print('duplicates WHILE')
+    #     print(duplicates)
+    #     existing_data.to_csv(path_dir_out, index=False)
+    #     # time.sleep(2)
+    #     existing_data = pd.read_csv(path_dir_out, low_memory=False)
+    #     print(existing_data[keyid].duplicated().any())
     
     # duplicates = existing_data[existing_data.duplicated(subset=keyid, keep=False)]
     # print('duplicates')

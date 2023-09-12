@@ -120,6 +120,7 @@ class DetailCat:
         df_items = self.df_details[[
                             "itemid",
                             "cat_itemid",
+                            "cat_subid",
                             "shopid",
                             "name",
                             "price_min",
@@ -281,6 +282,7 @@ class DetailDaily:
         df_items = self.df_details[[
                             "itemid",
                             "cat_itemid",
+                            "cat_subid",
                             "shopid",
                             "name",
                             "price_min",
