@@ -19,6 +19,7 @@ def config_driver():
     options.headless = True
 
     driver = webdriver.Firefox(options=options)
+
     
     return driver
 
@@ -256,7 +257,7 @@ class DetailDaily:
                             } for i in items_data]
                         df = pd.DataFrame(items)
                         
-                        print(df.head(2))
+                        print(df[['itemid','shopid']].head(1))
                         self.df_details = df
                         
             except TimeoutException:

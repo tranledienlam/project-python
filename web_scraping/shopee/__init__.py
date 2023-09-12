@@ -2,6 +2,7 @@ from multiprocessing import Process
 import pandas as pd
 import os
 import psutil
+import time
 # from memory_profiler import profile
 
 from module import output
@@ -40,6 +41,8 @@ def crawl_cat(path, page):
     
     dataCrawl = Items.DetailCat(path=path,page=page)
         # lưu items
+    print('--> Đang lưu file KHÔNG ĐƯỢC THOÁT')
+
     df_items = dataCrawl.df_items()
     output.to_csv(input_df=df_items,output_csv='items.csv')
     
@@ -61,6 +64,7 @@ def crawl_cat(path, page):
 def crawl_daily(page : int):
     dataCrawl = Items.DetailDaily(page)
     
+    print('--> Đang lưu file KHÔNG ĐƯỢC THOÁT')
     df_items = dataCrawl.df_items()
     output.to_csv(input_df=df_items,output_csv='items.csv')
     
@@ -70,12 +74,14 @@ def crawl_daily(page : int):
     
 for i in range(9): # page tối đa 9
     ## crawl daily
-    for j in range(5):
-        processDaily = Process(target=crawl_daily, args=((i*5)+j,))
+    for j in range(10):
+        processDaily = Process(target=crawl_daily, args=(i*10+j,))
         
         processDaily.start()
         processDaily.join()
-    
+        
+        print("-->Có thể thoát (5s). Nhấn Ctrl + C ")
+        time.sleep(5)
     ## crawl cate
     for index, row in sub.iterrows(): # lặp qua các sub
         path = row['path']
@@ -85,6 +91,8 @@ for i in range(9): # page tối đa 9
         processCat.start()
         processCat.join()
         
+        print("-->Có thể thoát (5s). Nhấn Ctrl + C")
+        time.sleep(5)
         memory_info = psutil.virtual_memory()
         if memory_info.available / (1024**3) < 2:
             break
