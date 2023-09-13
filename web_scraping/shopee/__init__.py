@@ -50,10 +50,6 @@ def crawl_cat(path, page):
     df_shops = dataCrawl.df_shops()
     output.to_csv(input_df=df_shops,output_csv='shops.csv')
     
-    # lưu cates 
-    df_cats = dataCrawl.df_cats()
-    output.to_csv(input_df=df_cats,output_csv='categories_item.csv')
-    
     # Lấy thông tin về bộ nhớ đã sử dụng
     memory_info = psutil.virtual_memory()
     print(f"Percent used: {memory_info.percent}%")
