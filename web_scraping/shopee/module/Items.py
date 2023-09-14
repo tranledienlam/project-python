@@ -35,10 +35,6 @@ class DetailDaily:
         attempts = 0
         while attempts < 2:
             try:
-                # options = webdriver.FirefoxOptions()
-                # options.headless = True
-
-                # driver = webdriver.Firefox(options=options)
                 driver = config_driver()
                 # driver.proxy = {
                 #     'https': 'https://144.49.99.169:8080',
@@ -61,8 +57,7 @@ class DetailDaily:
                         body = decode(response.body,response.headers.get('Content-Encoding','Identity'))
                         decode_body = body.decode('utf8')
                         json_data = json.loads(decode_body)
-                        items_data = json_data['data']['feeds']#['item_card']['item']
-                        
+                        items_data = json_data['data']['feeds']
                         
                         items = [{
                                 "itemid": i['item_card']['item']['itemid'],
@@ -241,7 +236,7 @@ class DetailCat:
                             } for i in items_data]
                         df = pd.DataFrame(items)
 
-                        print(df.head(2))
+                        print(df[['itemid','shopid']].head(1))
                         self.df_details = df
                         
             except TimeoutException:

@@ -64,107 +64,104 @@ def to_csv(input_df: pd.DataFrame, output_csv : str = 'data.csv'):
     print(f"saved to {path_dir_out}")
     return existing_data
     
-
-
-def check_if_lid_exists(keyname, keyid, table, cursor):
-    # Sử dụng câu truy vấn SQL để kiểm tra xem giá trị lid đã tồn tại
-    print(f"SELECT COUNT(*) FROM {table} WHERE {keyname} = {keyid}")
-    cursor.execute(f"SELECT COUNT(*) FROM {table} WHERE {keyname} = {keyid}")
-    count = cursor.fetchone()[0]
-    return count > 0
-
-
-def conn_sqlite(output_sqlite: str):
+class Sqlite:
     
-    # Kết nối đến cơ sở dữ liệu hoặc tạo nếu nó chưa tồn tại
-    curr_dir=os.path.dirname(__file__)
-    parent_dir =os.path.dirname(curr_dir)
-    path_dir_out = os.path.join(parent_dir,f'output/{output_sqlite}')
-    conn = _sqlite3.connect(path_dir_out)
-
-    # Tạo một đối tượng cursor để thực thi truy vấn SQL
-    cursor = conn.cursor()
-
-    # Tạo bảng (nếu nó chưa tồn tại)
-    cursor.execute('''CREATE TABLE IF NOT EXISTS items (
-                        itemid INTEGER PRIMARY KEY,
-                        cat_itemid INTEGER,
-                        cat_subid INTEGER,
-                        shopid INTEGER,
-                        name TEXT,
-                        price_min INTEGER,
-                        price_max INTEGER,
-                        price_min_before_discount INTEGER,
-                        price_max_before_discount INTEGER,
-                        discount TEXT,
-                        historical_sold INTEGER,
-                        liked_count INTEGER,
-                        item_rating_star REAL,
-                        item_rating_count REAL,
-                        item_rating_count_star1 REAL,
-                        item_rating_count_star2 REAL,
-                        item_rating_count_star3 REAL,
-                        item_rating_count_star4 REAL,
-                        item_rating_count_star5 REAL,
-                        item_rcount_with_image REAL,
-                        item_rcount_with_context REAL,
-                        ctime TEXT)''')
-    cursor.execute('''CREATE TABLE IF NOT EXISTS shops (
-                        shopid INTEGER PRIMARY KEY,
-                        shop_name TEXT,
-                        shop_location TEXT,
-                        shop_rating REAL,
-                        shopee_verified INTEGER,
-                        Shopdacbiet INTEGER,
-                        Shopxuhuong INTEGER)''')
-    cursor.execute('''CREATE TABLE IF NOT EXISTS categories (
-                        catid INTEGER PRIMARY KEY,
-                        cat_name TEXT)''')
-    cursor.execute('''CREATE TABLE IF NOT EXISTS categories_sub (
-                        cat_subid INTEGER PRIMARY KEY,
-                        cat_sub_name TEXT,
-                        catid INTEGER,
-                        path TEXT)''')
-    return conn, cursor
-    
-def to_sqlite(input_df: pd.DataFrame, output_sqlite: str, table):
-    conn, cursor = conn_sqlite(output_sqlite)
-    
-    if input_df is None:
-        return None
-    
-    if type(input_df) == list:
-        input_df = pd.DataFrame(input_df)
+    def __init__(self, output_sqlite) -> None:
+        self.conn = None
+        self.cursor = None
+        self.database = output_sqlite
+        self.connect_data()
         
-    # sắp xếp trường của input_df đúng với thức tự database
-    cursor.execute(f"PRAGMA table_info({table})")
-    table_info = cursor.fetchall()
-    table_cols = [x[1] for x in table_info]
+    def connect_data(self):
     
-    placeholders = ', '.join(['?'] * len(input_df.columns))
-    insert_query = f"INSERT INTO {table} VALUES ({placeholders})"
-    for index, row in input_df[table_cols].iterrows():
-        time.sleep(0.1)
-        try:    
-            insert_data = tuple(row.values)
-            cursor.execute(insert_query,insert_data)
-            conn.commit()
+        # Kết nối đến cơ sở dữ liệu hoặc tạo nếu nó chưa tồn tại
+        curr_dir=os.path.dirname(__file__)
+        parent_dir =os.path.dirname(curr_dir)
+        path_dir_out = os.path.join(parent_dir,f'output/{self.database}')
+        self.conn = _sqlite3.connect(path_dir_out)
 
-        except _sqlite3.IntegrityError as error:
-            col_not_none = [f'{keyname} = ?' for keyname in table_cols if row[keyname] != None]
-            str_query = ', '.join(col_not_none[1:])
+        # Tạo một đối tượng cursor để thực thi truy vấn SQL
+        self.cursor = self.conn.cursor()
+
+        # Tạo bảng (nếu nó chưa tồn tại)
+        self.cursor.execute('''CREATE TABLE IF NOT EXISTS items (
+                            itemid INTEGER PRIMARY KEY,
+                            cat_itemid INTEGER,
+                            cat_subid INTEGER,
+                            shopid INTEGER,
+                            name TEXT,
+                            price_min INTEGER,
+                            price_max INTEGER,
+                            price_min_before_discount INTEGER,
+                            price_max_before_discount INTEGER,
+                            discount TEXT,
+                            historical_sold INTEGER,
+                            liked_count INTEGER,
+                            item_rating_star REAL,
+                            item_rating_count REAL,
+                            item_rating_count_star1 REAL,
+                            item_rating_count_star2 REAL,
+                            item_rating_count_star3 REAL,
+                            item_rating_count_star4 REAL,
+                            item_rating_count_star5 REAL,
+                            item_rcount_with_image REAL,
+                            item_rcount_with_context REAL,
+                            ctime TEXT)''')
+        self.cursor.execute('''CREATE TABLE IF NOT EXISTS shops (
+                            shopid INTEGER PRIMARY KEY,
+                            shop_name TEXT,
+                            shop_location TEXT,
+                            shop_rating REAL,
+                            shopee_verified INTEGER,
+                            Shopdacbiet INTEGER,
+                            Shopxuhuong INTEGER)''')
+        self.cursor.execute('''CREATE TABLE IF NOT EXISTS categories (
+                            catid INTEGER PRIMARY KEY,
+                            cat_name TEXT)''')
+        self.cursor.execute('''CREATE TABLE IF NOT EXISTS categories_sub (
+                            cat_subid INTEGER PRIMARY KEY,
+                            cat_sub_name TEXT,
+                            catid INTEGER,
+                            path TEXT)''')
+        
+
+    def to_sqlite(self,input_df: pd.DataFrame, table):
+        
+        if input_df is None:
+            return None
+        
+        if type(input_df) == list:
+            input_df = pd.DataFrame(input_df)
             
-            value = [row[keyname] for keyname in table_cols if row[keyname] != None]
-            update_value = tuple(value[1:]+[value[0]])
-            print(f"update {table} {value[0]}")
-            update_query = f"UPDATE {table} SET {str_query} WHERE {table_cols[0]} = ?"
-            
-            cursor.execute(update_query, update_value)
-            conn.commit()
-        except Exception as error:
-            print(f'to_splite: {error}')
+        # sắp xếp trường của input_df đúng với thức tự database
+        self.cursor.execute(f"PRAGMA table_info({table})")
+        table_info = self.cursor.fetchall()
+        table_cols = [x[1] for x in table_info]
+        
+        placeholders = ', '.join(['?'] * len(input_df.columns))
+        insert_query = f"INSERT INTO {table} VALUES ({placeholders})"
+        for index, row in input_df[table_cols].iterrows():
+            time.sleep(0.1)
+            try:    
+                insert_data = tuple(row.values)
+                self.cursor.execute(insert_query,insert_data)
+                self.conn.commit()
 
-    print('Đã update database')
-    conn.close()
+            except _sqlite3.IntegrityError as error:
+                col_not_none = [f'{keyname} = ?' for keyname in table_cols if row[keyname] != None]
+                str_query = ', '.join(col_not_none[1:])
+                
+                value = [row[keyname] for keyname in table_cols if row[keyname] != None]
+                print(f"updating {table} {value[0]}")
+                update_value = tuple(value[1:]+[value[0]])
+                update_query = f"UPDATE {table} SET {str_query} WHERE {table_cols[0]} = ?"
+                
+                self.cursor.execute(update_query, update_value)
+                self.conn.commit()
+            except Exception as error:
+                print(f'to_splite: {error}')
 
-__all__ = ["to_csv","to_sqlite"]
+        print(f'--> Đã update {table}') 
+    
+
+__all__ = ["to_csv","Sqlite"]

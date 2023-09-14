@@ -20,8 +20,14 @@ from module import Items
 #     "shopid":[37884212320],
 #     "shop_location":[None]
 # })
+output_sqlite = 'database.db'
+sqlite_instance = output.Sqlite(output_sqlite)
+conn, cursor = sqlite_instance.conn, sqlite_instance.cursor
+cursor.execute('''SELECT * FROM categories_sub''')
+read_data = cursor.fetchall()
+print(read_data)
 path = 'Áo-Khoác-cat.11035567.11035568'
 dataCrawl = Items.DetailCat(path=path,page=0)
 df_items = dataCrawl.df_items()
-output.to_sqlite(input_df=df_items, output_sqlite='database.db',table="items")
+sqlite_instance.to_sqlite(input_df=df_items,table="items")
 # print(df_shop)
