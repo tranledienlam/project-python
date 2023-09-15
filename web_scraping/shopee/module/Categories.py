@@ -7,6 +7,18 @@ import json
 import time
 import re
 
+def config_driver():
+    # options = webdriver.FirefoxOptions()
+    # options.headless = True
+
+    # driver = webdriver.Firefox(options=options)
+
+    options = webdriver.ChromeOptions()
+    options.headless = True
+
+    driver = webdriver.Chrome(options=options)
+    
+    return driver
 # Access requests via the `requests` attribute
 class Categories:
     def __init__(self) -> None:
@@ -16,10 +28,8 @@ class Categories:
         while attempts < 2:
             try:
                 # Create a new instance of the Chrome driver
-                options = webdriver.FirefoxOptions()
-                options.headless = True
                 
-                driver = webdriver.Firefox(options=options)
+                driver = config_driver()
 
                 # Go to shopee
                 url = 'https://shopee.vn'

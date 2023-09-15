@@ -6,8 +6,6 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-# from memory_profiler import profile
-
 from datetime import datetime
 import pandas as pd
 import json
@@ -15,13 +13,18 @@ import time
 import re
 
 def config_driver():
-    options = webdriver.FirefoxOptions()
+    # options = webdriver.FirefoxOptions()
+    # options.headless = True
+
+    # driver = webdriver.Firefox(options=options)
+
+    options = webdriver.ChromeOptions()
     options.headless = True
 
-    driver = webdriver.Firefox(options=options)
-
+    driver = webdriver.Chrome(options=options)
     
     return driver
+
 class DetailDaily:
     # @profile
     def __init__(self, page: int = 0) -> None:
@@ -192,7 +195,7 @@ class DetailCat:
                     EC.presence_of_element_located((By.TAG_NAME, 'div'))
                 )
                 
-                time.sleep(7)
+                time.sleep(4)
                 
                 for request in driver.requests:
                 

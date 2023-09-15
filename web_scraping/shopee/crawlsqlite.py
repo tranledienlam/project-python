@@ -73,10 +73,12 @@ def crawl_tosqlite():
         
     memory_available = memory()
     for i in range(9): # page tối đa 9
+        if i <2:
+            continue
         if memory_available < 3:
             break
         ## crawl daily
-        for j in range(10):
+        for j in range(5):
             processDaily = Process(target=crawl_daily, args=(i*10+j,))
             
             processDaily.start()
